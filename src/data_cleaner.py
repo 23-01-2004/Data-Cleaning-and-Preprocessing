@@ -9,7 +9,7 @@ class MedicalDataCleanerAndVisualizer:
     A class to clean complex, uncleaned medical datasets and generate visualizations.
     """
 
-    def __init__(self, input_file='../data/complex_medical_data.csv', output_file='../cleaned_data/cleaned_data.csv', plot_dir='../cleaned_data_visualization/plots'):
+    def __init__(self, input_file='../data/complex_medical_data.csv', output_file='./cleaned_data/cleaned_data.csv', plot_dir='./cleaned_data_visualization/plots'):
         """
         Initializes the data cleaner and visualizer with the input and output file paths.
 
@@ -185,5 +185,5 @@ class MedicalDataCleanerAndVisualizer:
 
 
 # Clean the dataset and create visualizations
-cleaner = MedicalDataCleanerAndVisualizer(input_file='../data/complex_medical_data.csv', output_file='../cleaned_data/cleaned_data.csv', plot_dir='../cleaned_data_visualization/plots')
+cleaner = MedicalDataCleanerAndVisualizer(input_file='../data/complex_medical_data.csv', output_file='./cleaned_data/cleaned_data.csv', plot_dir='./cleaned_data_visualization/plots')
 cleaned_df = cleaner.clean_data()
