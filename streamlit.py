@@ -49,7 +49,7 @@ if st.sidebar.button('Generate Dataset'):
 # Button to clean data
 if st.sidebar.button('Clean Data') and df is not None:
     # Clean the dataset only if it's generated
-    df_cleaned = clean_data(df)
+    df_cleaned = MedicalDataCleanerAndVisualizer(df)
     
     # Show cleaned dataset
     st.write("### Cleaned Dataset Preview", df_cleaned.head())

@@ -1,891 +1,902 @@
 PatientID,VisitDate,Age,Gender,Insurance,MedicalNotes,Temperature,BloodPressure,CBC_Result,Glucose_Result,Cholesterol_Result,ThyroidTest_Result
-H66-8422,2018-06-02,28.0,Male,Medicare,No notes available,97.7,Normal,8.775382606326543,53%,Inconclusive,9.04
-PAT-966,,1.0,Other,Medicare,Patient presents with cough. Diagnosed with Diabetes.,36.0,Normal,< 0.2,4.35,> 6.0,> 10.0
-H99-896,,50.0,Female,nan,Prescribed Ventolin for Hypertension,99.3,Normal,> 7.0,Inconclusive,Positive,6.602609907421492
-PAT-62,2018-04-09,104.0,Other,Private,No notes available,37.5,Normal,7.65,< 1.8,0.96,
-PAT-745,,51.0,Female,Private,DIABETES - fatigue observed,39.6,Normal,1.7481225422519686,1.58,> 6.7,Negative
-PAT-312,,29.0,Other,Medicare,Prescribed Ventolin for Asthma,99.6,Normal,> 9.7,> 7.9,Positive,
-PATIENT_949,,14.0,Male,Private,Patient presents with fever. Diagnosed with Hypertension.,38.1,Normal,< 3.2,1.31,76%,6.85
-P7370,,61.0,Other,nan,Patient presents with nausea. Diagnosed with Hypertension.,101.3,Normal,58%,,1.80,> 6.3
-PATIENT_833,,118.0,Male,nan,History of Hypertension; new symptoms: nausea,38.4,Normal,8.753291889580359,8.745752830993906,> 9.9,7.395271990975695
-H91-8578,,21.0,Female,nan,No notes available,103.0,Normal,36%,> 5.6,Positive,6.105813722676654
-PATIENT_951,2018-08-10,119.0,Other,nan,No notes available,62.24764453961456,131/76,2.21,Negative,< 3.2,> 6.7
-H38-4251,,25.0,Female,nan,Prescribed Lisinopril for Hypertension,37.6,Normal,,,Positive,> 7.2
-PATIENT_186,,,Other,Private,History of Diabetes; new symptoms: cough,104.1,Normal,< 0.4,1.27,> 6.5,1.8562285146440183
-PATIENT_830,,96.0,Male,nan,History of Hypertension; new symptoms: fatigue,39.8,Normal,2.948490595081984,> 7.0,< 1.2,< 2.8
-H77-1635,,,Female,nan,Patient presents with nausea. Diagnosed with Asthma.,37.6,Normal,3.01,,,4.750540750742347
-PAT-407,,52.0,Other,nan,No notes available,102.3,112/80,,Negative,7.42,> 9.3
-PAT-865,2020-03-24,36.0,Male,nan,Prescribed Aspirin for Asthma,62.24764453961456,146/100,5.36,> 7.4,Positive,> 6.6
-P6438,,117.0,Other,nan,HYPERTENSION - pain observed,36.6,Normal,,4.140791646127603,< 2.2,37%
-PAT-617,,,Female,nan,DIABETES - pain observed,37.6,Normal,3.55,28%,3.57,7.91
-H91-802,,119.0,Female,nan,No notes available,103.1,Normal,< 0.8,,Negative,< 4.5
-P1160,2020-08-10,100.0,Other,Medicare,History of COPD; new symptoms: fatigue,39.6,148/92,7.63,99%,,Negative
-PAT-153,2021-04-02,61.0,Female,nan,No notes available,37.4,Normal,Inconclusive,8.55,> 8.6,> 6.0
-P6652,,103.0,Other,nan,History of Diabetes; new symptoms: cough,37.0,Normal,23%,Negative,23%,< 0.8
-nan,,93.0,Female,Private,No notes available,38.9,Normal,< 0.3,Inconclusive,Negative,85%
-PAT-893,,,Male,nan,No notes available,97.7,102/100,> 5.8,> 5.7,Negative,6.438465275141654
-P8393,,17.0,Female,nan,No notes available,103.7,Normal,80%,6.62,84%,
-PATIENT_785,,107.0,Female,Medicaid,ARTHRITIS - fatigue observed,101.4,Normal,,< 3.4,27%,> 8.9
-P1201,,101.0,Male,nan,Patient presents with cough. Diagnosed with COPD.,40.1,Normal,> 6.4,Inconclusive,< 2.7,3.38
-H96-3743,,7.0,Female,Medicaid,Patient presents with nausea. Diagnosed with COPD.,36.5,Normal,4.163926902612128,9.17,< 2.8,< 0.3
-PAT-458,,,Male,nan,Patient presents with nausea. Diagnosed with Hypertension.,37.4,Normal,Negative,Inconclusive,4.90,> 6.7
-PATIENT_819,,108.0,Male,nan,COPD - cough observed,38.4,Normal,22%,Negative,Positive,1.26
-PATIENT_330,,54.0,Male,nan,No notes available,36.2,Normal,6.468431385064198,> 9.0,Positive,0.8684446730915463
-H24-532,,29.0,Other,Medicare,HYPERTENSION - pain observed,35.6,Normal,9.364907392284422,> 10.0,6.986200673023638,7.993551765328273
-PATIENT_189,,88.0,Female,nan,No notes available,36.3,Normal,9.350762826397316,6.65,9.58,4.12
-H68-6720,,,Other,nan,Patient presents with pain. Diagnosed with Asthma.,100.2,172/65,> 6.3,6.10,67%,9.797253085399904
-PATIENT_603,,115.0,Other,nan,Patient presents with fatigue. Diagnosed with Asthma.,39.4,165/84,79%,Inconclusive,7.430842566530727,0.09
-PATIENT_864,,11.0,Male,nan,Prescribed Aspirin for Arthritis,35.5,Normal,9.40,0.5486869242364723,,Negative
-H81-8936,,70.0,Male,nan,Patient presents with fever. Diagnosed with Diabetes.,36.0,Normal,< 3.4,> 5.3,3.86,62%
-PAT-541,,24.0,Other,nan,History of COPD; new symptoms: cough,37.9,Normal,,,Positive,> 9.1
-P2231,,,Male,nan,No notes available,38.4,Normal,1.15,1.0964203130628647,25%,< 0.9
-H14-50,,82.0,Female,nan,No notes available,39.9,Normal,,> 7.4,68%,0.07797977506945108
-H57-5332,,67.0,Female,Private,History of Arthritis; new symptoms: fever,36.8,Normal,25%,46%,1.8784590449253469,
-H42-8362,,42.0,Female,Medicaid,No notes available,38.5,Normal,> 8.1,> 6.0,39%,
-P3888,,112.0,Male,Medicare,Prescribed Metformin for Hypertension,96.3,Normal,Positive,5.174056963577922,< 2.9,< 3.0
-PATIENT_115,,,Other,Medicaid,History of COPD; new symptoms: cough,104.1,Normal,> 9.3,Negative,,< 0.8
-H0-5918,,,Female,Medicare,No notes available,103.8,Normal,> 7.0,23%,> 6.3,8.092126962396346
-H61-2406,,40.0,Male,nan,HYPERTENSION - fever observed,99.9,Normal,7.2935043097981955,71%,< 3.9,4.48
-PAT-972,,80.0,Other,nan,Patient presents with nausea. Diagnosed with Asthma.,103.3,147/66,Positive,Inconclusive,> 8.6,< 3.3
-PAT-266,,12.0,Male,nan,Prescribed Aspirin for Diabetes,97.5,Normal,Negative,> 9.6,< 2.9,
-PAT-742,,103.0,Female,Private,Patient presents with nausea. Diagnosed with Asthma.,37.7,Normal,Negative,4.76,6.6481636193835,> 9.0
-PAT-979,,,Other,nan,Prescribed Aspirin for Hypertension,40.4,Normal,< 0.8,2.73,> 5.2,4.65
-P6101,,,Male,nan,No notes available,39.7,129/95,Inconclusive,,3.62,< 3.6
-H53-8528,,21.0,Male,nan,History of COPD; new symptoms: pain,104.0,Normal,3.85,37%,9.807328903343006,13%
-H31-8269,,24.0,Female,Medicare,No notes available,37.6,Normal,< 2.0,3.92,53%,
-P9355,,47.0,Other,Medicaid,ARTHRITIS - pain observed,37.8,Normal,,,> 7.6,> 5.7
-PAT-723,,49.0,Other,Private,Prescribed Metformin for Diabetes,37.7,Normal,47%,2.9830884353284794,< 3.2,3.76
-P8255,,43.0,Male,Medicare,DIABETES - cough observed,36.6,Normal,> 6.8,Negative,< 4.9,Inconclusive
-H81-2884,2019-10-06,109.0,Male,Medicaid,Patient presents with fatigue. Diagnosed with Arthritis.,38.7,Normal,9.154237910279667,> 8.0,6.405854224519144,3.50
-P1904,,,Other,nan,ASTHMA - cough observed,40.5,Normal,> 6.1,3.51,5.006261572282451,
-P7813,2020-06-01,58.0,Male,nan,No notes available,39.7,Normal,< 1.2,Inconclusive,Inconclusive,
-P8779,,,Male,nan,Prescribed Lisinopril for Asthma,39.6,Normal,98%,Positive,Negative,5.047610592134765
-H98-1629,,92.0,Female,Private,Prescribed Aspirin for COPD,99.8,Normal,1.8078366856986439,,Positive,< 1.7
-P9678,,83.0,Male,nan,No notes available,38.4,Normal,< 0.4,Inconclusive,0.82,> 5.2
-P7107,2020-11-03,,Male,nan,History of Diabetes; new symptoms: pain,96.7,Normal,Positive,14%,3.8615810186259294,Positive
-PAT-425,,,Female,nan,History of Diabetes; new symptoms: pain,38.1,Normal,< 3.6,4.95,21%,< 3.0
-P6132,,25.0,Other,nan,Prescribed Lisinopril for Diabetes,99.4,Normal,< 3.2,> 8.5,> 7.9,< 3.5
-P4253,,119.0,Female,Medicare,No notes available,102.5,Normal,< 0.3,< 1.2,9.18,
-P1554,,57.0,Male,nan,History of Diabetes; new symptoms: fever,35.9,Normal,5.94,> 6.4,9.525021878582361,> 8.6
-P4420,,111.0,Male,nan,ARTHRITIS - nausea observed,40.1,Normal,< 1.0,,,< 4.7
-PATIENT_542,,43.0,Other,nan,No notes available,62.24764453961456,156/89,Inconclusive,5.555192759930869,< 2.2,< 0.3
-PATIENT_159,2017-11-13,25.0,Female,Private,Patient presents with cough. Diagnosed with COPD.,39.6,Normal,> 5.4,> 8.4,Inconclusive,6%
-P2986,,,Male,nan,Patient presents with nausea. Diagnosed with Arthritis.,103.8,Normal,> 5.0,Positive,9.41,24%
-PATIENT_32,,74.0,Male,nan,ASTHMA - cough observed,97.7,Normal,> 5.2,1.459575870248171,< 1.5,77%
-PATIENT_615,,79.0,Female,nan,Prescribed Metformin for Asthma,35.6,Normal,55%,,> 6.7,Inconclusive
-nan,2021-01-12,71.0,Other,Medicaid,No notes available,37.1,Normal,Negative,Negative,< 0.4,Negative
-H50-1351,,65.0,Other,nan,No notes available,37.0,154/64,3.76,0.7457756336460075,51%,46%
-P0569,,,Other,nan,No notes available,36.3,Normal,7.55,< 1.7,Positive,
-P8318,,104.0,Male,nan,No notes available,36.7,Normal,> 9.7,3.67,2.618709034601526,> 7.7
-H32-2505,,,Female,nan,No notes available,36.4,Normal,58%,> 8.1,3.9072404947607065,6.539917073291067
-PATIENT_205,2017-05-05,55.0,Female,nan,Patient presents with nausea. Diagnosed with Hypertension.,39.9,Normal,5.99,21%,59%,17%
-PAT-354,,57.0,Other,nan,No notes available,36.6,Normal,6%,9.44,> 9.1,Positive
-PATIENT_936,2019-10-13,107.0,Male,Medicaid,DIABETES - pain observed,39.8,Normal,9.89,90%,2.44,
-PAT-920,,1.0,Male,nan,Prescribed Lisinopril for COPD,104.3,Normal,< 3.1,Inconclusive,> 8.1,32%
-H50-4491,,28.0,Female,nan,History of Arthritis; new symptoms: cough,103.7,Normal,Negative,Negative,7.691575290482761,> 5.8
-H48-8594,,73.0,Male,nan,No notes available,38.2,Normal,4.821403752551698,> 9.1,4.78,> 9.9
-P9316,,31.0,Female,Medicare,Prescribed Ventolin for COPD,100.8,134/93,3.633364851437193,< 2.7,0.3202888475614918,5.21
-H26-1020,,59.0,Male,Medicaid,No notes available,62.24764453961456,112/68,17%,6.82,> 6.9,
-PATIENT_490,,,Other,Medicaid,Patient presents with fever. Diagnosed with Diabetes.,38.6,Normal,8%,7.184038340596962,> 9.4,4.347683884301391
-PATIENT_582,,118.0,Male,Medicare,No notes available,99.6,Normal,,< 0.4,,4.80
-PAT-884,,19.0,Male,nan,History of Diabetes; new symptoms: nausea,99.8,Normal,,> 8.9,Negative,97%
-H55-239,,64.0,Male,Medicaid,No notes available,35.5,Normal,4.641669544855546,2.7091360141125054,2.7795678628682694,< 0.4
-H74-2538,2020-03-24,4.0,Male,nan,History of Asthma; new symptoms: nausea,35.5,Normal,Negative,> 5.5,< 1.3,23%
-P1184,,56.0,Male,Medicaid,History of Hypertension; new symptoms: fatigue,39.2,Normal,> 8.9,> 7.7,< 2.2,< 3.3
-PATIENT_332,,7.0,Female,nan,Patient presents with nausea. Diagnosed with Diabetes.,98.9,Normal,> 6.2,> 5.4,42%,< 1.5
-PAT-460,,,Other,Medicaid,History of Diabetes; new symptoms: cough,62.24764453961456,Normal,2.657137664821445,,23%,
-H5-3627,,117.0,Female,nan,No notes available,104.9,Normal,< 2.8,4.508619559923824,,8.34557549753718
-P8482,2020-06-04,55.0,Female,nan,No notes available,103.4,Normal,< 1.8,< 1.9,> 7.8,8.35
-PAT-746,,65.0,Male,nan,COPD - fever observed,40.0,Normal,< 0.3,Positive,3.13,Positive
-H84-7701,,70.0,Female,nan,Patient presents with fever. Diagnosed with Diabetes.,37.8,Normal,Inconclusive,5.54,< 3.8,< 1.3
-PATIENT_41,2020-07-13,,Other,nan,Prescribed Lisinopril for Hypertension,101.8,Normal,,> 9.5,Inconclusive,Positive
-PATIENT_458,,104.0,Male,nan,History of Arthritis; new symptoms: fatigue,99.7,Normal,> 6.0,3.738994886500968,> 5.4,55%
-PAT-674,,71.0,Other,nan,History of Hypertension; new symptoms: nausea,38.3,Normal,83%,< 0.9,6.30,
-PAT-224,,,Female,Private,History of COPD; new symptoms: fever,38.3,Normal,Positive,75%,0.8977409194772779,> 5.9
-P1748,,75.0,Male,nan,Patient presents with cough. Diagnosed with Hypertension.,36.4,Normal,< 3.1,73%,,Positive
-P4848,,46.0,Female,Medicaid,HYPERTENSION - pain observed,40.2,109/93,< 2.0,4.49,> 7.5,> 9.4
-P8433,,54.0,Female,Medicare,No notes available,40.1,Normal,4.645623036157085,< 0.8,0.9901603515028734,75%
-PAT-280,,,Male,nan,No notes available,39.7,Normal,0.80,69%,< 2.6,Negative
-H61-103,,13.0,Male,nan,Patient presents with pain. Diagnosed with Diabetes.,39.5,Normal,1.16,83%,,< 0.6
-PATIENT_145,,100.0,Female,nan,Patient presents with fatigue. Diagnosed with Asthma.,62.24764453961456,Normal,17%,Inconclusive,< 2.0,Negative
-H98-7294,,14.0,Female,Private,Patient presents with pain. Diagnosed with COPD.,97.7,173/86,> 7.7,> 5.0,3.0132624632964222,5.628783975095498
-H47-2676,,2.0,Male,nan,COPD - fatigue observed,36.9,Normal,Inconclusive,> 8.4,> 8.0,9.85
-PAT-850,,83.0,Male,Private,ASTHMA - pain observed,62.24764453961456,128/88,31%,< 3.2,Positive,9.15
-P0730,,41.0,Male,Private,DIABETES - nausea observed,100.1,Normal,7.667886462083829,Positive,3.96,Inconclusive
-PATIENT_671,,51.0,Other,nan,COPD - cough observed,96.1,Normal,> 9.9,Positive,6.45,Inconclusive
-P9796,,92.0,Male,nan,No notes available,39.3,Normal,> 9.8,0.36509017714280945,Positive,6.818556402615354
-PAT-114,,24.0,Male,nan,Patient presents with fever. Diagnosed with Diabetes.,37.1,Normal,< 0.3,,78%,
-PATIENT_45,,85.0,Female,Medicare,Prescribed Metformin for Hypertension,62.24764453961456,Normal,8.770151076911127,8.973446321439603,,< 2.0
-H58-9408,,16.0,Other,Medicare,Patient presents with pain. Diagnosed with COPD.,38.8,Normal,,60%,4%,> 7.2
-H96-6224,,89.0,Other,nan,Patient presents with nausea. Diagnosed with Asthma.,38.8,105/98,Positive,< 3.1,,Inconclusive
-H78-323,,25.0,Female,nan,No notes available,35.6,Normal,6.60,2.12,> 9.0,< 2.1
-PAT-220,2021-02-04,93.0,Male,Medicaid,Patient presents with fatigue. Diagnosed with COPD.,39.7,Normal,8.771601975791912,5.34,1.82,Negative
-H71-348,,61.0,Other,Private,Prescribed Lisinopril for Hypertension,62.24764453961456,Normal,7.40,< 3.9,,9.390630647768994
-PATIENT_657,,49.0,Female,nan,ARTHRITIS - cough observed,37.8,Normal,> 8.9,< 2.7,0.90,> 8.2
-PAT-516,,119.0,Other,Medicare,Patient presents with nausea. Diagnosed with Diabetes.,38.9,Normal,1.20,61%,,6.291095905281708
-PATIENT_678,,84.0,Other,Private,No notes available,38.7,Normal,6.93,2.63,< 3.7,Inconclusive
-PATIENT_335,,68.0,Male,Medicare,Prescribed Lisinopril for COPD,35.9,Normal,Positive,0.81,4.80,9.09
-P3655,,,Other,Medicare,COPD - fatigue observed,39.2,Normal,5.53,Positive,25%,< 3.1
-PATIENT_70,,103.0,Female,nan,Patient presents with pain. Diagnosed with COPD.,39.5,Normal,9.82613794192492,1.88,Inconclusive,73%
-nan,2020-03-08,,Female,nan,Patient presents with cough. Diagnosed with Asthma.,99.8,Normal,Negative,Inconclusive,0.41,< 4.1
-H15-1671,,64.0,Male,Medicaid,History of Hypertension; new symptoms: cough,39.7,121/94,Negative,3.54,,Inconclusive
-PAT-811,2017-12-01,53.0,Male,Medicare,No notes available,104.0,Normal,4%,Inconclusive,8.14,Positive
-PAT-664,,,Female,nan,ARTHRITIS - fatigue observed,98.6,Normal,Negative,1.728800754958305,> 6.9,6.80
-PAT-360,,42.0,Male,nan,History of Asthma; new symptoms: cough,39.4,Normal,24%,5.66,> 6.8,> 7.5
-PAT-554,,89.0,Other,nan,Prescribed Metformin for Hypertension,37.9,Normal,8.8511377995239,< 4.1,5.316808725128807,91%
-H3-967,,105.0,Male,nan,Prescribed Aspirin for Asthma,99.8,Normal,9.45,56%,Inconclusive,3.750574956707605
-PATIENT_957,,110.0,Other,nan,No notes available,97.6,Normal,0.05,4.882764466211075,51%,< 4.0
-PAT-915,2018-04-25,,Other,nan,Patient presents with fatigue. Diagnosed with Asthma.,99.0,Normal,9.341213502946106,3.289903748190397,0.17864633810710018,< 1.0
-H28-4650,,33.0,Other,nan,No notes available,103.9,Normal,Positive,> 8.6,1.60,0.90
-nan,2021-01-08,107.0,Female,Private,No notes available,100.7,Normal,3.4936290830775496,6.023648236791905,19%,> 5.9
-H92-4933,,31.0,Other,Medicaid,Prescribed Lisinopril for Diabetes,37.1,Normal,79%,Positive,2.95,4.7576737718294595
-PATIENT_550,,90.0,Female,nan,DIABETES - fatigue observed,97.5,132/83,Negative,5%,Inconclusive,5.11
-PATIENT_964,,78.0,Male,Medicare,Patient presents with cough. Diagnosed with Hypertension.,38.7,122/91,8.43,< 1.0,< 0.2,> 7.9
-P0955,2018-08-21,98.0,Male,Private,COPD - fatigue observed,38.8,Normal,Negative,9.91,7.749212834746137,
-nan,2019-02-18,,Other,Medicaid,No notes available,37.3,127/86,46%,> 8.6,1.49,
-P9725,,35.0,Female,nan,No notes available,96.3,Normal,3.726509897776481,,6.44,0.72
-PATIENT_275,,51.0,Female,Medicaid,Patient presents with nausea. Diagnosed with COPD.,35.7,147/67,2.66,,98%,> 8.8
-PATIENT_16,,85.0,Male,nan,History of Asthma; new symptoms: fever,62.24764453961456,Normal,0.023118581127353766,< 4.9,5.338353312700002,< 3.1
-PATIENT_623,,25.0,Male,Medicare,Patient presents with pain. Diagnosed with Arthritis.,101.7,Normal,2.39,> 6.8,3.05,> 6.1
-P8613,,18.0,Other,Medicaid,Prescribed Aspirin for Arthritis,102.7,166/91,6.40,Inconclusive,,
-PAT-170,,89.0,Male,nan,Prescribed Ventolin for Diabetes,100.5,Normal,> 5.3,5.409743615743407,> 9.8,Inconclusive
-P3205,,,Female,Medicare,Prescribed Aspirin for Diabetes,102.5,Normal,9.986415611702542,> 9.7,Negative,Positive
-H79-3140,,73.0,Other,nan,History of COPD; new symptoms: fever,38.1,Normal,Positive,8.30,> 7.4,
-P9724,,92.0,Other,nan,HYPERTENSION - nausea observed,37.3,Normal,,< 5.0,> 5.4,6.57
-P7479,2020-11-13,49.0,Male,Private,Prescribed Aspirin for COPD,40.3,Normal,> 7.6,< 2.0,41%,> 9.2
-PATIENT_392,,79.0,Female,nan,ARTHRITIS - fatigue observed,104.2,Normal,7.054927634735772,1.28,35%,Positive
-PAT-225,,,Female,nan,Prescribed Ventolin for Arthritis,36.4,Normal,82%,9.378919634786314,6.840269014326711,2.176375374314415
-PAT-539,,38.0,Female,nan,History of Diabetes; new symptoms: cough,37.1,Normal,0.17,Positive,36%,7.797817714788854
-PATIENT_916,,17.0,Female,nan,No notes available,62.24764453961456,Normal,Positive,> 5.1,Negative,2.79
-PATIENT_228,,119.0,Other,Medicaid,HYPERTENSION - pain observed,36.7,Normal,> 8.0,22%,0.29,9.60
-P6590,,67.0,Other,nan,Patient presents with fatigue. Diagnosed with Arthritis.,35.8,Normal,< 0.4,9.05,Positive,40%
-P4780,,115.0,Female,nan,History of Arthritis; new symptoms: nausea,97.5,165/72,Negative,74%,Positive,Positive
-PAT-420,,,Male,nan,No notes available,62.24764453961456,Normal,Positive,,0.5255945440876986,
-PAT-527,,95.0,Male,nan,No notes available,40.3,131/65,,47%,< 0.0,< 2.5
-P2226,,98.0,Female,Medicaid,History of Diabetes; new symptoms: cough,98.9,Normal,8%,8.254851471542224,46%,Negative
-PATIENT_430,,45.0,Female,Private,History of Asthma; new symptoms: fever,39.8,Normal,5.06,Positive,> 5.1,< 1.4
-P8777,2019-05-12,45.0,Other,nan,Patient presents with fatigue. Diagnosed with Arthritis.,100.0,117/88,1.15,,Negative,8.31
-H73-7217,,35.0,Other,nan,Prescribed Ventolin for Asthma,104.1,129/62,> 9.7,< 0.2,2.73,56%
-H94-5058,,18.0,Other,nan,No notes available,38.4,Normal,Negative,,47%,0.80
-H6-8159,,,Other,nan,Prescribed Ventolin for Hypertension,103.2,Normal,5.584120649630988,< 1.5,,5.91
-P9631,,119.0,Other,Private,DIABETES - pain observed,38.4,Normal,< 3.9,< 3.6,< 4.0,0.46
-P7202,,93.0,Male,nan,No notes available,37.7,Normal,4.395495317673981,9.91,> 9.3,Inconclusive
-H9-1435,,25.0,Other,nan,DIABETES - nausea observed,38.8,Normal,Inconclusive,< 3.5,> 5.7,Positive
-PATIENT_545,,82.0,Female,nan,COPD - cough observed,39.8,Normal,,Negative,> 7.2,< 0.2
-H59-7299,,101.0,Female,nan,Patient presents with fever. Diagnosed with Hypertension.,99.0,Normal,Negative,Positive,< 2.8,Inconclusive
-P1513,,19.0,Female,nan,ASTHMA - fatigue observed,38.5,Normal,,Positive,98%,1.2036322667559685
-P0014,,109.0,Female,Medicare,Prescribed Ventolin for Hypertension,103.5,Normal,1.33,> 6.5,6.40,< 4.3
-P1272,,107.0,Female,Medicaid,History of Arthritis; new symptoms: fatigue,37.6,92/92,57%,< 2.7,< 2.6,32%
-PATIENT_513,,,Female,nan,No notes available,38.2,Normal,< 0.9,Negative,> 9.6,
-H90-2162,,65.0,Other,Private,HYPERTENSION - cough observed,35.8,Normal,Negative,3.0705870855789863,> 6.8,Negative
-H18-4261,,112.0,Other,nan,ASTHMA - pain observed,98.3,168/95,Inconclusive,Negative,Negative,< 1.4
-H47-3665,,,Other,nan,Prescribed Metformin for Asthma,36.1,Normal,Positive,7.45,2.74,8.41
-PATIENT_703,,56.0,Female,Private,DIABETES - fatigue observed,39.9,Normal,> 7.0,8.627134059520845,1.94,1.4532206013233406
-PATIENT_391,,117.0,Other,nan,Prescribed Ventolin for Hypertension,36.6,Normal,,9.88,59%,
-H72-5735,,,Male,Medicare,History of Asthma; new symptoms: fatigue,62.24764453961456,Normal,< 4.1,4.640554357522957,46%,> 9.6
-PAT-521,2019-03-20,23.0,Female,nan,History of Asthma; new symptoms: cough,38.7,Normal,6.349305203129467,3.21,< 3.1,0.26
-P2194,,52.0,Female,nan,No notes available,103.2,Normal,6.990298783747434,95%,2.325944520763036,< 3.8
-H18-2607,,100.0,Female,nan,Patient presents with fatigue. Diagnosed with COPD.,38.2,Normal,> 9.8,0.34,< 3.4,< 2.3
-PATIENT_177,2019-07-17,87.0,Other,Medicare,Patient presents with fever. Diagnosed with Hypertension.,97.1,Normal,> 7.5,,Inconclusive,< 0.2
-H9-1221,2021-01-20,44.0,Other,Private,No notes available,36.9,Normal,Inconclusive,5.435208582981691,< 2.9,> 7.9
-P0261,,24.0,Other,nan,No notes available,37.9,Normal,4.371154224210195,> 8.1,6.01,Negative
-P6707,2020-12-29,95.0,Male,nan,Prescribed Ventolin for Arthritis,36.2,Normal,3.14,Inconclusive,,8.367838787892218
-PATIENT_718,,,Male,Medicaid,DIABETES - fatigue observed,39.3,Normal,7.48,Positive,< 4.5,6.29695932775377
-H16-2570,,57.0,Female,Medicaid,Prescribed Metformin for Asthma,104.4,116/71,86%,7.36,> 9.6,61%
-H40-2324,,,Female,Medicaid,History of Arthritis; new symptoms: cough,62.24764453961456,Normal,> 9.0,< 1.6,< 2.0,5.83
-PAT-622,2019-05-14,12.0,Male,nan,ASTHMA - pain observed,62.24764453961456,Normal,> 6.1,24%,< 4.0,< 2.7
-PATIENT_153,,39.0,Male,nan,History of Hypertension; new symptoms: fatigue,37.4,Normal,3.70,> 7.9,,9.76
-PATIENT_378,,117.0,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,104.5,Normal,9.00,< 1.9,3.90,
-PAT-434,,97.0,Male,nan,Prescribed Lisinopril for Arthritis,101.2,Normal,< 4.2,5.205258214363702,44%,2.22
-P2917,,94.0,Male,Medicaid,ARTHRITIS - pain observed,103.7,Normal,Inconclusive,9.24,> 7.5,83%
-P1671,,40.0,Male,Private,Patient presents with pain. Diagnosed with COPD.,62.24764453961456,101/71,,8.40,3.2255950179277137,85%
-PATIENT_846,,15.0,Other,Medicaid,COPD - fatigue observed,38.8,Normal,20%,> 9.2,2.5924746736687987,0.6680688322280137
-PAT-812,,102.0,Male,Medicare,COPD - cough observed,36.8,Normal,3.87,,> 5.8,< 4.4
-P9071,,64.0,Female,Medicare,History of Arthritis; new symptoms: cough,37.8,Normal,< 3.5,9.130212490879654,Positive,89%
-P2135,2020-08-08,0.0,Male,nan,History of COPD; new symptoms: pain,37.1,Normal,53%,> 6.6,,Inconclusive
-H21-4549,,14.0,Other,Private,ARTHRITIS - cough observed,62.24764453961456,Normal,Inconclusive,< 4.4,> 9.5,5.339787355576322
-PAT-223,2018-01-15,68.0,Other,nan,No notes available,37.0,Normal,Inconclusive,42%,> 5.4,5.743229860593595
-H84-9926,,87.0,Male,nan,No notes available,62.24764453961456,Normal,< 2.9,8.446904429450155,,50%
-PATIENT_694,,2.0,Female,Medicaid,ASTHMA - pain observed,97.1,Normal,< 4.1,,< 1.7,32%
-P5446,,61.0,Female,Medicare,COPD - fever observed,38.2,Normal,< 3.7,Positive,5.88,Positive
-PAT-213,,35.0,Male,Private,History of Arthritis; new symptoms: nausea,36.0,166/64,> 7.3,,55%,78%
-PAT-834,,,Male,Medicaid,Prescribed Lisinopril for COPD,39.6,144/95,> 8.4,27%,Positive,Positive
-PAT-70,,,Female,nan,Patient presents with pain. Diagnosed with Diabetes.,36.6,141/83,9.095465558423506,> 7.5,7.785090341397929,Inconclusive
-H88-7344,,98.0,Female,Medicaid,Prescribed Lisinopril for COPD,62.24764453961456,111/100,2.80,20%,3.450010613894304,43%
-PAT-856,,,Female,Medicaid,Prescribed Ventolin for COPD,40.1,Normal,> 8.1,< 0.3,8.633779030818971,2.84
-H66-2529,,6.0,Female,Medicare,No notes available,39.8,Normal,< 4.0,7.204384526917176,6.49400302273854,Inconclusive
-PAT-642,,44.0,Other,Private,History of COPD; new symptoms: pain,35.6,Normal,< 0.5,1.6690941378426194,42%,> 5.6
-P0252,,8.0,Other,Medicaid,No notes available,35.8,Normal,8.974417354381748,Negative,< 1.7,Positive
-H72-8130,,59.0,Female,nan,Prescribed Metformin for COPD,100.7,Normal,7.987843684386399,Positive,> 8.4,8.84
-P9688,2019-11-17,90.0,Female,Medicare,Patient presents with fatigue. Diagnosed with Arthritis.,37.1,Normal,,1.719794632997551,> 6.0,
-PATIENT_141,,47.0,Other,nan,History of Arthritis; new symptoms: nausea,40.4,Normal,> 8.1,Negative,2.543924565653297,
-PATIENT_745,,,Female,nan,Patient presents with pain. Diagnosed with Hypertension.,40.5,149/95,,3.322018006083254,40%,1.11
-H9-5949,,,Male,Private,COPD - cough observed,100.6,Normal,,34%,5.490891100968107,< 2.3
-PATIENT_28,,68.0,Other,Private,Patient presents with nausea. Diagnosed with Asthma.,99.4,Normal,< 4.4,> 6.8,< 4.9,4.26
-nan,2021-01-11,71.0,Male,Medicaid,COPD - fever observed,96.1,Normal,< 5.0,Positive,81%,9.56
-PAT-278,,93.0,Male,nan,Patient presents with fever. Diagnosed with Hypertension.,35.9,Normal,,< 4.7,52%,25%
-PAT-440,,75.0,Female,nan,Patient presents with fatigue. Diagnosed with Hypertension.,37.1,Normal,> 9.7,> 8.6,1.12,> 6.8
-PAT-760,,4.0,Female,Private,HYPERTENSION - cough observed,103.6,163/65,2.04,> 7.9,> 7.2,Positive
-P2366,2018-11-13,51.0,Male,nan,ARTHRITIS - cough observed,40.5,Normal,0.7652897028226391,,> 6.4,20%
-nan,2017-12-24,118.0,Male,nan,No notes available,100.2,Normal,Negative,> 7.4,< 0.6,3.71
-P6026,,117.0,Female,nan,History of Arthritis; new symptoms: cough,39.2,Normal,6.617204781411136,40%,88%,7.0168450530383915
-PATIENT_670,,118.0,Other,Medicare,Prescribed Ventolin for Asthma,101.1,Normal,> 8.1,> 8.2,,27%
-H50-2672,,33.0,Male,Medicaid,No notes available,98.0,Normal,Positive,> 9.5,6.53,6.273607616970958
-PAT-252,,89.0,Female,Medicare,No notes available,97.9,Normal,92%,2.51,7.398906739982177,> 7.6
-H27-1400,,88.0,Female,Private,Prescribed Lisinopril for Arthritis,102.0,Normal,58%,5.367605393779212,4.26,> 5.6
-PATIENT_362,2020-01-07,102.0,Male,Private,Patient presents with fatigue. Diagnosed with Asthma.,62.24764453961456,176/95,< 3.7,> 7.0,Negative,7.8508961387882366
-PATIENT_537,2019-10-27,14.0,Male,Private,Prescribed Ventolin for COPD,98.5,Normal,3.1540426343254966,5.98,8.575641596973254,> 9.8
-PAT-857,,19.0,Other,nan,Patient presents with cough. Diagnosed with Arthritis.,97.6,Normal,9.56319284695007,1%,> 7.5,9.95
-H81-2811,,19.0,Other,nan,Patient presents with nausea. Diagnosed with Asthma.,98.4,Normal,3.6695233487621257,82%,15%,2.2516580535590247
-P6714,,48.0,Male,nan,No notes available,37.4,161/76,,,> 6.2,8%
-H66-6315,,119.0,Female,Medicaid,No notes available,101.2,Normal,,5.07,Positive,0.42
-PAT-389,,88.0,Male,Private,No notes available,36.0,Normal,Positive,Inconclusive,> 8.0,1.666791832367004
-H96-5525,,77.0,Female,Medicaid,COPD - nausea observed,62.24764453961456,Normal,,> 5.1,6%,5.89
-PATIENT_30,,43.0,Male,nan,ARTHRITIS - cough observed,62.24764453961456,158/69,,Positive,,6.049439981027355
-P3054,,55.0,Male,nan,No notes available,39.4,Normal,> 8.5,23%,4.7501120330103905,< 3.1
-PATIENT_624,,86.0,Female,Medicare,No notes available,38.9,Normal,< 2.6,2.96,Inconclusive,
-PAT-972,2018-02-04,,Male,nan,No notes available,40.4,Normal,,> 5.8,5%,Inconclusive
-PAT-470,,85.0,Female,nan,ASTHMA - cough observed,36.6,Normal,> 9.1,< 0.6,,84%
-PAT-329,,48.0,Other,nan,No notes available,37.3,Normal,0.66,12%,,> 9.0
-H45-5810,,106.0,Male,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,101.2,Normal,8.90,3.17,Positive,< 1.6
-H99-9411,,,Other,nan,Patient presents with nausea. Diagnosed with Diabetes.,37.1,Normal,> 8.7,1.25,,< 1.1
-H85-6010,,79.0,Other,Private,DIABETES - cough observed,38.7,Normal,< 2.5,< 1.8,< 3.1,> 7.0
-P5657,,17.0,Female,Private,No notes available,98.0,Normal,,Negative,1.51,52%
-H42-3471,,49.0,Other,nan,History of Asthma; new symptoms: fever,103.7,Normal,Negative,Inconclusive,< 0.5,74%
-P8886,,,Female,nan,HYPERTENSION - pain observed,98.4,Normal,8.51,Negative,1.33,9.206858680031987
-H86-5841,,73.0,Female,nan,Patient presents with cough. Diagnosed with Diabetes.,62.24764453961456,156/98,0.61,4.79,> 5.9,Positive
-PATIENT_666,,13.0,Male,nan,History of Hypertension; new symptoms: nausea,98.6,97/68,> 6.0,Negative,57%,< 2.4
-PATIENT_38,,68.0,Male,Medicaid,Patient presents with fatigue. Diagnosed with COPD.,102.1,114/65,6.98,25%,< 3.0,< 1.9
-PAT-435,,40.0,Male,nan,No notes available,36.3,Normal,Inconclusive,98%,78%,Positive
-P1495,2017-05-01,23.0,Male,nan,History of Asthma; new symptoms: pain,38.1,Normal,,> 8.0,2.4879388308516392,> 8.4
-PAT-173,,,Male,nan,No notes available,36.9,175/93,31%,12%,< 2.9,63%
-P6116,,18.0,Male,nan,History of Diabetes; new symptoms: nausea,35.7,Normal,Negative,> 5.4,32%,7.790400918887168
-PATIENT_752,,86.0,Male,nan,Patient presents with cough. Diagnosed with Asthma.,36.4,Normal,27%,7.20,5.70,0.47
-PAT-553,,,Male,Private,ARTHRITIS - fever observed,40.2,Normal,< 4.6,Inconclusive,51%,4.745478187836777
-PATIENT_489,2017-09-21,,Male,nan,Patient presents with nausea. Diagnosed with Diabetes.,104.2,127/69,> 9.1,Negative,0.06594775603765313,Positive
-PAT-990,,,Female,nan,Patient presents with nausea. Diagnosed with COPD.,35.9,Normal,> 9.4,> 5.1,9.01313485295266,7.7463072001576
-PATIENT_623,2019-06-08,107.0,Male,Medicaid,DIABETES - fever observed,96.3,Normal,49%,1.94,< 1.6,8.86
-PATIENT_470,,76.0,Other,nan,No notes available,96.3,Normal,Inconclusive,8.042880901039455,Inconclusive,
-H50-1419,,98.0,Female,nan,History of COPD; new symptoms: cough,104.1,Normal,< 0.2,< 1.9,> 6.2,3.3139181124883987
-P2845,,41.0,Female,Medicare,No notes available,36.0,Normal,6.62,,,5.7707191578221
-PATIENT_174,,,Female,Medicare,Patient presents with fatigue. Diagnosed with Asthma.,96.4,Normal,0.31,Inconclusive,49%,58%
-H39-8751,,33.0,Other,Private,Prescribed Lisinopril for Asthma,101.1,Normal,Inconclusive,1.702942437635444,Positive,8.973611520126504
-H65-8570,,,Other,Private,Patient presents with fever. Diagnosed with Hypertension.,62.24764453961456,Normal,Negative,,Inconclusive,4.81
-PAT-388,,,Male,Medicare,Prescribed Metformin for Hypertension,39.3,Normal,9.550452529919127,> 5.4,> 9.3,Negative
-P0675,,75.0,Male,Private,No notes available,38.7,Normal,1.24,0.2113389075288863,> 6.1,> 7.3
-PATIENT_12,,71.0,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,62.24764453961456,Normal,Inconclusive,,Inconclusive,< 4.4
-PATIENT_101,,,Male,nan,No notes available,62.24764453961456,140/90,Inconclusive,Negative,< 0.3,0.6607646925542499
-H79-6818,,,Female,nan,Patient presents with fever. Diagnosed with Arthritis.,37.6,Normal,Inconclusive,Positive,0.610347625960943,92%
-P8809,,51.0,Other,nan,Prescribed Ventolin for Asthma,36.0,Normal,6.00,> 7.0,,< 3.9
-H40-7329,,98.0,Male,nan,History of Asthma; new symptoms: fatigue,37.3,Normal,> 7.5,7.3271824012864615,6.38,8.989400966243462
-PAT-110,,42.0,Female,Private,No notes available,99.5,120/99,8.53,< 3.7,> 8.1,< 3.1
-PAT-556,,86.0,Other,Private,COPD - fever observed,39.9,110/64,4.32,> 8.5,< 1.6,
-P5789,,73.0,Female,nan,Patient presents with nausea. Diagnosed with Diabetes.,38.8,Normal,,4%,Negative,47%
-P2672,,101.0,Male,nan,Patient presents with cough. Diagnosed with Asthma.,40.4,91/65,< 2.0,0.68,Inconclusive,9.639753388292286
-PAT-878,,40.0,Other,nan,Prescribed Aspirin for Hypertension,101.4,Normal,65%,,4.399531241986217,9%
-H95-6440,,32.0,Other,Medicare,Prescribed Metformin for Asthma,36.9,Normal,Negative,< 4.8,Negative,> 7.1
-P8659,,80.0,Male,Medicaid,No notes available,36.5,Normal,> 5.1,9.51488033328845,> 7.2,Positive
-H55-1775,,104.0,Female,nan,ASTHMA - fever observed,40.0,Normal,> 9.5,4.60,> 6.6,
-H94-1495,,45.0,Female,Medicare,Patient presents with pain. Diagnosed with Diabetes.,97.3,Normal,6.45,47%,5.373929875043613,> 6.3
-H1-2398,,87.0,Other,nan,Patient presents with pain. Diagnosed with Diabetes.,62.24764453961456,Normal,Inconclusive,8.33,,9.51
-P0158,,96.0,Other,Private,No notes available,39.4,Normal,> 6.2,6.62,4.51,7.98
-P0660,,35.0,Male,nan,No notes available,39.2,Normal,5.761218011491245,Negative,Positive,Inconclusive
-H79-7736,,,Female,Medicaid,COPD - fatigue observed,36.5,166/79,6%,,Negative,2.90
-H60-329,,117.0,Female,nan,History of Hypertension; new symptoms: cough,36.7,Normal,9.363534302005544,4.40,4.06,7.2492839371144715
-PATIENT_905,,48.0,Female,nan,History of COPD; new symptoms: fatigue,102.4,Normal,8.24,< 1.5,< 4.6,7.46
-P5001,,102.0,Male,Medicare,Prescribed Lisinopril for Arthritis,37.0,Normal,< 3.5,1.80,55%,6.56
-P9086,,37.0,Other,nan,Patient presents with fatigue. Diagnosed with Diabetes.,36.7,135/63,67%,< 1.1,0.7792621765185093,5.42
-PAT-167,,114.0,Male,nan,No notes available,101.7,Normal,3.26,8.580390542159353,,6.250523238817386
-P1670,,13.0,Female,Medicaid,Patient presents with nausea. Diagnosed with Arthritis.,98.4,Normal,> 5.5,,< 2.5,9.986235918683112
-H82-217,,11.0,Female,nan,ARTHRITIS - nausea observed,38.3,Normal,7.90,63%,> 5.6,< 1.3
-PAT-657,,27.0,Female,Private,No notes available,102.5,Normal,Positive,Inconclusive,Negative,7.675987558491278
-PATIENT_967,,,Male,Private,Prescribed Lisinopril for Arthritis,36.6,Normal,86%,< 0.2,Positive,7.347527938407575
-PAT-126,,33.0,Female,nan,Patient presents with fever. Diagnosed with Asthma.,38.4,167/60,3.37,< 0.6,2.29,91%
-PATIENT_395,,72.0,Male,Medicare,History of Diabetes; new symptoms: fatigue,101.4,Normal,,,0.4531002750583102,Positive
-PAT-878,2020-03-24,27.0,Female,Private,History of Hypertension; new symptoms: pain,100.6,Normal,> 6.4,> 9.3,< 2.4,9.820850612815697
-P7206,,93.0,Male,nan,Patient presents with pain. Diagnosed with Diabetes.,103.1,Normal,,,89%,< 3.1
-PAT-288,,69.0,Male,Medicaid,Prescribed Lisinopril for Diabetes,103.1,Normal,> 5.5,9.53,13%,> 5.1
-PAT-503,,62.0,Male,nan,Prescribed Aspirin for Diabetes,99.5,Normal,3.9488899884683537,,< 0.8,> 7.3
-PAT-397,2020-03-31,64.0,Other,Medicaid,No notes available,36.3,Normal,Inconclusive,Positive,,5.44
-H5-8084,,93.0,Male,nan,HYPERTENSION - nausea observed,102.6,109/78,54%,< 2.6,Positive,5.716167320792053
-P9601,,22.0,Other,nan,No notes available,37.2,116/74,,71%,41%,< 3.8
-PATIENT_331,,,Male,Medicare,Patient presents with fatigue. Diagnosed with COPD.,37.2,Normal,9.669812539815803,,Inconclusive,6.77
-H48-4241,,3.0,Female,nan,Patient presents with pain. Diagnosed with Arthritis.,40.2,Normal,Positive,7.581398397059077,Positive,> 7.4
-PAT-423,,40.0,Other,Medicaid,Prescribed Metformin for Diabetes,36.4,Normal,1.56,< 1.2,> 7.9,< 0.5
-PAT-802,,87.0,Male,Medicaid,Prescribed Metformin for Asthma,101.1,Normal,94%,2.01,1.04569004755097,54%
-PAT-911,,105.0,Male,nan,COPD - pain observed,102.0,Normal,Negative,Negative,,< 0.5
-P0421,,27.0,Male,nan,No notes available,62.24764453961456,Normal,< 3.6,< 0.3,Positive,1.79
-PAT-722,2020-06-08,,Female,nan,ARTHRITIS - cough observed,104.6,Normal,> 6.4,> 6.6,> 5.9,> 6.7
-P9245,,20.0,Male,Private,Prescribed Ventolin for Diabetes,36.4,Normal,Positive,8.350567321348759,> 8.7,9.54
-PAT-806,,88.0,Female,Private,Patient presents with pain. Diagnosed with COPD.,97.1,Normal,> 7.6,1.74,6.36,2.58960362374724
-H34-7742,2020-05-15,11.0,Other,Medicaid,No notes available,104.8,Normal,49%,< 1.9,Negative,< 1.0
-PATIENT_677,,113.0,Male,nan,Patient presents with fatigue. Diagnosed with Asthma.,38.6,156/70,6.44,5%,> 7.6,Positive
-H67-4398,,38.0,Female,nan,No notes available,39.5,108/79,7.7984988808741456,Negative,43%,Inconclusive
-PATIENT_286,,82.0,Other,nan,History of COPD; new symptoms: nausea,101.7,Normal,Inconclusive,2.6304577648127725,42%,< 3.5
-P7870,,91.0,Male,nan,ASTHMA - fever observed,98.5,Normal,< 3.8,9.332061851630998,Negative,71%
-H78-3555,,114.0,Other,nan,No notes available,102.7,Normal,72%,5.99,> 8.5,< 3.8
-H98-4601,2020-10-08,118.0,Female,Medicare,Patient presents with fatigue. Diagnosed with Hypertension.,36.3,Normal,37%,54%,90%,> 8.3
-PATIENT_460,,56.0,Male,nan,DIABETES - pain observed,36.8,Normal,3.33,9.52,< 2.2,7.519740922333797
-PAT-128,,72.0,Male,nan,HYPERTENSION - pain observed,100.6,Normal,< 3.7,1.00,4.238272468347813,
-PAT-591,,88.0,Other,nan,No notes available,38.6,Normal,Inconclusive,Positive,8.57686223514692,8.719135134845873
-PAT-905,,,Female,nan,History of Diabetes; new symptoms: nausea,96.7,Normal,9.838350491952706,83%,5.19,Negative
-H29-1072,,96.0,Other,Private,ASTHMA - pain observed,62.24764453961456,Normal,,Positive,79%,8.77
-P0076,,25.0,Male,nan,Prescribed Metformin for Arthritis,99.8,Normal,1.31,Negative,< 1.4,1.50
-nan,2017-05-08,94.0,Other,Private,DIABETES - pain observed,38.3,Normal,4.45,Positive,6.778105152985026,7.84
-PATIENT_730,,99.0,Male,Medicare,Prescribed Aspirin for Hypertension,36.1,Normal,Positive,< 0.5,1.696817703384168,9.27
-PAT-414,,52.0,Other,Private,Patient presents with pain. Diagnosed with COPD.,39.7,Normal,8.07,< 2.6,> 7.4,59%
-H26-8817,2019-01-10,,Male,nan,Patient presents with pain. Diagnosed with Arthritis.,98.1,Normal,6.441861705345696,,7%,4.68
-H80-2260,,,Female,nan,History of Diabetes; new symptoms: fatigue,104.3,Normal,Inconclusive,5.73,Negative,3.74
-nan,2018-02-14,,Female,Private,Prescribed Aspirin for COPD,102.3,Normal,,64%,9.639302887355022,> 6.2
-P5145,,102.0,Female,nan,History of COPD; new symptoms: fatigue,62.24764453961456,Normal,9.294802847503293,90%,6.44,> 9.3
-PAT-403,,100.0,Male,Private,No notes available,97.1,Normal,,65%,> 7.8,1.13
-P4874,,29.0,Other,Private,ASTHMA - cough observed,36.6,Normal,9.17,Positive,9.14,2.35
-P3874,,4.0,Male,Private,Patient presents with nausea. Diagnosed with Hypertension.,96.0,Normal,3.44,< 3.7,80%,3.20
-P4421,,42.0,Female,nan,History of Asthma; new symptoms: cough,98.6,Normal,> 9.9,,< 1.7,Inconclusive
-PATIENT_780,,70.0,Female,nan,No notes available,35.7,Normal,Positive,2.01,< 1.6,7.550885671957243
-H53-1675,,75.0,Other,Medicare,COPD - fever observed,104.2,Normal,1.8905577118385586,83%,4.089967890884674,4.25941536212071
-PATIENT_728,2017-09-28,,Female,Medicare,Patient presents with cough. Diagnosed with COPD.,37.5,Normal,1.9257904991841823,,4.27,> 9.1
-H52-7386,,,Female,nan,Patient presents with pain. Diagnosed with Diabetes.,99.8,Normal,< 2.5,< 4.1,9.410236786090806,3.44
-PAT-53,2018-09-17,,Male,Medicare,Patient presents with nausea. Diagnosed with Asthma.,96.3,Normal,7.165047624111662,9.17,2.58,> 9.7
-PATIENT_385,2019-06-03,21.0,Other,Medicare,Patient presents with nausea. Diagnosed with Asthma.,97.8,169/99,< 4.4,7.994360689444066,> 6.5,> 6.1
-P2331,,,Male,Medicaid,History of Diabetes; new symptoms: fever,98.2,Normal,< 0.2,Negative,< 2.6,0.23
-H10-3423,2019-04-18,18.0,Female,Medicare,HYPERTENSION - fever observed,39.0,176/96,5%,< 2.4,Inconclusive,
-P2321,,,Female,nan,Patient presents with pain. Diagnosed with Arthritis.,62.24764453961456,167/68,> 5.2,7.12,> 8.0,< 1.6
-PATIENT_438,,92.0,Male,nan,HYPERTENSION - cough observed,101.7,Normal,> 6.6,3.1918829377540825,< 4.0,7.80
-H61-1908,2019-10-30,,Female,Private,Patient presents with cough. Diagnosed with Asthma.,40.2,Normal,2.78,2.04,28%,27%
-H59-2605,,,Male,nan,COPD - pain observed,39.7,Normal,< 3.5,0.90,1.8982171458728458,24%
-P6235,,,Male,Medicare,No notes available,103.0,Normal,Negative,9.30,46%,5.123738052153231
-P2790,,10.0,Female,nan,ARTHRITIS - nausea observed,99.3,151/64,,0%,Inconclusive,59%
-P0461,,46.0,Other,nan,Prescribed Ventolin for Asthma,62.24764453961456,Normal,0%,< 0.3,> 8.4,6.24
-PATIENT_786,,60.0,Male,nan,Prescribed Ventolin for Arthritis,37.5,Normal,5.838665496046875,69%,< 4.5,> 6.8
-P3267,,69.0,Other,nan,Prescribed Ventolin for Asthma,96.0,Normal,< 2.6,< 3.4,6.061921922530324,> 6.8
-PAT-773,,101.0,Female,Medicaid,No notes available,39.3,122/99,6.5264401453744,< 3.1,67%,1.0574532567640216
-H1-5671,,6.0,Female,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,97.1,Normal,,6.340403545783352,Positive,> 5.3
-P7542,,36.0,Male,nan,No notes available,97.3,Normal,> 5.2,< 4.8,Inconclusive,49%
-PATIENT_812,,9.0,Female,nan,Patient presents with fever. Diagnosed with COPD.,62.24764453961456,174/95,< 1.4,5.662469393192529,Inconclusive,15%
-PAT-178,,26.0,Male,Medicare,Patient presents with nausea. Diagnosed with Arthritis.,100.0,Normal,Positive,4.777938433571607,0.4364332359075984,2.9050469523442057
-H72-1921,,85.0,Female,Medicare,Patient presents with pain. Diagnosed with Hypertension.,35.7,Normal,7.471331985109838,9.11937182489037,3.727451843349386,< 0.7
-PAT-490,,116.0,Female,Medicare,History of Arthritis; new symptoms: cough,99.9,Normal,Inconclusive,0.6121195196302542,1.53,> 5.6
-PATIENT_641,,76.0,Female,Medicaid,ASTHMA - pain observed,102.8,Normal,,< 2.6,0%,
-PAT-654,,40.0,Male,nan,No notes available,35.9,Normal,,Positive,93%,Inconclusive
-P4715,,82.0,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,36.9,Normal,Positive,> 6.0,9.882054938961248,> 8.9
-H75-2858,2018-11-12,16.0,Male,nan,No notes available,62.24764453961456,Normal,19%,> 6.3,58%,8.128948948489594
-PATIENT_627,,51.0,Male,Medicare,HYPERTENSION - cough observed,37.7,Normal,17%,,Negative,
-H41-3721,,,Male,Medicaid,Prescribed Metformin for Diabetes,62.24764453961456,Normal,> 6.4,94%,24%,7.513116635484629
-PATIENT_781,,13.0,Female,nan,History of Arthritis; new symptoms: fatigue,100.2,Normal,Positive,< 4.1,7.86863024791085,1.8806955914164603
-H76-648,,106.0,Female,Private,ARTHRITIS - fever observed,96.5,92/65,,> 6.0,> 9.0,< 4.3
-PATIENT_245,,64.0,Other,nan,History of Arthritis; new symptoms: pain,37.4,Normal,7.83,8.36324177932483,Positive,< 3.3
-PATIENT_15,,,Other,nan,Patient presents with fever. Diagnosed with Asthma.,37.6,Normal,> 5.5,15%,< 0.6,0.5151180244781983
-PAT-241,,112.0,Male,Medicaid,No notes available,38.7,Normal,3.493706780144734,> 6.8,89%,> 6.0
-P0552,,57.0,Female,nan,No notes available,40.4,Normal,86%,44%,> 6.7,
-PATIENT_505,,113.0,Male,nan,History of COPD; new symptoms: pain,39.2,Normal,,96%,> 9.6,> 8.9
-H50-4396,,109.0,Other,nan,ARTHRITIS - fever observed,62.24764453961456,Normal,< 0.7,> 5.3,Inconclusive,31%
-PAT-700,,,Female,nan,Patient presents with fever. Diagnosed with Asthma.,36.9,Normal,> 8.4,3.1973168028330745,61%,6.187368380692427
-P9652,,,Female,Medicaid,History of Hypertension; new symptoms: fever,62.24764453961456,Normal,> 6.1,> 6.6,> 6.8,< 4.1
-H34-2128,,9.0,Other,nan,No notes available,97.8,Normal,< 3.5,> 6.2,6.953429779528855,< 1.3
-PAT-661,,22.0,Male,nan,HYPERTENSION - fever observed,100.4,Normal,74%,15%,> 6.4,Negative
-PATIENT_333,2019-04-13,15.0,Female,Private,Patient presents with fever. Diagnosed with Arthritis.,98.2,Normal,6.55705591364955,94%,< 4.5,Negative
-H47-9780,,58.0,Female,Medicare,No notes available,36.8,Normal,6.0631333417572,< 2.3,28%,< 3.1
-P6715,,,Other,Medicare,No notes available,35.6,Normal,18%,< 1.4,Negative,28%
-H1-1500,,93.0,Male,nan,Patient presents with fever. Diagnosed with COPD.,104.0,Normal,Negative,,4.95,< 2.9
-PATIENT_108,,4.0,Male,Medicaid,Patient presents with fever. Diagnosed with Asthma.,36.1,Normal,83%,90%,< 2.5,< 1.6
-P0325,,22.0,Male,nan,History of Asthma; new symptoms: nausea,40.5,Normal,< 4.1,< 1.1,85%,> 6.1
-PATIENT_463,,52.0,Male,Private,Patient presents with nausea. Diagnosed with COPD.,62.24764453961456,Normal,< 4.8,3.493289614521866,Inconclusive,52%
-PAT-283,2017-06-21,53.0,Female,Medicaid,No notes available,37.6,101/62,0.65,< 1.5,< 1.4,< 1.4
-PATIENT_54,,58.0,Female,nan,History of Diabetes; new symptoms: pain,39.4,Normal,,,> 5.3,6%
-PATIENT_822,2017-06-13,,Other,nan,History of Asthma; new symptoms: fever,103.1,Normal,34%,12%,< 0.8,< 4.1
-P6254,,100.0,Female,nan,ARTHRITIS - pain observed,39.9,Normal,8.26,62%,> 7.4,Negative
-H58-5586,,58.0,Female,Medicare,Prescribed Lisinopril for Asthma,96.0,Normal,,29%,< 0.1,2.64
-P7160,,,Male,nan,No notes available,36.4,92/64,1.1536796977831643,< 0.1,50%,> 8.6
-P8154,,43.0,Female,nan,Prescribed Lisinopril for Asthma,38.1,Normal,,14%,< 1.4,1.817308900114054
-H15-8619,,39.0,Male,nan,No notes available,99.1,Normal,> 6.0,0.33052725566606433,,3.95
-PAT-894,,67.0,Female,nan,Patient presents with cough. Diagnosed with Arthritis.,62.24764453961456,Normal,4.473369311035676,> 7.4,38%,56%
-H92-9509,2018-09-11,36.0,Other,Medicaid,ASTHMA - fatigue observed,100.0,Normal,> 5.5,< 0.5,< 2.4,6.012527561161532
-H68-3469,,109.0,Female,nan,Prescribed Aspirin for Arthritis,38.3,Normal,Negative,5.46,Negative,Inconclusive
-P0937,,33.0,Other,Medicaid,No notes available,35.7,Normal,< 4.4,,8.17,
-PAT-442,,8.0,Female,nan,Prescribed Lisinopril for Asthma,62.24764453961456,Normal,< 1.2,Positive,Inconclusive,9.20347878575812
-H81-8325,,3.0,Other,Private,History of COPD; new symptoms: nausea,99.4,Normal,64%,< 4.6,Inconclusive,Negative
-PAT-690,2020-02-23,63.0,Other,nan,History of Arthritis; new symptoms: cough,98.7,Normal,> 6.4,Negative,87%,67%
-H3-3199,2021-03-15,12.0,Female,Medicare,No notes available,40.0,Normal,Inconclusive,2.7726866665575023,56%,8.490860210581632
-PAT-117,,109.0,Female,nan,Patient presents with cough. Diagnosed with Diabetes.,98.9,Normal,> 6.0,Inconclusive,87%,> 6.9
-PAT-449,,94.0,Female,nan,No notes available,39.8,Normal,> 6.3,< 0.2,1.06,Negative
-H17-9679,,19.0,Female,nan,Patient presents with fever. Diagnosed with Asthma.,101.6,Normal,6.91,Inconclusive,4.43,Inconclusive
-H88-1354,,112.0,Female,Medicaid,History of Arthritis; new symptoms: pain,38.3,128/95,5%,2.62863452997679,> 8.8,Positive
-P1363,,85.0,Male,nan,HYPERTENSION - nausea observed,96.7,Normal,< 1.3,> 6.9,,43%
-PAT-867,,29.0,Male,Private,History of Arthritis; new symptoms: cough,36.9,144/68,,8%,< 3.5,37%
-H40-7244,,27.0,Female,Medicaid,Patient presents with nausea. Diagnosed with Asthma.,104.2,Normal,,7.29253739666052,4.05,Positive
-PATIENT_434,,100.0,Male,Private,Prescribed Lisinopril for COPD,62.24764453961456,Normal,6.488069852138017,> 5.6,2.7335748645825486,15%
-PAT-794,,70.0,Female,Medicare,ASTHMA - fever observed,36.7,Normal,7.95,,43%,> 8.7
-PAT-345,,51.0,Female,nan,Prescribed Metformin for Arthritis,40.0,134/70,9.59,3.00,6.050980218975043,< 0.0
-PAT-20,,115.0,Male,nan,Prescribed Aspirin for Hypertension,62.24764453961456,Normal,5.46,< 3.3,Negative,> 7.1
-P0656,,,Other,Medicare,No notes available,99.1,Normal,4.931103462209876,> 5.4,77%,< 1.3
-PATIENT_120,,104.0,Male,nan,No notes available,36.1,Normal,8%,4.57,0.30315298022088544,4.81
-PATIENT_509,,98.0,Female,Private,Patient presents with fever. Diagnosed with COPD.,100.8,Normal,Negative,7.04333835571455,9.46,35%
-P4774,,62.0,Female,Medicaid,No notes available,39.5,169/63,< 1.4,< 1.2,< 0.8,Inconclusive
-H15-9833,,80.0,Male,Private,No notes available,37.5,Normal,,1.0497630231204003,,1.9545405537661142
-H67-4652,,73.0,Female,nan,Patient presents with pain. Diagnosed with COPD.,40.4,Normal,< 3.1,> 9.8,0.5121742142446772,2.23
-PATIENT_593,,,Female,nan,HYPERTENSION - cough observed,100.0,Normal,> 5.6,> 5.7,1.6456552031707916,Positive
-PAT-896,,83.0,Male,nan,HYPERTENSION - nausea observed,40.3,102/81,9.873904837170516,> 7.0,> 9.8,Negative
-PATIENT_628,,112.0,Female,nan,History of Diabetes; new symptoms: cough,98.6,Normal,> 5.7,9.525124792122112,< 3.5,< 4.0
-PAT-811,2019-05-07,87.0,Male,Medicaid,History of Asthma; new symptoms: fatigue,62.24764453961456,112/80,> 9.3,Inconclusive,< 2.7,53%
-PATIENT_612,,81.0,Female,nan,COPD - cough observed,100.3,Normal,,6.71,87%,Negative
-PATIENT_757,,32.0,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,36.2,Normal,,< 4.9,7.17,> 6.2
-P9172,,32.0,Female,nan,No notes available,40.5,Normal,8.07946988534646,> 5.6,> 5.9,> 5.2
-P5663,,78.0,Other,nan,HYPERTENSION - fatigue observed,37.3,Normal,< 0.7,,6.710778258533994,< 2.6
-H27-5223,,36.0,Male,nan,Prescribed Metformin for COPD,62.24764453961456,128/89,< 4.2,Negative,< 1.9,> 9.5
-H24-9848,,101.0,Other,Medicare,History of Diabetes; new symptoms: fatigue,36.3,Normal,< 2.0,53%,Negative,Inconclusive
-P2374,,59.0,Other,Private,Patient presents with fatigue. Diagnosed with Diabetes.,98.9,Normal,9.738244473909248,79%,Negative,7.938460369951484
-nan,2018-12-06,106.0,Male,nan,ARTHRITIS - pain observed,104.9,127/65,,21%,,27%
-P3588,,109.0,Male,nan,Patient presents with fatigue. Diagnosed with Diabetes.,40.3,Normal,2.999410418055305,< 2.9,< 2.3,< 2.1
-H0-9431,,52.0,Other,Private,No notes available,101.1,Normal,Positive,Negative,9.79,> 7.5
-PAT-24,,44.0,Other,Private,Patient presents with cough. Diagnosed with Asthma.,104.4,Normal,> 9.3,> 7.0,< 4.3,> 6.2
-PAT-753,,,Female,Medicaid,No notes available,39.6,Normal,> 9.0,47%,24%,69%
-PAT-229,,,Female,Medicaid,No notes available,97.9,Normal,> 9.7,< 4.2,< 1.2,3.76
-PAT-856,2021-03-09,34.0,Other,nan,DIABETES - pain observed,39.4,Normal,1.84,> 7.2,> 7.8,Negative
-PATIENT_975,,52.0,Other,nan,ARTHRITIS - fatigue observed,39.7,Normal,> 6.8,Positive,12%,< 0.3
-H23-2136,,22.0,Female,nan,DIABETES - fatigue observed,37.8,177/82,9.70,5.129449099072261,7.6010284748990555,3.481703892436788
-PATIENT_114,,42.0,Female,nan,Prescribed Metformin for Hypertension,36.7,Normal,Positive,94%,Negative,Negative
-H55-8179,,47.0,Other,nan,Patient presents with pain. Diagnosed with Diabetes.,37.1,Normal,28%,Positive,< 3.0,< 1.2
-nan,2018-04-12,42.0,Male,Medicaid,ASTHMA - nausea observed,62.24764453961456,Normal,< 2.6,3.74,5.1688659072537,> 10.0
-H82-9051,,47.0,Female,nan,No notes available,39.2,Normal,< 4.6,Negative,< 3.1,Negative
-PAT-521,,46.0,Female,Medicaid,HYPERTENSION - nausea observed,103.7,Normal,25%,> 9.3,9.70,2.15
-H37-9201,,113.0,Male,Private,Patient presents with fatigue. Diagnosed with Asthma.,36.0,162/78,,< 1.9,5.46,Negative
-P5355,,2.0,Male,Medicare,ASTHMA - fatigue observed,38.7,Normal,,9.41,7.17,76%
-PAT-726,2020-06-15,3.0,Female,Private,Patient presents with cough. Diagnosed with Diabetes.,38.7,Normal,,Negative,> 5.4,
-PAT-582,,0.0,Female,Private,HYPERTENSION - cough observed,37.4,Normal,8.363010815422937,< 1.9,2.0383493918895237,4.702314623264073
-H85-5650,,63.0,Male,Medicaid,Patient presents with fever. Diagnosed with COPD.,37.1,Normal,> 5.0,Positive,1.3585607843711267,14%
-PAT-19,,44.0,Male,Private,DIABETES - fever observed,38.1,113/64,8.79045134341845,> 5.1,Inconclusive,Positive
-PAT-909,,10.0,Male,nan,COPD - cough observed,96.9,141/76,Positive,2.0116495759198982,< 2.8,
-PATIENT_432,,,Female,Private,COPD - fatigue observed,96.2,Normal,> 8.1,13%,> 5.2,3.212309291255816
-PAT-922,2019-12-23,114.0,Male,nan,History of COPD; new symptoms: cough,35.6,Normal,1.39,Negative,< 0.3,Positive
-PAT-653,2017-07-06,57.0,Other,Medicaid,Prescribed Lisinopril for Hypertension,100.7,Normal,< 1.6,,> 5.0,8%
-H86-2651,2019-12-18,,Male,nan,No notes available,36.7,Normal,3.41,Inconclusive,87%,4.47
-PATIENT_928,,26.0,Male,nan,Patient presents with fatigue. Diagnosed with Diabetes.,36.5,Normal,0.15,< 3.3,Negative,28%
-P4947,,28.0,Male,nan,No notes available,104.4,Normal,< 1.7,7.91,,< 2.8
-P4155,,60.0,Female,nan,No notes available,62.24764453961456,Normal,,15%,> 6.9,81%
-PATIENT_950,,75.0,Other,Medicare,Patient presents with fatigue. Diagnosed with COPD.,96.0,Normal,5.66,2.61,Inconclusive,< 3.0
-PATIENT_782,,,Other,nan,No notes available,39.8,Normal,Inconclusive,4.571803895687514,< 3.1,6.021963782898901
-P2247,,81.0,Female,nan,History of COPD; new symptoms: pain,62.24764453961456,Normal,> 8.5,Positive,,< 0.4
-PATIENT_236,2021-04-03,25.0,Male,nan,No notes available,36.9,Normal,1.88,> 8.8,7.873406713187935,4.76
-PATIENT_574,,67.0,Male,nan,ASTHMA - fatigue observed,99.9,Normal,Negative,10%,3%,8.57
-PAT-845,,,Male,nan,HYPERTENSION - fever observed,102.4,117/93,> 6.8,0.923118335890748,> 6.6,92%
-P6441,,79.0,Female,nan,No notes available,101.7,Normal,1.97,< 1.2,< 0.8,3.3786621880600256
-PAT-440,2019-10-19,98.0,Female,nan,Prescribed Aspirin for COPD,96.2,Normal,10%,91%,3.21,Positive
-P9142,2018-08-07,,Female,nan,History of Asthma; new symptoms: pain,39.0,Normal,> 6.0,,7.64,Inconclusive
-PAT-86,,54.0,Female,nan,Prescribed Aspirin for Asthma,38.0,Normal,< 0.7,Positive,Positive,> 9.6
-H84-4866,,,Male,Medicare,No notes available,36.7,Normal,,6.66,4.09,7%
-P5056,,,Male,nan,No notes available,38.4,Normal,,Positive,> 8.9,76%
-P0430,,41.0,Female,Medicare,Patient presents with fever. Diagnosed with Diabetes.,103.2,Normal,> 7.1,7.351321271699445,Inconclusive,Inconclusive
-PATIENT_544,,104.0,Female,nan,History of COPD; new symptoms: fatigue,101.5,163/64,< 1.1,< 0.8,7.6616984253597025,
-H38-1082,,9.0,Other,Medicaid,HYPERTENSION - nausea observed,38.0,Normal,,Negative,94%,28%
-PATIENT_459,,70.0,Male,nan,No notes available,36.4,125/64,Negative,50%,Positive,> 9.0
-H14-9393,,24.0,Other,nan,Prescribed Metformin for COPD,62.24764453961456,103/68,3.4383111311537373,Positive,,Inconclusive
-PATIENT_264,,,Female,nan,History of Diabetes; new symptoms: cough,103.3,Normal,9.53,> 9.2,< 1.8,7.77
-PATIENT_509,2018-08-13,,Other,Private,No notes available,62.24764453961456,Normal,8.53,5.51,< 0.7,Positive
-PAT-481,,70.0,Female,nan,Prescribed Aspirin for COPD,101.7,Normal,0.5978180357281115,< 4.5,,6.38
-nan,2017-07-05,65.0,Female,Private,No notes available,40.4,Normal,,85%,0.2490106965062855,< 2.5
-P6626,,26.0,Male,nan,Prescribed Lisinopril for Diabetes,38.2,Normal,> 9.7,0.7906725553606031,74%,< 4.3
-PAT-721,,,Female,Medicare,Patient presents with pain. Diagnosed with Hypertension.,36.8,96/81,0.20,Positive,0.43659363375913585,7.41
-P7357,,70.0,Male,nan,No notes available,39.1,Normal,69%,97%,0.73,55%
-PAT-740,,53.0,Male,Medicare,No notes available,62.24764453961456,Normal,< 1.9,,2.9196601534563884,3.92
-P7875,,119.0,Female,nan,No notes available,36.5,136/77,,29%,4.704747792711582,Inconclusive
-H19-3973,,119.0,Male,nan,Patient presents with cough. Diagnosed with Asthma.,97.8,130/74,> 9.3,0.8577810419768561,< 3.2,35%
-H13-5578,,84.0,Male,nan,HYPERTENSION - fatigue observed,100.5,Normal,Positive,Negative,< 4.0,> 6.8
-P5536,,1.0,Female,nan,No notes available,36.0,Normal,< 1.7,,2.2431256283601773,> 7.4
-PATIENT_384,,69.0,Male,Medicaid,Prescribed Aspirin for Diabetes,39.8,Normal,Negative,0.7304403335265552,9.684402034496802,13%
-PATIENT_422,,40.0,Male,Private,Patient presents with cough. Diagnosed with Arthritis.,35.6,Normal,2.20,Negative,,1.26
-P5682,,,Male,nan,No notes available,38.1,Normal,Positive,4.265568471542763,6.106576068373584,0.19251553754428996
-P3173,,14.0,Other,nan,No notes available,39.6,Normal,1.75,67%,5.02,Positive
-PATIENT_85,,61.0,Female,Medicaid,No notes available,38.4,Normal,> 9.4,> 7.1,27%,< 2.0
-PAT-496,2019-03-10,107.0,Female,Medicaid,No notes available,99.5,Normal,100%,1.02,< 4.1,9.976406938462057
-PATIENT_381,,,Female,Medicaid,History of Hypertension; new symptoms: fatigue,37.6,130/71,,> 9.0,6.262091463476908,> 5.1
-P7487,,81.0,Female,nan,History of COPD; new symptoms: nausea,102.4,145/84,> 6.0,< 1.8,> 9.9,56%
-PAT-461,,28.0,Male,nan,History of COPD; new symptoms: fever,39.5,101/100,2.56,< 4.9,< 1.4,4.12507958862823
-PATIENT_199,,37.0,Female,nan,No notes available,38.4,Normal,Positive,> 6.8,3%,< 2.3
-PAT-309,,,Other,nan,Prescribed Metformin for COPD,39.2,Normal,,< 0.7,9.806764245745555,> 7.8
-PATIENT_673,,81.0,Other,Private,HYPERTENSION - pain observed,37.4,Normal,,,0.70,94%
-H95-1749,,35.0,Female,nan,Prescribed Aspirin for COPD,103.0,Normal,> 9.4,2.02,Inconclusive,2.1791163800501447
-PAT-509,,,Female,Medicaid,COPD - pain observed,36.9,Normal,> 7.2,63%,Positive,Inconclusive
-PAT-289,,81.0,Other,nan,HYPERTENSION - fatigue observed,38.9,Normal,Inconclusive,2.5205680495543756,1.15,0.43359457792792044
-PAT-292,,,Male,nan,Prescribed Metformin for Asthma,36.3,159/81,6.499101546699024,3.38,< 1.3,7.102024644252326
-PAT-451,,17.0,Female,nan,ASTHMA - cough observed,97.2,135/81,> 7.9,1.31,9.573821284143422,< 3.6
-PATIENT_867,2019-06-29,6.0,Male,nan,No notes available,39.9,Normal,93%,11%,1.35,< 4.6
-H13-5094,,104.0,Male,Medicaid,History of Hypertension; new symptoms: fatigue,62.24764453961456,Normal,7.429583249606541,< 3.0,> 8.4,Positive
-PATIENT_168,,74.0,Female,Medicaid,No notes available,37.6,Normal,84%,< 1.9,0.002091200729631426,Positive
-PATIENT_913,2017-07-01,19.0,Other,nan,Patient presents with fever. Diagnosed with Arthritis.,103.2,Normal,7.628124311221901,> 6.1,6.66,
-PAT-919,,,Other,nan,Prescribed Aspirin for Diabetes,97.2,Normal,5.91,Inconclusive,0.67,8.79
-H43-715,2019-08-23,37.0,Male,nan,History of Diabetes; new symptoms: fever,36.6,Normal,4.460747072349856,Inconclusive,0.86,
-nan,2019-06-04,48.0,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,38.9,Normal,< 0.6,< 0.5,> 9.3,Inconclusive
-PAT-95,,55.0,Other,Private,Patient presents with pain. Diagnosed with Arthritis.,37.9,Normal,1.6251714150970997,Negative,38%,
-PATIENT_317,,67.0,Female,Medicaid,HYPERTENSION - fatigue observed,39.4,Normal,< 1.7,< 0.1,,3.14
-P3919,2018-08-11,,Male,Private,History of Diabetes; new symptoms: nausea,102.6,Normal,7.13,0.14,,1.0933453232766144
-P2335,2021-01-11,,Male,nan,Prescribed Aspirin for Hypertension,36.9,Normal,8.289603054933167,> 5.5,4.40,< 1.8
-P1059,,,Other,Medicare,No notes available,101.9,Normal,1.1271968107953734,,7.124851209187004,Positive
-PAT-439,,,Male,Private,History of Arthritis; new symptoms: fatigue,40.3,131/86,0.8725051475006884,1.695998682655686,4.394911347061052,
-PATIENT_338,,,Male,Private,No notes available,96.0,Normal,> 9.1,,< 4.4,
-H95-9963,,,Female,nan,No notes available,62.24764453961456,Normal,4.133739407542368,> 8.7,3.2100733059254507,Positive
-PATIENT_862,,117.0,Other,nan,No notes available,62.24764453961456,Normal,Negative,> 9.5,,> 5.4
-H36-7260,,19.0,Other,Medicare,Prescribed Metformin for Asthma,103.4,Normal,0.13,> 5.5,< 4.9,6.380437271130263
-H42-1601,,119.0,Male,nan,Prescribed Aspirin for Asthma,101.6,Normal,Negative,Positive,1.0838996153641522,69%
-PATIENT_983,2017-11-28,12.0,Male,Private,Patient presents with fatigue. Diagnosed with Hypertension.,103.5,Normal,> 5.7,< 4.4,1.01,
-H5-1330,,113.0,Female,nan,No notes available,39.4,Normal,> 9.6,27%,> 7.6,
-PAT-292,2018-06-24,55.0,Male,Medicaid,History of COPD; new symptoms: fever,35.8,Normal,,< 4.6,9.256350560758758,4.91017675435455
-P8333,,31.0,Male,nan,Patient presents with cough. Diagnosed with COPD.,99.7,Normal,4.65,,4.544674781325976,> 6.7
-H92-6322,,26.0,Female,Private,Prescribed Aspirin for Arthritis,38.9,Normal,< 3.1,> 8.7,7%,Inconclusive
-PATIENT_483,,96.0,Other,Medicaid,ARTHRITIS - fatigue observed,62.24764453961456,Normal,0.571821911737388,4.541069069185254,2.2426930917559282,3.72
-PAT-502,,42.0,Other,nan,Prescribed Metformin for Hypertension,36.2,Normal,Positive,< 4.2,> 7.2,
-PATIENT_511,,,Female,nan,Patient presents with cough. Diagnosed with COPD.,38.4,Normal,32%,> 8.4,Inconclusive,9.436551737376927
-PATIENT_859,2020-03-30,,Female,Medicare,No notes available,99.4,Normal,Positive,91%,16%,
-PATIENT_850,,22.0,Male,Medicaid,History of Asthma; new symptoms: nausea,98.3,Normal,4.27,9.66,Positive,< 0.0
-P0650,,38.0,Male,Medicare,No notes available,37.0,Normal,Negative,3.043171078790825,1.8248374414028923,Positive
-H23-6839,,84.0,Female,Private,Prescribed Metformin for Arthritis,37.3,Normal,Negative,47%,42%,5.856929180163553
-PAT-8,,84.0,Other,Private,Prescribed Aspirin for Asthma,40.3,Normal,< 4.7,79%,,> 8.1
-H17-5702,2021-05-15,,Other,nan,COPD - fever observed,98.2,Normal,3.76,Positive,< 1.3,Positive
-nan,2019-03-19,17.0,Other,nan,COPD - pain observed,104.4,107/63,,Negative,> 8.2,
-P3440,,75.0,Other,Medicaid,Patient presents with nausea. Diagnosed with Arthritis.,40.1,120/86,4.43,,7.96,< 1.8
-PAT-907,,63.0,Female,Private,Prescribed Aspirin for Hypertension,62.24764453961456,Normal,> 8.7,0.16383512969723624,> 5.1,
-P9453,,1.0,Female,Private,No notes available,39.4,Normal,< 0.2,> 7.1,> 6.4,> 7.2
-P0952,,79.0,Other,nan,Patient presents with fever. Diagnosed with Hypertension.,39.8,Normal,3.38,> 9.6,7.557946138532145,< 4.7
-PAT-396,,36.0,Male,nan,Prescribed Ventolin for Arthritis,102.8,167/89,3.1436642554286442,2.136189215253336,3.8709393432581396,
-PAT-223,,34.0,Male,nan,Prescribed Lisinopril for Diabetes,37.3,Normal,< 4.8,Positive,2.1279901209882546,< 2.0
-PATIENT_255,,8.0,Other,nan,Prescribed Aspirin for Hypertension,62.24764453961456,Normal,< 1.0,> 5.5,9.435941397061784,9.871536694298337
-P8087,,110.0,Male,nan,Prescribed Ventolin for COPD,100.0,Normal,< 2.5,20%,0.24,> 8.0
-H25-5707,,,Female,nan,Prescribed Aspirin for Arthritis,38.6,148/90,< 1.1,Positive,5.008962287229391,4.85
-H37-9071,,32.0,Other,Medicaid,No notes available,40.2,165/78,,6.237150115603173,> 9.2,Negative
-P5611,,49.0,Male,Private,Prescribed Aspirin for Arthritis,39.3,Normal,20%,83%,Positive,30%
-PAT-797,,,Male,Medicaid,Prescribed Lisinopril for Hypertension,36.1,Normal,7.28,84%,0.94,> 9.9
-PATIENT_666,2019-12-20,38.0,Male,nan,Patient presents with fatigue. Diagnosed with Arthritis.,36.2,Normal,,Inconclusive,1.723839767375136,0.8627959399868701
-P5090,,28.0,Female,Medicaid,Patient presents with fatigue. Diagnosed with COPD.,40.4,Normal,91%,> 7.2,< 3.6,
-PAT-363,,36.0,Female,Medicaid,Patient presents with cough. Diagnosed with Asthma.,39.3,Normal,51%,30%,< 1.6,1.14
-H68-5536,,39.0,Female,Private,History of Hypertension; new symptoms: fever,99.1,Normal,5.82,9.39,8.817786706846508,0.49
-H48-4807,,81.0,Female,nan,History of Diabetes; new symptoms: fever,39.5,Normal,6.874151814759241,,> 5.1,91%
-PATIENT_192,,,Female,nan,Patient presents with fatigue. Diagnosed with Hypertension.,36.2,Normal,6.789518850256212,6.733402480995368,4.62,> 6.3
-PATIENT_909,,17.0,Female,nan,Prescribed Metformin for Hypertension,62.24764453961456,92/61,Inconclusive,,< 3.9,Negative
-PATIENT_789,,77.0,Female,nan,ASTHMA - nausea observed,104.3,Normal,8.438768721489858,> 5.3,5.24,
-H38-9666,2020-12-10,,Other,Medicaid,Patient presents with fatigue. Diagnosed with COPD.,37.2,162/73,,2.6545894290406133,4.55,1.59
-H52-4943,,40.0,Female,Medicare,ARTHRITIS - nausea observed,38.2,Normal,,7.7521398004878055,0.7719717595524045,> 8.5
-H19-6399,,45.0,Other,Medicare,Patient presents with fever. Diagnosed with Asthma.,37.5,Normal,> 6.7,59%,73%,> 8.0
-H63-505,,3.0,Male,Medicare,Prescribed Metformin for Arthritis,62.24764453961456,Normal,82%,> 6.0,96%,Inconclusive
-H27-1113,,59.0,Male,nan,No notes available,101.0,Normal,81%,> 8.4,99%,76%
-PAT-258,,91.0,Female,nan,ASTHMA - pain observed,39.1,167/84,2.5076297292400476,< 2.0,< 4.9,8.193826850286458
-H78-9499,,9.0,Other,Medicaid,No notes available,38.1,Normal,0.5423399896096492,8.38,> 8.2,90%
-P4616,2020-04-11,16.0,Other,Medicaid,Patient presents with nausea. Diagnosed with COPD.,99.9,Normal,> 8.7,3.42,Inconclusive,Negative
-PATIENT_336,2017-09-12,15.0,Female,nan,No notes available,99.6,Normal,< 3.7,< 4.1,5.9697265194044205,4.89
-H85-893,,11.0,Other,nan,Prescribed Lisinopril for Asthma,103.7,Normal,8.10,60%,,8.354490690988824
-PATIENT_989,,15.0,Other,Medicaid,Patient presents with fatigue. Diagnosed with Arthritis.,37.6,Normal,< 2.4,,< 2.9,25%
-PAT-707,,,Other,nan,ARTHRITIS - fever observed,96.3,Normal,< 3.9,> 8.4,< 2.3,1.68
-P5363,,56.0,Other,Private,Prescribed Lisinopril for Hypertension,38.0,Normal,< 2.2,0.21198499836112106,4.524062992266503,6.67
-P8710,,97.0,Male,Private,No notes available,39.9,Normal,< 3.0,7.78,> 5.9,
-P4693,,92.0,Other,nan,No notes available,62.24764453961456,Normal,9.75,,< 0.4,2.891094391694792
-PAT-346,,102.0,Male,nan,History of Arthritis; new symptoms: nausea,101.3,Normal,< 3.1,> 6.3,,17%
-P9146,,8.0,Other,Private,Prescribed Lisinopril for Asthma,35.7,165/61,< 3.5,< 3.5,Inconclusive,7.64269819642935
-PATIENT_832,,88.0,Female,nan,Prescribed Ventolin for COPD,62.24764453961456,Normal,0.06339223762505508,21%,2%,< 3.2
-P7498,,75.0,Other,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,35.7,Normal,6.82,,> 5.8,2.8189480766603756
-PATIENT_126,,,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,62.24764453961456,Normal,< 2.6,8.83,33%,Positive
-H95-1413,,15.0,Male,nan,No notes available,38.8,157/89,,< 4.5,,8.440566914321185
-PATIENT_861,2018-11-20,,Male,nan,DIABETES - cough observed,62.24764453961456,Normal,Negative,< 1.7,41%,Positive
-PATIENT_660,,13.0,Female,nan,No notes available,38.5,Normal,> 5.8,< 1.2,37%,9.508744423754724
-PATIENT_947,,41.0,Other,nan,No notes available,36.9,Normal,2.0917391765401847,Inconclusive,Inconclusive,
-P0511,,,Female,Medicaid,Prescribed Lisinopril for Asthma,39.5,105/87,9.957652411604109,Inconclusive,4.50,Inconclusive
-PAT-148,,79.0,Male,nan,No notes available,36.1,Normal,2.64,2.20,78%,4.83
-H75-6129,,29.0,Other,Medicare,No notes available,101.2,Normal,< 2.3,1.4524213770099048,Inconclusive,
-H19-4449,,42.0,Female,Medicare,No notes available,99.6,175/92,< 4.1,71%,0.6320508925129342,2.52
-PAT-63,,81.0,Male,Medicare,History of Asthma; new symptoms: cough,62.24764453961456,Normal,Negative,1.43,9.857663289854088,0.53
-PAT-219,,43.0,Female,Medicare,No notes available,35.8,Normal,7.816846175281164,Positive,> 8.0,6.09
-PAT-748,2018-02-10,,Male,nan,No notes available,101.8,Normal,2.326371578829378,7.89,,Positive
-H93-9952,,30.0,Female,nan,HYPERTENSION - fatigue observed,100.2,111/83,6.20,92%,< 1.2,5.529887748740688
-PATIENT_256,,75.0,Male,nan,No notes available,101.8,Normal,Negative,3.65,,0.54
-H68-27,,117.0,Other,Medicare,Prescribed Metformin for Diabetes,39.4,Normal,,< 1.9,7.704532742183502,9.444697684069075
-PAT-152,,,Female,nan,History of COPD; new symptoms: fever,101.6,Normal,Negative,6.30,Negative,
-PATIENT_448,,79.0,Male,nan,No notes available,36.6,Normal,> 8.4,60%,,9.8310832113184
-PATIENT_904,,54.0,Male,nan,DIABETES - pain observed,103.4,Normal,> 6.2,3.75,< 1.7,< 2.5
-PAT-633,,83.0,Female,nan,History of Hypertension; new symptoms: fatigue,98.1,Normal,7.388319275779484,,7.364860253257797,6%
-PAT-618,2021-03-01,31.0,Other,Medicaid,No notes available,101.7,Normal,7.63,,45%,< 0.9
-nan,2018-03-14,,Male,nan,No notes available,36.5,92/100,Inconclusive,10%,< 3.3,< 4.9
-PAT-651,,90.0,Other,Medicaid,ASTHMA - fever observed,62.24764453961456,Normal,5.51,< 3.1,1.75,
-PAT-263,,90.0,Female,Medicare,No notes available,38.8,159/87,,,6.82,< 2.7
-PAT-457,,118.0,Male,Medicare,No notes available,101.0,Normal,< 1.6,5.91,Positive,< 1.0
-PAT-191,,23.0,Other,nan,No notes available,62.24764453961456,Normal,0.38,< 3.9,6.923398960640862,Negative
-P3216,,,Female,Medicaid,History of Diabetes; new symptoms: fatigue,104.6,Normal,3.23,68%,46%,7.65
-H75-9868,,53.0,Male,Medicaid,ASTHMA - fever observed,104.7,Normal,,2.76,5.879711966609726,
-P9848,,30.0,Other,nan,ASTHMA - pain observed,99.9,Normal,> 6.2,,1.488703486108407,Positive
-PAT-356,,19.0,Male,nan,History of COPD; new symptoms: fever,37.2,Normal,8.13,8.968349725828737,,Positive
-PAT-737,,,Other,nan,Patient presents with pain. Diagnosed with Diabetes.,38.8,Normal,2.939543144687514,,< 3.0,> 5.1
-PATIENT_625,,104.0,Male,nan,Prescribed Lisinopril for COPD,62.24764453961456,Normal,Inconclusive,3.17,> 8.6,> 7.7
-P3216,2018-07-23,,Female,Medicaid,History of Diabetes; new symptoms: fatigue,104.6,Normal,3.23,68%,46%,7.65
-P3534,2020-06-10,26.0,Female,nan,Prescribed Metformin for Hypertension,100.7,Normal,> 9.5,3.82,5.43,Negative
-H56-911,,,Male,nan,History of Hypertension; new symptoms: fatigue,38.0,162/75,Negative,80%,Inconclusive,0.87
-P1771,,,Male,nan,Patient presents with cough. Diagnosed with COPD.,37.2,170/98,3.7287630418614803,,Positive,Positive
-H79-8386,2018-06-15,54.0,Male,nan,Prescribed Ventolin for Arthritis,36.0,Normal,,< 2.4,,Positive
-PAT-722,,78.0,Male,nan,Prescribed Ventolin for Hypertension,98.5,113/81,,,8.112876476262027,83%
-PAT-980,,16.0,Other,nan,DIABETES - nausea observed,37.2,Normal,8.88,> 5.6,2.20,8.895370237377662
-PATIENT_756,,44.0,Female,nan,History of Hypertension; new symptoms: cough,103.4,Normal,3.71,3.01,68%,> 5.3
-PATIENT_76,,8.0,Male,nan,Prescribed Lisinopril for Asthma,101.8,Normal,Negative,Positive,Positive,7.52
-PATIENT_585,,6.0,Female,Private,Patient presents with cough. Diagnosed with Arthritis.,35.7,Normal,> 9.4,58%,> 5.8,> 5.4
-PAT-872,2017-08-06,116.0,Male,nan,History of Diabetes; new symptoms: fatigue,38.0,Normal,6.01,,0%,64%
-P0177,,74.0,Male,nan,Prescribed Aspirin for COPD,62.24764453961456,139/70,2.0198554310673678,5.13863242781529,Negative,2.5065977569324414
-H91-7364,,,Male,Medicare,HYPERTENSION - cough observed,38.0,93/62,< 1.3,0.30,Negative,> 9.4
-H87-9257,,52.0,Male,Private,Prescribed Ventolin for Hypertension,37.2,Normal,> 9.9,> 5.2,< 3.6,< 3.9
-P9251,,42.0,Female,nan,No notes available,37.7,139/60,> 8.5,Inconclusive,7.384622793851118,> 8.9
-P7819,,,Other,nan,Prescribed Lisinopril for COPD,97.5,Normal,,> 6.1,,< 4.0
-P1724,,31.0,Other,nan,No notes available,98.3,Normal,< 1.0,Inconclusive,,4.96
-PAT-922,2018-05-18,114.0,Male,nan,History of COPD; new symptoms: cough,35.6,Normal,1.39,Negative,< 0.3,Positive
-H48-5437,,58.0,Female,nan,No notes available,38.3,Normal,> 6.1,8.719155209735833,Negative,< 3.5
-PATIENT_939,,,Other,Private,Prescribed Ventolin for Diabetes,40.2,Normal,,4.01,7.392591698129181,41%
-PATIENT_679,,38.0,Other,Medicaid,Patient presents with cough. Diagnosed with Arthritis.,39.0,Normal,39%,< 2.6,,47%
-PAT-835,,18.0,Female,Medicare,No notes available,36.6,Normal,> 6.4,> 5.6,37%,6.62
-P1397,,,Female,Medicaid,History of Arthritis; new symptoms: fatigue,39.7,Normal,,Inconclusive,0.95,> 6.5
-PAT-401,,110.0,Other,Private,No notes available,40.2,Normal,9.958001212889867,0.2931253605258688,,50%
-P8713,,16.0,Other,nan,History of COPD; new symptoms: fatigue,38.0,Normal,Positive,6.24,1.00,
-PAT-605,,86.0,Female,nan,No notes available,39.5,Normal,,Negative,46%,96%
-P5439,,,Male,Private,HYPERTENSION - fever observed,62.24764453961456,Normal,< 0.9,> 6.1,90%,< 0.8
-P7148,,73.0,Other,nan,Patient presents with cough. Diagnosed with Asthma.,39.7,Normal,1.1823929147919943,2.2310380118807718,,> 6.9
-PATIENT_151,,0.0,Male,Medicare,Prescribed Ventolin for Hypertension,39.9,Normal,2.50,> 9.5,Inconclusive,< 2.7
-PATIENT_180,,,Male,nan,Prescribed Aspirin for COPD,40.3,Normal,6.13,> 6.6,5.92,< 1.0
-H22-7446,,38.0,Male,nan,Prescribed Lisinopril for Arthritis,40.2,Normal,9.70,25%,1.15,7.20
-PATIENT_239,,18.0,Male,nan,DIABETES - nausea observed,98.0,Normal,22%,> 7.0,Inconclusive,
-PAT-946,,95.0,Female,Medicare,History of Asthma; new symptoms: fever,103.9,Normal,97%,8.46,,4.17
-P3612,,98.0,Other,nan,History of Hypertension; new symptoms: fever,99.6,Normal,< 0.7,> 5.7,< 3.4,< 4.3
-H4-2061,2019-03-05,45.0,Male,nan,History of Arthritis; new symptoms: pain,62.24764453961456,Normal,0.47,< 2.4,Positive,Positive
-PATIENT_10,,5.0,Other,nan,History of COPD; new symptoms: nausea,39.3,Normal,< 1.9,Inconclusive,,2.39
-P8606,2018-04-30,83.0,Male,nan,ASTHMA - cough observed,37.7,Normal,< 1.5,10%,6.890513251907999,Negative
-PATIENT_461,,,Female,Private,No notes available,36.7,Normal,,Inconclusive,5.55,> 7.2
-P1700,,28.0,Female,nan,DIABETES - cough observed,36.7,Normal,> 7.0,2.20,1%,Negative
-H16-5062,,26.0,Female,nan,Prescribed Metformin for Asthma,40.2,Normal,Inconclusive,Positive,< 3.2,Negative
-H8-6795,,5.0,Female,Private,Prescribed Ventolin for Arthritis,98.2,Normal,> 9.8,,> 6.9,26%
-PAT-59,,16.0,Female,Medicaid,Patient presents with cough. Diagnosed with Hypertension.,36.1,Normal,> 5.3,< 4.8,> 7.3,3.34
-PAT-952,2020-11-17,106.0,Female,nan,No notes available,40.1,Normal,,< 0.6,7.042191384118493,Inconclusive
-P5651,,28.0,Male,Private,DIABETES - nausea observed,62.24764453961456,Normal,4.67,4.457436768865634,72%,< 2.1
-PAT-689,,101.0,Male,Medicare,Prescribed Metformin for COPD,100.4,Normal,< 4.8,< 4.6,16%,
-P5995,,10.0,Other,nan,No notes available,97.2,Normal,< 1.0,79%,5.47,> 5.8
-P1866,,18.0,Other,nan,Prescribed Aspirin for Diabetes,96.3,Normal,< 1.6,Positive,3.7741496237515513,18%
-P7716,,52.0,Male,nan,Patient presents with fatigue. Diagnosed with Arthritis.,97.1,152/92,9.544817340304379,,8.65,0.3446576870034923
-PAT-611,,,Male,Private,History of COPD; new symptoms: cough,62.24764453961456,Normal,< 3.8,> 6.6,> 7.8,< 0.5
-H8-9603,,15.0,Female,Private,No notes available,62.24764453961456,Normal,1.64,7.8636325426602305,< 1.7,4.77
-P3666,,107.0,Female,nan,Patient presents with fever. Diagnosed with Asthma.,37.6,Normal,4.20,< 1.5,> 9.2,33%
-nan,2018-11-05,98.0,Other,nan,Prescribed Aspirin for Hypertension,97.0,Normal,,< 1.0,3.05,> 6.7
-PAT-820,,88.0,Female,Medicare,Prescribed Aspirin for Arthritis,39.5,Normal,9%,< 1.6,< 3.3,Negative
-PAT-789,,,Male,nan,No notes available,38.7,Normal,< 4.5,2.7933686276236394,Inconclusive,< 4.9
-H38-3916,,51.0,Other,Medicaid,Patient presents with pain. Diagnosed with COPD.,62.24764453961456,Normal,,> 5.1,3.63,Inconclusive
-H36-2470,,53.0,Male,Private,HYPERTENSION - fatigue observed,40.1,Normal,< 3.3,> 7.0,> 5.9,13%
-P4557,,111.0,Male,Medicaid,No notes available,103.4,Normal,> 6.4,3.36,,
-P8162,,36.0,Female,nan,No notes available,62.24764453961456,Normal,21%,7.23249914098597,8.17,Negative
-PAT-981,2017-06-09,3.0,Male,nan,History of Asthma; new symptoms: fatigue,37.4,Normal,4.134952310372734,< 3.2,,
-PAT-233,,53.0,Other,nan,No notes available,35.9,Normal,58%,5.342862384975914,> 7.7,16%
-PAT-603,,40.0,Female,Private,No notes available,39.8,132/85,2%,24%,2.82,
-PAT-297,,14.0,Male,nan,ASTHMA - cough observed,62.24764453961456,Normal,< 4.9,< 0.7,,0.4397431820426301
-PATIENT_662,,70.0,Female,nan,ASTHMA - cough observed,40.4,Normal,88%,6.77,< 2.8,Inconclusive
-H31-7170,,83.0,Female,nan,History of Arthritis; new symptoms: fatigue,39.9,Normal,18%,,> 7.7,> 9.4
-PATIENT_642,,107.0,Female,nan,No notes available,36.2,Normal,Inconclusive,7.974468565611577,,< 2.7
-PATIENT_405,,119.0,Other,nan,History of COPD; new symptoms: pain,100.3,Normal,< 0.4,2.06,9.99,3.38
-PATIENT_583,,85.0,Male,Medicare,Patient presents with fatigue. Diagnosed with Hypertension.,103.3,Normal,> 5.2,< 2.3,5.085388911700587,6.53
-H13-1775,,81.0,Other,nan,Patient presents with cough. Diagnosed with Arthritis.,97.1,Normal,4.02,6.392436966248315,> 7.5,Inconclusive
-PATIENT_17,,,Female,nan,HYPERTENSION - fatigue observed,38.0,Normal,,34%,< 3.2,Positive
-H98-1102,2019-06-16,24.0,Female,Medicaid,History of COPD; new symptoms: pain,36.8,110/89,Negative,7.53,> 8.0,Negative
-PATIENT_534,,105.0,Other,Medicare,History of Hypertension; new symptoms: cough,97.7,Normal,< 1.9,> 7.3,,< 4.5
-H19-6399,2020-05-30,45.0,Other,Medicare,Patient presents with fever. Diagnosed with Asthma.,37.5,Normal,> 6.7,59%,73%,> 8.0
-H29-197,,93.0,Female,Medicare,Patient presents with fatigue. Diagnosed with Asthma.,38.1,Normal,7.68,> 6.2,< 4.9,Positive
-H53-9833,,106.0,Other,Private,Prescribed Aspirin for Diabetes,103.8,Normal,Negative,0.5597797742754129,,< 1.2
-PATIENT_443,,31.0,Other,Private,COPD - fatigue observed,99.5,Normal,,0.026548139176030272,2.18,< 3.6
-P2027,,,Male,nan,History of Arthritis; new symptoms: pain,36.3,Normal,< 4.3,Negative,8.37,9.84
-PATIENT_268,,,Other,nan,History of Arthritis; new symptoms: pain,40.3,126/65,5.065528623059223,68%,2.68,> 8.5
-PAT-243,,10.0,Female,nan,No notes available,36.5,Normal,,0.81,> 9.3,2.15
-PATIENT_772,,8.0,Female,nan,ASTHMA - nausea observed,100.1,Normal,> 8.9,Inconclusive,< 4.1,30%
-P0578,2019-03-17,20.0,Female,nan,No notes available,39.6,Normal,2.699634790302076,5.57,,< 0.7
-P3201,,111.0,Male,nan,Prescribed Lisinopril for Asthma,100.6,179/78,80%,16%,> 9.7,1.51
-PAT-74,,,Male,Medicaid,No notes available,62.24764453961456,Normal,Inconclusive,> 7.1,Positive,26%
-PATIENT_440,,27.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,36.7,Normal,,< 1.4,< 2.5,5.45
-PATIENT_2,,5.0,Female,nan,Prescribed Ventolin for Hypertension,37.4,171/87,> 9.4,,Positive,
-PAT-684,,36.0,Female,nan,DIABETES - fever observed,101.0,Normal,7.25851603420776,> 9.5,< 4.1,99%
-H31-803,,0.0,Female,nan,Prescribed Ventolin for Diabetes,100.6,Normal,< 3.0,16%,9.977228141797841,2.315477980427707
-P4961,,6.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,62.24764453961456,Normal,< 3.7,Negative,6.091896267133664,> 6.4
-P1341,2019-12-20,4.0,Male,Medicaid,HYPERTENSION - nausea observed,35.7,Normal,,> 9.2,,8.555867518630588
-PAT-309,2019-11-11,99.0,Female,Medicare,Prescribed Lisinopril for Diabetes,39.4,Normal,,Inconclusive,Inconclusive,> 8.9
-PAT-566,2019-01-17,22.0,Male,nan,Patient presents with fever. Diagnosed with Asthma.,36.2,Normal,Negative,0.3678572154959503,65%,34%
-PAT-478,,10.0,Other,nan,Prescribed Aspirin for Hypertension,37.4,Normal,< 4.6,,6.2829330920060675,< 4.7
-P4269,,97.0,Female,nan,HYPERTENSION - fatigue observed,103.5,Normal,,Positive,2.5797831450290234,36%
-PATIENT_836,,93.0,Male,Medicaid,Prescribed Ventolin for COPD,39.3,Normal,< 1.0,98%,Inconclusive,> 6.7
-P5752,,97.0,Female,nan,No notes available,62.24764453961456,Normal,1.2506394671307575,,< 5.0,0.8205323106904727
-P8463,,79.0,Female,Medicaid,No notes available,39.0,Normal,> 9.5,Negative,9.44,
-PATIENT_878,2018-01-24,,Female,nan,ASTHMA - fever observed,38.9,158/62,Positive,,> 8.9,> 6.7
-H95-6800,,,Other,nan,No notes available,40.4,Normal,7.5053241903749335,> 8.5,> 6.3,91%
-PATIENT_407,,,Female,Private,No notes available,104.5,Normal,0.10800103141858086,Inconclusive,< 3.9,Negative
-PATIENT_479,,,Female,nan,Prescribed Metformin for Asthma,95.9,Normal,< 1.8,0.84,4.539968642419815,77%
-P8723,,58.0,Female,nan,Prescribed Lisinopril for Asthma,37.5,Normal,25%,Positive,3.639122336338114,< 0.1
-H56-31,,37.0,Other,nan,Patient presents with cough. Diagnosed with Diabetes.,39.9,Normal,> 7.6,61%,9.394398004448997,5.38
-PATIENT_311,2017-04-29,102.0,Male,nan,ASTHMA - nausea observed,39.5,Normal,1.47,54%,> 9.7,Inconclusive
-P6394,2021-05-11,,Female,nan,ASTHMA - nausea observed,35.9,148/68,0.9501834103446938,,3.70,5%
-PAT-872,,14.0,Female,nan,No notes available,62.24764453961456,Normal,1.0419878157265594,49%,> 9.6,0.17
-P4308,,,Other,nan,No notes available,40.3,Normal,,Positive,4.77,7.241661049514243
-H61-1908,,,Female,Private,Patient presents with cough. Diagnosed with Asthma.,40.2,Normal,2.78,2.04,28%,27%
-P1206,,115.0,Other,Medicare,No notes available,101.1,Normal,> 7.8,Inconclusive,4.778554569968298,6.1970134318043035
-PATIENT_282,,21.0,Other,nan,Prescribed Ventolin for Hypertension,100.8,Normal,Inconclusive,0.1811855643998428,98%,79%
-H51-2736,,36.0,Female,Medicare,History of Hypertension; new symptoms: pain,36.6,Normal,Negative,< 1.3,1.542874868483327,6.36
-H25-7804,,43.0,Female,nan,History of Arthritis; new symptoms: fatigue,37.0,Normal,> 7.9,< 3.5,< 4.0,Negative
-H98-7675,,21.0,Other,nan,Prescribed Aspirin for Arthritis,62.24764453961456,Normal,,0.81,9.135174993183094,Negative
-nan,2020-07-19,58.0,Male,nan,No notes available,62.24764453961456,Normal,5.388734796689494,8.59,4.227076288621465,Negative
-PATIENT_730,2017-09-24,99.0,Male,Medicare,Prescribed Aspirin for Hypertension,36.1,Normal,Positive,< 0.5,1.696817703384168,9.27
-H29-6605,,44.0,Female,nan,Patient presents with fatigue. Diagnosed with Hypertension.,35.8,Normal,,> 9.7,31%,20%
-P8168,,113.0,Male,nan,DIABETES - nausea observed,101.2,105/84,6.968351857616777,,> 9.1,Negative
-PATIENT_920,,102.0,Other,nan,ARTHRITIS - fever observed,37.3,Normal,> 9.7,3.527313649858337,24%,17%
-H53-6554,,30.0,Female,Private,Patient presents with cough. Diagnosed with Diabetes.,35.7,Normal,< 0.5,33%,3.560044269505042,
-PATIENT_118,,,Other,nan,No notes available,36.3,Normal,95%,9.26,65%,> 6.5
-P8770,2017-06-29,119.0,Female,nan,No notes available,38.2,Normal,79%,,5.52,6.37
-P9125,,1.0,Female,Medicare,No notes available,39.1,Normal,6.36,< 0.6,,37%
-PAT-645,,111.0,Male,nan,Prescribed Lisinopril for Asthma,39.7,Normal,Positive,7.665622571415359,Inconclusive,8.16
-P1065,,,Other,Private,No notes available,36.7,Normal,< 2.8,33%,< 2.0,> 8.9
-H34-6130,,58.0,Male,nan,History of COPD; new symptoms: fever,37.3,Normal,4.744323173707303,< 2.1,> 7.2,< 2.1
-P1018,,8.0,Other,Private,COPD - fatigue observed,35.8,Normal,,< 2.6,2.3725878175106505,4.205553685601442
-PATIENT_212,,112.0,Female,Private,Prescribed Aspirin for Diabetes,38.9,Normal,5.69,4.255145159379774,3.735011303261311,2.6043811308029143
-P8017,2021-03-23,112.0,Female,Private,DIABETES - cough observed,62.24764453961456,Normal,Inconclusive,< 0.7,> 7.9,> 5.4
-PAT-511,,,Female,nan,No notes available,62.24764453961456,Normal,,> 6.2,> 8.4,74%
-PAT-464,2017-11-18,35.0,Female,nan,Prescribed Metformin for Diabetes,39.7,Normal,8.59,1.0292799991303248,> 7.8,> 5.4
-PATIENT_134,,28.0,Other,Medicare,Prescribed Lisinopril for Asthma,40.1,Normal,Inconclusive,8.02,,Inconclusive
-P9497,2018-03-21,6.0,Male,nan,No notes available,38.1,Normal,7.12,> 5.3,Negative,56%
-P9708,,72.0,Female,nan,Prescribed Aspirin for Diabetes,40.1,Normal,6.358536246869058,9%,> 7.4,
-H82-1305,,96.0,Male,Medicare,Prescribed Lisinopril for COPD,104.8,Normal,5.569415595672408,Negative,,> 7.1
-P2199,2020-01-12,50.0,Other,Medicaid,Prescribed Lisinopril for COPD,38.1,Normal,8.08629828159619,Negative,Positive,54%
-PAT-666,,61.0,Other,nan,Patient presents with nausea. Diagnosed with Diabetes.,98.8,Normal,5.695477109064825,,21%,7.587025718755662
-P7064,,23.0,Other,Medicare,Patient presents with cough. Diagnosed with Hypertension.,104.4,100/99,Negative,5%,> 6.9,> 6.0
-P0248,2020-09-13,118.0,Male,Private,History of COPD; new symptoms: fever,38.4,116/83,Positive,Negative,Positive,3.53
-PATIENT_413,2017-12-09,88.0,Other,nan,Prescribed Metformin for Diabetes,40.1,Normal,83%,< 1.2,> 7.7,3.2000979053063494
-nan,2019-12-20,30.0,Female,Medicaid,Prescribed Ventolin for Asthma,62.24764453961456,Normal,7.380640699815771,> 5.4,2.1876362013631576,> 8.7
-H57-6564,,102.0,Male,nan,No notes available,97.3,Normal,,1%,Negative,91%
-P2455,,104.0,Female,nan,No notes available,37.2,Normal,Inconclusive,Positive,7.20,95%
-PAT-624,,10.0,Other,Medicaid,No notes available,104.5,Normal,9.59,Inconclusive,> 8.6,0.95
-P3355,,44.0,Female,nan,No notes available,96.4,Normal,8.59,8.737920917128047,> 7.4,
-P2408,2017-04-12,88.0,Male,Medicare,Patient presents with fever. Diagnosed with Hypertension.,40.1,155/100,4.275937593596413,,,9.185104047693484
-H82-6778,,118.0,Male,nan,History of Hypertension; new symptoms: nausea,35.9,Normal,6.89,> 7.9,> 5.5,< 4.8
-PATIENT_965,,102.0,Male,nan,No notes available,35.7,Normal,< 4.4,> 8.5,Positive,Positive
-H24-3640,,34.0,Other,Medicaid,Patient presents with cough. Diagnosed with Arthritis.,98.8,Normal,81%,> 7.4,61%,3.429234037964193
-H0-5918,2020-03-21,,Female,Medicare,No notes available,103.8,Normal,> 7.0,23%,> 6.3,8.092126962396346
-H14-7017,,106.0,Other,nan,Prescribed Lisinopril for Hypertension,62.24764453961456,Normal,Positive,> 9.4,< 0.8,6.200208371166898
-PATIENT_894,2021-01-19,113.0,Female,Private,History of COPD; new symptoms: cough,39.8,Normal,9.60,,0.6156311352516197,1.4389944729910176
-PAT-400,,76.0,Male,nan,History of Diabetes; new symptoms: fever,38.2,Normal,< 4.5,2.27,> 10.0,< 1.4
-PATIENT_557,,,Other,Medicare,Prescribed Metformin for Hypertension,35.9,Normal,Negative,34%,,9.420456979135437
-P8923,,,Female,Medicaid,ARTHRITIS - nausea observed,37.7,Normal,2.64,7.95,8.46,0.47
-H60-380,2017-05-06,106.0,Other,Private,History of Diabetes; new symptoms: pain,37.6,Normal,55%,Positive,< 1.7,24%
-H61-6907,,56.0,Other,nan,No notes available,37.0,Normal,46%,> 7.3,33%,
-PAT-529,,38.0,Other,Medicaid,ARTHRITIS - fatigue observed,35.8,151/64,< 1.5,,> 8.3,3.837064923650181
-PATIENT_218,,118.0,Other,Private,Prescribed Ventolin for Arthritis,36.3,118/97,Positive,< 4.1,56%,1.8348353791853023
-PATIENT_719,,75.0,Female,Private,Prescribed Lisinopril for Hypertension,37.1,105/93,Inconclusive,< 1.4,Negative,> 9.4
-H42-3123,2017-08-09,2.0,Male,Medicaid,No notes available,38.7,Normal,< 0.2,Positive,0.64,< 4.2
-H33-6003,,13.0,Female,Medicare,Prescribed Aspirin for COPD,36.4,Normal,0.3582978885158805,< 2.5,Positive,9.98
-H35-2928,,33.0,Other,nan,Prescribed Lisinopril for Hypertension,39.6,Normal,< 4.1,,> 7.8,0.51
-PATIENT_364,,15.0,Male,nan,Prescribed Metformin for Diabetes,35.5,Normal,0.6135505286631948,6.19,2.51,< 1.4
-PAT-384,,28.0,Female,nan,Prescribed Lisinopril for Arthritis,98.1,Normal,< 0.5,< 0.5,6.467012399565409,5.839212974364363
-PATIENT_112,,3.0,Female,Medicaid,No notes available,97.3,Normal,48%,> 6.2,5.710710392905781,< 4.3
-P3251,,,Male,Private,COPD - pain observed,37.0,Normal,35%,Negative,> 6.2,Positive
-nan,2019-03-03,102.0,Female,Private,No notes available,39.4,Normal,,< 3.9,> 6.2,> 8.2
-H63-7452,,75.0,Female,Private,Prescribed Aspirin for Diabetes,62.24764453961456,Normal,< 4.2,41%,Negative,6.976557602956509
-P2140,,,Other,nan,Patient presents with fever. Diagnosed with Arthritis.,102.6,Normal,< 3.4,7.778990170912063,93%,7.160081496647448
-PAT-201,,77.0,Female,Medicaid,History of Arthritis; new symptoms: cough,36.0,Normal,Negative,5.00,2.59,
-PATIENT_779,,60.0,Female,nan,Prescribed Lisinopril for Diabetes,97.3,Normal,94%,,> 7.9,6.03
-P9296,,26.0,Male,Private,No notes available,36.0,Normal,Positive,97%,Positive,Inconclusive
-P0407,,36.0,Female,nan,ARTHRITIS - pain observed,62.24764453961456,Normal,Negative,< 1.6,4.509102654467516,
-PAT-473,,81.0,Male,Medicare,Prescribed Aspirin for Arthritis,97.8,Normal,8.918710151697006,5.10,17%,< 5.0
-PAT-249,,24.0,Male,nan,No notes available,99.1,149/89,5.36,97%,53%,3.4312198286925466
-PATIENT_129,,111.0,Female,Medicare,Prescribed Metformin for Arthritis,98.3,Normal,0%,,1.9419385644260434,< 0.3
-H20-5836,,98.0,Female,Medicare,Patient presents with pain. Diagnosed with Hypertension.,99.8,Normal,29%,,3.5409581881082133,1.31
-PATIENT_857,,56.0,Female,nan,Prescribed Lisinopril for Diabetes,38.1,Normal,> 5.4,72%,< 1.4,Positive
-PAT-882,,89.0,Male,Medicare,ASTHMA - pain observed,38.8,Normal,75%,0.02,4.83,3.688309353632736
-PATIENT_765,2019-04-24,43.0,Female,Medicare,History of Asthma; new symptoms: fever,37.0,Normal,> 9.5,40%,,> 9.1
-H80-1605,,104.0,Male,nan,No notes available,40.0,117/84,6.68,9.573880511886788,< 1.5,17%
-P8165,,100.0,Male,Medicare,Patient presents with cough. Diagnosed with COPD.,104.1,174/75,> 8.7,2.69,> 9.4,95%
-P5073,,,Female,nan,Patient presents with fever. Diagnosed with COPD.,38.1,Normal,6.77,,> 7.9,3.77
-PATIENT_139,,,Female,Private,No notes available,100.3,Normal,,< 1.9,> 7.7,15%
-P4627,,,Female,Private,History of Hypertension; new symptoms: cough,97.6,Normal,< 2.6,Inconclusive,< 0.2,7.05
-PAT-593,,28.0,Male,nan,History of Asthma; new symptoms: fatigue,38.0,Normal,,6.34,9.10458975055083,3.760611232418831
-H68-7205,,27.0,Other,Medicare,No notes available,36.7,Normal,38%,5.564637318867154,68%,> 5.4
-PATIENT_936,,107.0,Male,Medicaid,DIABETES - pain observed,39.8,Normal,9.89,90%,2.44,
-H40-7196,,0.0,Male,nan,COPD - fever observed,36.7,Normal,> 5.2,84%,Negative,5.12657335488934
-PATIENT_742,2021-03-01,62.0,Other,Private,Prescribed Lisinopril for Asthma,62.24764453961456,Normal,Negative,,71%,77%
-H79-4958,,12.0,Other,Private,No notes available,99.4,Normal,7.772821366920563,< 0.7,9.856826360791777,< 2.7
-PAT-416,,,Female,nan,Patient presents with nausea. Diagnosed with COPD.,104.7,99/94,,9.67500584250422,8.659495628747607,Negative
-H13-6904,2018-02-01,90.0,Male,Medicaid,No notes available,101.0,Normal,,9.61,Positive,1.48
-P6473,,25.0,Male,nan,Prescribed Metformin for COPD,40.0,Normal,69%,8.12,60%,< 4.2
-PAT-913,,,Male,nan,Patient presents with cough. Diagnosed with Asthma.,39.5,Normal,9.67,> 7.2,Inconclusive,8.68966479915355
-H54-6320,,42.0,Other,nan,Prescribed Aspirin for Arthritis,37.0,Normal,< 1.3,0.60,< 3.4,0.42557527354002644
-PAT-875,,6.0,Female,Private,History of COPD; new symptoms: fever,40.0,Normal,> 6.2,71%,47%,> 7.0
-PATIENT_582,2018-10-13,118.0,Male,Medicare,No notes available,99.6,Normal,,< 0.4,,4.80
-H20-3580,,93.0,Other,nan,Patient presents with fatigue. Diagnosed with Asthma.,36.8,176/66,5.85,> 5.8,> 9.7,8.40
-H80-8451,,,Male,nan,No notes available,39.6,Normal,1.84,1.43,9.79,< 3.3
-P4968,,37.0,Other,nan,No notes available,37.6,Normal,6.444720418802041,5.141921387407898,0.93,79%
-PAT-350,,10.0,Other,nan,No notes available,39.2,Normal,0.58,78%,6.81,0.2737652591497064
-H86-4269,,27.0,Female,Medicaid,History of Hypertension; new symptoms: nausea,62.24764453961456,Normal,> 5.8,< 0.6,> 7.0,4.601890240181894
-H24-9985,,100.0,Male,nan,No notes available,97.1,135/95,2.21,73%,< 1.1,0.7044512118542234
-PAT-353,,29.0,Female,Private,ARTHRITIS - fatigue observed,39.2,Normal,0.11288320906080007,Negative,< 2.2,24%
-nan,2018-04-01,,Female,nan,Patient presents with pain. Diagnosed with Arthritis.,104.8,Normal,> 8.9,> 7.9,5.665351816649134,< 4.7
-PAT-271,2019-04-03,117.0,Female,nan,Prescribed Ventolin for Hypertension,62.24764453961456,Normal,6.28,,> 8.7,6.15
-nan,2018-07-13,71.0,Male,Medicaid,COPD - fever observed,96.1,Normal,< 5.0,Positive,81%,9.56
-P1244,,61.0,Male,nan,No notes available,100.9,Normal,,> 6.4,Negative,3.088626374131771
-PATIENT_899,,,Female,nan,Prescribed Lisinopril for COPD,62.24764453961456,Normal,> 7.9,Positive,9.250503723584506,5.197862529049462
-H75-3927,,72.0,Female,Medicare,History of Asthma; new symptoms: pain,40.3,Normal,1.48,> 9.9,78%,Negative
-PAT-370,2017-11-29,67.0,Male,Medicare,Prescribed Ventolin for Asthma,102.8,Normal,> 7.4,,7.796084879478663,59%
-PATIENT_956,,29.0,Male,Medicaid,Prescribed Lisinopril for Arthritis,62.24764453961456,Normal,,> 8.4,< 3.7,Negative
-PATIENT_859,2020-06-27,88.0,Other,nan,Prescribed Metformin for Hypertension,99.0,Normal,Inconclusive,75%,> 9.6,
-PAT-46,,,Male,Medicare,Patient presents with fatigue. Diagnosed with COPD.,40.3,Normal,< 2.7,< 3.3,6.02,Positive
-nan,2019-04-09,79.0,Female,Medicaid,DIABETES - fatigue observed,97.6,Normal,> 9.6,> 7.3,Positive,Inconclusive
-P8173,,63.0,Female,nan,History of Hypertension; new symptoms: fever,62.24764453961456,Normal,2.34,4.152592717018436,43%,> 8.3
-P7343,,115.0,Male,nan,History of Diabetes; new symptoms: fever,38.6,Normal,22%,< 0.4,< 0.6,4.94
-PATIENT_911,2020-09-18,93.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,36.9,Normal,14%,Negative,< 1.2,
-P7220,,,Other,nan,Prescribed Ventolin for Diabetes,62.24764453961456,Normal,,63%,< 0.6,> 9.9
-H93-5417,,56.0,Female,nan,No notes available,99.4,Normal,83%,2%,75%,< 1.8
-P4300,,34.0,Other,Medicaid,COPD - fever observed,40.1,Normal,8.859693707991852,1.97,18%,
-P7844,,54.0,Male,nan,HYPERTENSION - cough observed,62.24764453961456,Normal,,34%,84%,> 8.5
-PATIENT_59,2018-11-08,,Female,Medicaid,Prescribed Lisinopril for Diabetes,103.1,Normal,0.02,< 0.1,4.4210326448968615,> 7.0
-PAT-485,,82.0,Female,Medicare,No notes available,38.9,Normal,> 9.7,8.542964694007164,> 8.3,9.029108907716365
-P1942,,50.0,Male,nan,No notes available,38.6,Normal,,7.80,,77%
-P0348,,41.0,Male,nan,History of Asthma; new symptoms: fever,104.5,130/62,4.56,< 2.7,< 3.1,1.0236845166315633
-H48-554,,109.0,Male,nan,History of COPD; new symptoms: cough,39.3,Normal,3.04,5.95,46%,7.83
-H12-994,,,Female,Medicare,Prescribed Metformin for Arthritis,36.3,Normal,1.74,,Inconclusive,2.39
-PATIENT_824,,,Male,nan,ASTHMA - pain observed,37.8,168/99,> 5.4,< 3.9,7.49,> 9.6
-P7823,2020-12-13,15.0,Other,nan,No notes available,40.0,Normal,8.67,< 3.9,,Positive
-H56-3572,,46.0,Male,Medicaid,ARTHRITIS - cough observed,97.0,Normal,0%,< 2.1,Inconclusive,> 5.7
-H82-2078,,10.0,Other,nan,COPD - cough observed,37.0,Normal,3.59,> 6.9,90%,< 0.7
-PAT-536,,51.0,Male,Medicaid,Patient presents with fever. Diagnosed with Diabetes.,40.0,135/91,8.45,,Inconclusive,2.765999953804028
-PATIENT_258,,12.0,Male,nan,No notes available,62.24764453961456,Normal,> 9.2,< 4.5,Negative,
-PATIENT_36,,103.0,Male,Private,No notes available,96.7,Normal,1.0516180893718097,47%,8.783446615081571,< 0.0
-PAT-192,,110.0,Male,Medicare,Prescribed Lisinopril for Asthma,37.3,Normal,Negative,< 1.7,1.4920021717742737,8.89
-P7960,,90.0,Female,Private,History of COPD; new symptoms: fatigue,37.5,127/62,< 1.4,Positive,< 4.2,Negative
-P4575,,88.0,Female,Medicare,History of Hypertension; new symptoms: cough,100.3,Normal,< 1.8,< 1.5,,5.43352094052747
-P2460,,116.0,Female,nan,Patient presents with fever. Diagnosed with Hypertension.,62.24764453961456,90/71,Negative,Positive,< 3.0,> 7.0
-PATIENT_47,,85.0,Other,nan,No notes available,39.9,Normal,2.41,6.67,Inconclusive,0.18
-PAT-598,,3.0,Other,Private,Patient presents with fever. Diagnosed with Asthma.,35.8,Normal,Positive,3.02,9.32,> 7.9
-H16-3754,,43.0,Other,nan,COPD - nausea observed,36.5,Normal,Negative,8.45,> 8.4,> 6.7
-PAT-99,,105.0,Other,nan,Prescribed Aspirin for Diabetes,40.1,Normal,Positive,,8.40,3.99
-H91-4765,2021-03-03,,Other,Private,Patient presents with fatigue. Diagnosed with Arthritis.,98.7,Normal,6.21,< 4.7,1.8630112531013843,Inconclusive
-PATIENT_588,,,Female,Medicaid,History of Diabetes; new symptoms: nausea,36.9,127/85,6.76,Inconclusive,Positive,Inconclusive
-PAT-168,,87.0,Other,nan,History of Hypertension; new symptoms: fatigue,62.24764453961456,128/89,2.16,< 0.5,3.72,45%
-PAT-487,,16.0,Male,Medicare,Prescribed Metformin for Diabetes,35.7,Normal,Negative,Negative,7.56,< 3.7
-H86-2651,,,Male,nan,No notes available,36.7,Normal,3.41,Inconclusive,87%,4.47
-H45-4370,,90.0,Other,nan,History of Diabetes; new symptoms: nausea,36.9,Normal,6.72,> 7.2,6.275632971824185,5.58
-PATIENT_169,,52.0,Male,Private,No notes available,102.1,Normal,3.031670708634613,Positive,25%,0.8720708089912876
-P1065,2019-03-14,17.0,Female,Private,History of Arthritis; new symptoms: nausea,62.24764453961456,Normal,71%,,,6.80
-nan,2019-04-11,72.0,Female,nan,Prescribed Aspirin for Asthma,104.8,Normal,,8.11192988696018,Positive,0.98
-PATIENT_310,,74.0,Female,nan,Prescribed Lisinopril for Asthma,39.7,Normal,Positive,,< 0.9,7.48
-PAT-618,,93.0,Male,nan,No notes available,62.24764453961456,Normal,89%,51%,74%,53%
-H12-7332,,,Other,nan,ASTHMA - fatigue observed,104.7,Normal,,56%,> 8.9,4.99
-P6549,,116.0,Female,nan,Patient presents with nausea. Diagnosed with COPD.,101.3,Normal,9.33,< 1.4,> 9.2,< 3.6
-H56-4189,,94.0,Other,nan,No notes available,102.6,Normal,6.15,10%,5.549943369141664,1.8136355016644723
-H48-5531,,105.0,Female,nan,No notes available,99.4,Normal,> 8.8,Inconclusive,> 6.8,88%
-P8229,,111.0,Male,nan,History of Hypertension; new symptoms: fever,101.0,Normal,55%,5.22,6.340587495276379,8.75
-PAT-662,2018-03-04,27.0,Female,Private,Prescribed Aspirin for Arthritis,37.7,Normal,24%,> 9.0,< 2.9,6.234241715741987
-P5583,,2.0,Female,nan,DIABETES - fever observed,100.7,Normal,27%,30%,> 7.6,12%
-P7327,,100.0,Other,nan,History of Asthma; new symptoms: fever,36.2,Normal,< 3.2,Negative,> 7.6,< 4.4
-P2831,2018-08-02,64.0,Male,Medicare,Patient presents with pain. Diagnosed with Arthritis.,36.8,Normal,9.066730961676289,< 2.8,< 3.8,< 0.3
-PAT-528,,95.0,Female,nan,Patient presents with fatigue. Diagnosed with Diabetes.,97.3,Normal,6.345720278186947,< 3.2,Positive,< 2.3
-P7961,,17.0,Other,nan,DIABETES - cough observed,97.5,155/99,7.143982133802376,0.47,,> 8.1
-PATIENT_34,,,Male,nan,Patient presents with cough. Diagnosed with Hypertension.,62.24764453961456,Normal,< 4.4,8.71,,> 6.5
-H4-5286,,83.0,Male,Medicaid,History of Hypertension; new symptoms: cough,38.8,Normal,0%,1.21,9.49,Negative
-H13-5405,,117.0,Other,Private,Prescribed Lisinopril for Diabetes,103.7,Normal,> 9.5,6.592309962333217,> 9.2,0.924997067998039
-P5817,,119.0,Other,Medicare,Prescribed Lisinopril for Arthritis,37.0,152/92,4.3593596882665295,< 0.9,> 6.2,1.67
-P9752,,73.0,Male,nan,Prescribed Aspirin for Hypertension,97.1,97/61,54%,77%,87%,37%
-H40-6656,,1.0,Female,Medicare,Prescribed Ventolin for Asthma,96.7,Normal,Negative,< 4.8,7.453657567569868,38%
-H96-9937,2017-11-17,1.0,Male,Private,No notes available,39.5,Normal,< 4.9,2.782787041495982,,< 1.7
-PAT-655,,64.0,Male,nan,History of COPD; new symptoms: nausea,104.3,Normal,> 9.8,54%,Negative,88%
-H9-6013,,35.0,Male,nan,Prescribed Lisinopril for Arthritis,40.2,Normal,Negative,,6.4986441108636015,4.95
-P7150,,52.0,Other,nan,Prescribed Metformin for Asthma,37.5,Normal,,Inconclusive,< 3.8,< 4.3
-H0-2199,,,Female,nan,No notes available,96.1,Normal,88%,> 7.8,> 9.3,< 3.9
-H86-4829,,107.0,Female,nan,DIABETES - nausea observed,62.24764453961456,Normal,45%,< 3.0,< 4.1,
-P2206,,71.0,Female,nan,Prescribed Ventolin for Asthma,37.8,139/66,Inconclusive,Positive,100%,5.283957717027703
+PAT-404,2018-08-14,28.0,Male,Medicare,Prescribed Aspirin for COPD,35.8,Normal,< 4.0,< 4.3,5.204774748338652,Negative
+P2806,,1.0,Other,Medicare,No notes available,100.3,Normal,5.91,> 7.3,41%,< 3.8
+H20-5200,,50.0,Female,nan,No notes available,103.8,Normal,2.84,2.52,Inconclusive,> 8.4
+PATIENT_326,,104.0,Other,Private,No notes available,40.3,Normal,Negative,> 7.6,Inconclusive,
+PATIENT_742,2018-12-07,51.0,Female,Private,Prescribed Lisinopril for Hypertension,35.7,Normal,6.17,80%,94%,Positive
+PAT-705,,29.0,Other,Medicare,History of Asthma; new symptoms: pain,102.8,138/77,73%,Negative,3.88,
+P2841,,14.0,Male,Private,HYPERTENSION - cough observed,104.1,Normal,< 4.3,> 6.2,> 8.8,Inconclusive
+PAT-463,,61.0,Other,nan,Prescribed Aspirin for COPD,40.2,Normal,> 7.2,,49%,7.1586605832867285
+PAT-312,,118.0,Male,nan,Prescribed Ventolin for Arthritis,39.2,Normal,Positive,56%,6.397194534506863,5.68
+P3676,2017-07-20,21.0,Female,nan,Patient presents with cough. Diagnosed with Diabetes.,98.6,Normal,Negative,Positive,Inconclusive,95%
+PAT-630,,119.0,Other,nan,Prescribed Lisinopril for Arthritis,66.37644539614561,Normal,9.44,Positive,77%,> 9.0
+H39-8226,,25.0,Female,nan,No notes available,103.5,Normal,,,Inconclusive,> 8.9
+P2611,,,Other,Private,ASTHMA - pain observed,39.3,Normal,< 1.8,Positive,> 9.2,80%
+H19-2320,,96.0,Male,nan,No notes available,37.9,Normal,8.759245022491394,7.06,6.58,< 3.9
+PAT-673,,,Female,nan,No notes available,35.8,Normal,> 9.0,,,Inconclusive
+PATIENT_407,,52.0,Other,nan,No notes available,103.3,123/93,,0.64,< 1.1,0.12235924944069998
+PAT-45,2020-10-20,36.0,Male,nan,Patient presents with fatigue. Diagnosed with Asthma.,66.37644539614561,Normal,33%,9.36,19%,7.52
+PAT-122,,117.0,Other,nan,History of Arthritis; new symptoms: fatigue,98.1,176/69,,< 4.1,8.62,0.35
+H72-2176,,,Female,nan,COPD - cough observed,100.1,Normal,Negative,1.6910700194117068,< 0.1,36%
+P2906,,119.0,Female,nan,Prescribed Aspirin for Hypertension,36.5,Normal,5.147635436239492,,Positive,64%
+P1959,,100.0,Other,Medicare,History of Asthma; new symptoms: nausea,99.6,Normal,Inconclusive,70%,,36%
+PAT-550,,61.0,Female,nan,Patient presents with pain. Diagnosed with Arthritis.,37.5,Normal,< 2.3,2.644426651516807,3.33,< 4.7
+P7731,,103.0,Other,nan,Patient presents with pain. Diagnosed with Asthma.,101.1,Normal,< 0.3,38%,2.74,7.08
+nan,,93.0,Female,Private,No notes available,39.4,114/73,Inconclusive,< 3.6,52%,Inconclusive
+P1986,,,Male,nan,Patient presents with fever. Diagnosed with Asthma.,39.9,Normal,7.28,> 7.5,3.09,Positive
+PATIENT_835,,17.0,Female,nan,Patient presents with fever. Diagnosed with Hypertension.,35.7,Normal,66%,4.188439158638264,Positive,
+P4445,2018-04-15,107.0,Female,Medicaid,Prescribed Metformin for Diabetes,38.1,Normal,,Inconclusive,33%,1.28
+H75-1524,,101.0,Male,nan,Prescribed Aspirin for Asthma,98.6,Normal,> 9.9,> 6.0,> 10.0,2.553194735150398
+P5011,,7.0,Female,Medicaid,No notes available,36.7,90/89,4.72,< 3.9,5%,> 6.9
+P1205,,,Male,nan,HYPERTENSION - fatigue observed,37.2,Normal,< 1.9,0.2519369352673806,> 5.4,3.319417140654326
+PATIENT_42,,108.0,Male,nan,Patient presents with nausea. Diagnosed with Arthritis.,98.0,Normal,> 7.6,5.632874349407606,9.47,1.3738314096081117
+H36-532,,54.0,Male,nan,No notes available,101.8,Normal,Inconclusive,Positive,< 4.3,> 9.5
+P2019,,29.0,Other,Medicare,Prescribed Ventolin for COPD,96.3,Normal,> 9.8,41%,Inconclusive,> 7.4
+P6360,,88.0,Female,nan,No notes available,39.1,Normal,3.73,Positive,5.05,3.71
+H45-4079,2018-05-25,,Other,nan,Prescribed Metformin for Hypertension,39.0,Normal,> 8.1,Negative,> 9.0,57%
+P1486,,115.0,Other,nan,History of COPD; new symptoms: fever,37.0,159/74,7.56,6.838937163352603,Positive,81%
+PAT-607,,11.0,Male,nan,No notes available,38.1,Normal,> 7.2,< 4.0,,> 7.7
+PAT-148,2019-11-17,70.0,Male,nan,HYPERTENSION - nausea observed,99.4,Normal,91%,2.36,Inconclusive,1.1904076626677151
+PATIENT_406,,24.0,Other,nan,History of Hypertension; new symptoms: fatigue,100.5,Normal,,,77%,69%
+H10-2057,,,Male,nan,No notes available,100.6,Normal,> 7.1,Inconclusive,Inconclusive,0.3844151827432518
+H80-1032,2019-07-26,82.0,Female,nan,History of Arthritis; new symptoms: nausea,40.2,Normal,,23%,< 0.6,7.78
+H4-1868,2020-05-26,67.0,Female,Private,Prescribed Lisinopril for Asthma,40.0,Normal,< 4.0,< 0.2,> 8.5,
+P2263,,42.0,Female,Medicaid,History of Diabetes; new symptoms: cough,40.1,Normal,> 8.2,61%,0.49272259209179436,
+P0571,,112.0,Male,Medicare,Patient presents with nausea. Diagnosed with Arthritis.,100.0,Normal,Negative,< 1.2,< 4.0,7.236177302784956
+PATIENT_133,,,Other,Medicaid,Prescribed Metformin for Asthma,39.2,Normal,63%,Positive,,< 2.6
+nan,2018-04-15,,Female,nan,HYPERTENSION - fever observed,100.7,Normal,7.231543929123957,Positive,> 5.8,< 3.6
+P5432,,,Female,Medicare,History of Hypertension; new symptoms: fatigue,99.0,108/66,3%,Positive,32%,0.9594803404052221
+nan,2021-05-13,46.0,Other,nan,Prescribed Metformin for Arthritis,38.7,Normal,,< 2.5,3.97,< 4.6
+PAT-767,,40.0,Male,nan,No notes available,38.4,Normal,> 6.0,< 1.2,1.0898349139482766,< 1.3
+PAT-219,2020-02-08,80.0,Other,nan,ASTHMA - cough observed,102.8,92/61,Inconclusive,3.58,4.892185738307139,3.5880310940774907
+H11-1567,,12.0,Male,nan,History of COPD; new symptoms: pain,102.9,Normal,< 0.1,Negative,> 9.0,
+PATIENT_4,,103.0,Female,Private,ASTHMA - fatigue observed,104.9,Normal,< 2.8,Negative,23%,Inconclusive
+H58-5201,2017-11-05,,Other,nan,History of COPD; new symptoms: fever,99.0,Normal,Negative,1.4974425408019953,93%,73%
+PATIENT_537,,,Male,nan,No notes available,39.4,Normal,Inconclusive,,> 8.1,< 0.4
+PATIENT_905,2017-08-18,21.0,Male,nan,Patient presents with pain. Diagnosed with Hypertension.,38.3,Normal,Inconclusive,0.0696012805232904,> 9.6,Positive
+PAT-637,2021-01-25,24.0,Female,Medicare,No notes available,97.0,Normal,> 5.6,5.27,< 4.2,
+PATIENT_189,2017-07-14,47.0,Other,Medicaid,No notes available,38.9,Normal,,,> 9.7,Inconclusive
+PATIENT_694,2019-09-06,49.0,Other,Private,No notes available,39.2,Normal,< 2.1,> 7.0,> 5.8,90%
+PATIENT_964,,43.0,Male,Medicare,Prescribed Aspirin for COPD,39.0,Normal,2.49,6.76,> 9.0,> 5.3
+P9852,,109.0,Male,Medicaid,Patient presents with fever. Diagnosed with Arthritis.,104.4,Normal,Inconclusive,3.1848348566632168,46%,> 10.0
+PAT-289,,,Other,nan,History of Diabetes; new symptoms: fatigue,97.3,97/62,9.79,5.87,4.050419133877679,
+P4560,,58.0,Male,nan,No notes available,97.5,Normal,> 8.3,< 0.2,> 8.3,
+PAT-93,,,Male,nan,Prescribed Aspirin for Hypertension,39.8,Normal,< 2.0,1.00,> 5.7,> 8.9
+PAT-715,,92.0,Female,Private,Prescribed Metformin for Arthritis,39.6,174/63,> 7.0,,< 2.0,< 1.9
+PAT-278,,83.0,Male,nan,History of COPD; new symptoms: pain,37.0,Normal,9.88534760584243,> 5.6,> 6.4,3.58
+PAT-10,,,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,38.8,116/89,5.686526559456487,Inconclusive,< 1.8,24%
+PATIENT_187,,63.0,Female,Medicaid,DIABETES - nausea observed,36.6,143/87,0.11,6.08,< 4.4,94%
+nan,2018-01-14,58.0,Male,Medicare,No notes available,35.8,111/95,,0.57,> 6.9,1.6862102643263432
+PAT-225,,,Female,nan,No notes available,38.9,Normal,< 0.2,Negative,6.85,58%
+PAT-580,,25.0,Other,nan,ASTHMA - pain observed,37.3,Normal,Negative,< 3.4,27%,> 9.9
+PATIENT_428,,119.0,Female,Medicare,HYPERTENSION - pain observed,39.1,129/60,> 5.7,69%,< 2.2,
+H76-8409,,57.0,Male,nan,Prescribed Aspirin for COPD,39.4,Normal,Negative,> 8.5,< 1.0,Inconclusive
+P2224,2018-05-31,111.0,Male,nan,Prescribed Lisinopril for Hypertension,95.9,Normal,> 7.4,,,1.7664940252536743
+P7074,,43.0,Other,nan,No notes available,66.37644539614561,Normal,Positive,6.29,> 9.0,< 0.0
+PAT-375,,25.0,Female,Private,History of Asthma; new symptoms: pain,97.6,Normal,96%,31%,> 5.3,< 4.3
+H77-1926,,,Male,nan,Prescribed Ventolin for COPD,36.4,Normal,100%,34%,0.2723272047957259,33%
+PAT-67,,75.0,Female,nan,Patient presents with fatigue. Diagnosed with Diabetes.,38.4,Normal,68%,9.37,,5.718780986082716
+H74-2000,,74.0,Male,nan,Prescribed Metformin for Hypertension,96.0,Normal,Inconclusive,Negative,> 9.7,Positive
+H1-8089,2017-12-17,79.0,Female,nan,No notes available,39.7,Normal,< 0.7,,38%,< 2.2
+nan,2020-10-17,71.0,Other,Medicaid,Patient presents with nausea. Diagnosed with Asthma.,104.5,95/99,0.15,Positive,Positive,Positive
+H25-314,,65.0,Other,nan,No notes available,38.9,Normal,58%,8.35,2.6539431578614883,5.02
+H5-6889,,,Other,nan,No notes available,103.5,Normal,8.282058744197908,> 6.6,49%,
+P6816,,104.0,Male,nan,History of Arthritis; new symptoms: cough,39.7,Normal,5.74,54%,Positive,Negative
+H47-7169,,,Female,nan,No notes available,98.9,115/78,8.837203775280182,> 8.0,3.170989378046254,Negative
+P0976,,55.0,Female,nan,Patient presents with fatigue. Diagnosed with COPD.,104.7,Normal,12%,> 8.7,> 7.5,< 0.1
+PATIENT_548,,99.0,Male,Medicaid,Patient presents with pain. Diagnosed with Asthma.,66.37644539614561,Normal,Positive,,4.434029917705123,2.539184628508874
+PATIENT_328,2020-03-02,57.0,Other,nan,No notes available,100.7,Normal,> 5.1,3.854745448200423,7.068187730127866,> 5.1
+PAT-698,,107.0,Male,Medicaid,History of COPD; new symptoms: fatigue,40.1,162/91,Positive,21%,15%,
+PAT-656,,1.0,Male,nan,Prescribed Aspirin for Diabetes,102.5,Normal,1.67,77%,Positive,< 0.1
+P2863,,28.0,Female,nan,No notes available,36.6,Normal,> 6.9,9.25,9.82,1.93
+PAT-464,,73.0,Male,nan,DIABETES - nausea observed,40.4,Normal,3.75,> 7.2,8.784717726257362,> 6.0
+PATIENT_838,,31.0,Female,Medicare,History of COPD; new symptoms: fatigue,38.2,122/75,< 4.3,51%,> 8.3,22%
+H66-5092,,59.0,Male,Medicaid,No notes available,66.37644539614561,103/94,3.38,2.23,Negative,
+PATIENT_453,,,Other,Medicaid,History of COPD; new symptoms: fatigue,39.3,158/83,31%,7.22,91%,Negative
+H22-802,,118.0,Male,Medicare,History of Diabetes; new symptoms: fatigue,40.2,Normal,,> 5.6,,2.10
+P9726,,19.0,Male,nan,Patient presents with nausea. Diagnosed with Hypertension.,38.4,Normal,,4%,< 1.0,94%
+H71-1192,,64.0,Male,Medicaid,No notes available,38.5,Normal,< 0.2,> 8.6,1.61,Negative
+PAT-340,,4.0,Male,nan,No notes available,38.2,Normal,Positive,8.48,0.02881183457327685,48%
+H68-1176,2020-02-19,56.0,Male,Medicaid,Prescribed Aspirin for Diabetes,100.8,Normal,< 3.2,27%,4.454359391068729,10%
+P6485,,7.0,Female,nan,Prescribed Ventolin for Diabetes,40.5,163/79,70%,1.5611045024231474,1.4753471794049888,3.04
+H6-9561,,,Other,Medicaid,Patient presents with pain. Diagnosed with COPD.,66.37644539614561,Normal,7.97,,2.27,
+PAT-398,,117.0,Female,nan,No notes available,38.7,Normal,Negative,1.4143950724211618,,7.00
+PAT-986,,55.0,Female,nan,COPD - pain observed,36.9,Normal,58%,< 2.6,58%,4.00
+P2651,,65.0,Male,nan,History of Arthritis; new symptoms: nausea,38.0,Normal,< 4.2,3.94,0.5077057634251947,0.51
+PATIENT_392,,70.0,Female,nan,Prescribed Metformin for Arthritis,35.7,Normal,< 3.0,0.9132417782691704,7.985806479054393,2.4311152808549186
+PAT-855,,,Other,nan,Patient presents with fever. Diagnosed with Diabetes.,39.0,Normal,,Positive,88%,< 4.7
+PATIENT_45,,18.0,Other,Private,No notes available,66.37644539614561,Normal,0.93,40%,73%,
+PATIENT_502,,104.0,Male,nan,DIABETES - fatigue observed,102.5,Normal,1.1433868935525537,Positive,3.84,Inconclusive
+H71-8636,,71.0,Other,nan,ASTHMA - cough observed,38.9,Normal,Negative,Negative,7.702754798027875,
+PAT-934,,,Female,Private,Patient presents with pain. Diagnosed with Asthma.,101.1,Normal,99%,6.436675933368303,8.309235718085352,82%
+PATIENT_501,,75.0,Male,nan,Patient presents with nausea. Diagnosed with Hypertension.,38.4,Normal,Negative,22%,,< 2.5
+P8202,,46.0,Female,Medicaid,Prescribed Metformin for Arthritis,103.9,Normal,9.78,Negative,Positive,Positive
+H23-2961,,54.0,Female,Medicare,No notes available,101.9,Normal,2.227589056780918,2.10,3.55,Negative
+PATIENT_516,,,Male,nan,Prescribed Lisinopril for COPD,40.4,Normal,13%,53%,8.90,3.8620284265556615
+H55-4299,,13.0,Male,nan,History of COPD; new symptoms: fever,38.9,Normal,9.387260653881546,< 4.6,,< 0.4
+P5538,,100.0,Female,nan,ASTHMA - nausea observed,66.37644539614561,Normal,Inconclusive,> 5.6,4.43,< 2.9
+PAT-269,,14.0,Female,Private,No notes available,100.7,Normal,Positive,4.143276607097449,2.240495994501238,< 0.0
+H8-6091,2018-08-27,2.0,Male,nan,No notes available,100.6,Normal,< 2.4,Negative,> 5.9,9.831371752705344
+H73-9575,,83.0,Male,Private,Prescribed Metformin for Diabetes,66.37644539614561,Normal,< 4.4,> 7.8,> 5.6,7.88
+P9622,,41.0,Male,Private,Prescribed Lisinopril for Arthritis,36.4,Normal,98%,Negative,7.336454571589867,7.962898140520641
+H93-6455,,51.0,Other,nan,No notes available,36.1,Normal,Inconclusive,< 0.3,3.1079870715447133,1.2595448430324852
+P3723,,92.0,Male,nan,No notes available,39.0,Normal,9.783356359606325,14%,8.006447224661384,22%
+P4935,,24.0,Male,nan,Prescribed Metformin for Diabetes,38.9,Normal,> 7.3,,8.406477907708004,
+PAT-678,2018-03-16,85.0,Female,Medicare,Patient presents with fever. Diagnosed with Arthritis.,66.37644539614561,Normal,Positive,Inconclusive,,4.283877415065155
+H85-7583,,16.0,Other,Medicare,ASTHMA - fatigue observed,37.4,Normal,,Positive,< 0.4,89%
+PAT-387,2018-11-25,89.0,Other,nan,No notes available,37.1,Normal,Negative,26%,,> 9.1
+PAT-562,,25.0,Female,nan,Prescribed Metformin for Hypertension,96.3,Normal,< 0.5,50%,2.7525125317318357,> 8.2
+H39-5763,,93.0,Male,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,103.4,114/74,8.23,Inconclusive,< 3.9,6.43
+P2405,2021-04-30,61.0,Other,Private,History of Hypertension; new symptoms: pain,66.37644539614561,102/71,8.48,4%,,Inconclusive
+PATIENT_292,,49.0,Female,nan,ARTHRITIS - nausea observed,36.1,Normal,14%,6.63,2.915294471970763,4.40
+P0200,,119.0,Other,Medicare,Prescribed Lisinopril for Hypertension,101.3,160/72,8.093125765080067,4.60,,1.3885708389156615
+H37-1787,,84.0,Other,Private,No notes available,37.1,Normal,> 8.1,66%,17%,74%
+P7912,,68.0,Male,Medicare,Patient presents with cough. Diagnosed with COPD.,39.6,Normal,Negative,6.44715052564412,Positive,< 1.3
+PATIENT_742,2017-09-09,,Other,Medicare,Patient presents with fatigue. Diagnosed with Hypertension.,101.2,Normal,43%,Negative,1.0345817873410257,7.587603202864215
+PATIENT_115,,103.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,37.0,157/94,< 0.7,< 2.7,5.01,> 5.8
+nan,2019-06-08,,Female,nan,COPD - fever observed,35.7,Normal,> 5.3,> 5.5,7%,> 5.3
+H22-8703,,64.0,Male,Medicaid,Prescribed Lisinopril for Diabetes,38.4,Normal,Negative,8.08,,Negative
+PAT-399,,53.0,Male,Medicare,Patient presents with fatigue. Diagnosed with Arthritis.,100.2,Normal,> 9.7,7.58,49%,< 0.9
+PATIENT_370,,,Female,nan,History of Asthma; new symptoms: cough,37.4,Normal,< 3.3,> 9.9,< 2.4,4.9416101511745385
+PATIENT_24,2017-11-18,42.0,Male,nan,Prescribed Aspirin for COPD,100.3,Normal,> 8.6,< 1.7,64%,0.40
+H93-8216,,89.0,Other,nan,Prescribed Ventolin for Arthritis,36.3,Normal,8.440847182323342,7.67,< 3.9,< 4.9
+P3476,,105.0,Male,nan,No notes available,102.2,111/79,6.6380876279493615,6.07,Negative,4.081803567465146
+P0875,,110.0,Other,nan,No notes available,36.1,Normal,2.53,0%,< 3.9,> 9.4
+PATIENT_405,,,Other,nan,History of Asthma; new symptoms: pain,39.6,117/77,7%,Inconclusive,Inconclusive,Positive
+PATIENT_794,2017-12-17,33.0,Other,nan,History of Arthritis; new symptoms: cough,96.7,Normal,> 8.5,< 0.3,1.386727341243158,4.9953185842675305
+H57-9873,,40.0,Female,Medicare,Prescribed Aspirin for Arthritis,98.5,Normal,4.742044034202932,0.3845092249089388,1.2606658277872662,Inconclusive
+PATIENT_934,,31.0,Other,Medicaid,ARTHRITIS - fatigue observed,39.4,161/86,Inconclusive,2.8673903168523776,32%,< 3.5
+PATIENT_558,,90.0,Female,nan,Prescribed Ventolin for Diabetes,38.4,123/72,0.27,> 5.8,Inconclusive,Negative
+P9830,2021-03-31,78.0,Male,Medicare,No notes available,100.6,154/66,< 3.8,6.525828686170492,> 9.4,2.367643314077389
+H83-1611,,98.0,Male,Private,No notes available,39.9,Normal,9.88126840873843,3.6424117840851054,Negative,
+PATIENT_513,,35.0,Female,nan,No notes available,97.6,Normal,< 2.2,,5.90,Positive
+PATIENT_358,,51.0,Female,Medicaid,No notes available,39.8,171/94,Inconclusive,,> 6.0,> 9.4
+P4498,2019-05-01,85.0,Male,nan,Prescribed Lisinopril for Hypertension,66.37644539614561,Normal,4.273132257559144,> 6.6,5.77,> 6.5
+PATIENT_873,,25.0,Male,Medicare,ASTHMA - nausea observed,101.1,91/71,1.88,3.00,5.59,< 3.9
+H61-5820,,18.0,Other,Medicaid,History of Diabetes; new symptoms: fatigue,38.7,Normal,> 5.9,< 4.1,,
+H1-8849,,89.0,Male,nan,Patient presents with fatigue. Diagnosed with Arthritis.,38.9,Normal,< 4.5,8.499607731843039,< 2.6,Inconclusive
+PAT-217,,,Female,Medicare,History of Diabetes; new symptoms: nausea,37.7,Normal,< 1.0,2.027147791154782,> 6.7,3.535151258828235
+PAT-101,,73.0,Other,nan,History of Diabetes; new symptoms: fever,39.9,Normal,> 5.4,9.76,< 0.8,
+PATIENT_207,,92.0,Other,nan,ARTHRITIS - fatigue observed,98.5,Normal,,99%,3.08,Negative
+PAT-186,2020-04-14,49.0,Male,Private,No notes available,97.4,Normal,4.555739077187674,Inconclusive,2%,> 5.4
+PAT-672,,79.0,Female,nan,Prescribed Metformin for Hypertension,102.9,Normal,85%,2.73,6.22,8.71
+PAT-587,,,Female,nan,Prescribed Ventolin for Asthma,38.5,Normal,> 6.5,63%,> 7.8,86%
+H7-4344,,38.0,Female,nan,No notes available,102.6,Normal,5.98,4.9093170345784465,< 3.6,< 4.3
+P2817,,17.0,Female,nan,DIABETES - nausea observed,66.37644539614561,Normal,Negative,2.48,> 5.0,4.96
+H35-9907,2021-04-05,119.0,Other,Medicaid,History of Diabetes; new symptoms: fatigue,39.2,Normal,5.14,Inconclusive,< 2.6,> 5.6
+H12-871,,67.0,Other,nan,Patient presents with cough. Diagnosed with COPD.,97.6,Normal,Negative,< 2.1,6.300571094730568,< 0.7
+H15-3778,2018-11-14,115.0,Female,nan,Prescribed Metformin for Arthritis,38.1,Normal,97%,< 0.6,Inconclusive,< 3.7
+H7-2914,,,Male,nan,No notes available,66.37644539614561,Normal,4.97,,3.23,
+PATIENT_372,,95.0,Male,nan,No notes available,99.2,106/60,,Negative,70%,6.528168073957249
+PAT-721,,98.0,Female,Medicaid,COPD - pain observed,37.6,Normal,> 8.1,< 3.3,9.148733161539958,7.72
+P3273,,45.0,Female,Private,Patient presents with pain. Diagnosed with Arthritis.,35.8,176/68,8.161965492279927,> 6.0,< 3.4,< 0.4
+PAT-537,,45.0,Other,nan,ARTHRITIS - cough observed,39.4,Normal,1.0284072052142101,,Positive,8.19
+P5157,,35.0,Other,nan,No notes available,99.2,138/70,22%,> 7.4,< 2.7,Inconclusive
+PAT-377,,18.0,Other,nan,COPD - fever observed,39.6,Normal,> 7.0,,< 3.6,Negative
+PATIENT_352,,,Other,nan,Patient presents with fatigue. Diagnosed with COPD.,36.4,Normal,< 1.7,83%,,5.292551509147297
+H87-3424,2020-02-25,119.0,Other,Private,Patient presents with pain. Diagnosed with Asthma.,40.0,139/98,< 4.4,5.720252357073222,Positive,< 1.5
+P7861,,93.0,Male,nan,No notes available,38.3,134/88,94%,89%,20%,Negative
+H45-1866,,25.0,Other,nan,No notes available,38.0,Normal,< 4.3,> 7.4,Negative,< 3.2
+PATIENT_71,,82.0,Female,nan,No notes available,36.3,Normal,,0.24,Negative,Inconclusive
+PAT-453,,101.0,Female,nan,Patient presents with nausea. Diagnosed with Arthritis.,102.4,Normal,1.28,Positive,> 5.3,3.104132829244901
+PATIENT_879,,19.0,Female,nan,Patient presents with nausea. Diagnosed with COPD.,99.1,Normal,,2.220533507178951,7.570162899860513,7.35
+H42-5498,,109.0,Female,Medicare,Prescribed Lisinopril for COPD,35.9,Normal,2.58,> 9.8,Positive,3.908582434998883
+PAT-846,,107.0,Female,Medicaid,History of Arthritis; new symptoms: pain,39.0,Normal,Inconclusive,2.3709747798816183,Inconclusive,Inconclusive
+nan,2020-01-04,,Male,Medicaid,No notes available,38.9,Normal,< 4.4,6.57,> 8.2,60%
+PATIENT_130,,,Female,nan,No notes available,100.9,Normal,< 2.6,Negative,9.925311946938278,
+P4362,,65.0,Other,Private,History of Asthma; new symptoms: fever,39.3,109/71,> 9.4,> 5.6,8.166313401704507,> 7.9
+PAT-349,,112.0,Other,nan,No notes available,104.9,Normal,< 2.6,< 1.5,Inconclusive,< 4.3
+PATIENT_272,2017-06-29,,Other,nan,HYPERTENSION - fever observed,100.2,Normal,1.75,< 2.3,18%,47%
+P9230,,56.0,Female,Private,Patient presents with pain. Diagnosed with COPD.,40.3,Normal,54%,Negative,7.1577423938519305,1.677896935126264
+H78-4879,,117.0,Other,nan,Prescribed Aspirin for Diabetes,35.9,Normal,,31%,< 4.2,
+H54-8897,,,Male,Medicare,History of Arthritis; new symptoms: fever,66.37644539614561,Normal,6.41,89%,> 9.3,< 4.3
+PAT-75,,23.0,Female,nan,History of Asthma; new symptoms: nausea,101.4,133/61,5%,< 3.7,5.752750782367669,71%
+PATIENT_120,,52.0,Female,nan,DIABETES - fatigue observed,98.1,Normal,67%,70%,6.75,> 7.7
+P3765,,100.0,Female,nan,Patient presents with pain. Diagnosed with COPD.,103.2,153/85,Inconclusive,< 2.2,< 1.1,> 7.3
+PATIENT_244,,87.0,Other,Medicare,Patient presents with fever. Diagnosed with Diabetes.,97.9,Normal,8.523987167247984,,8.346340613744465,Inconclusive
+P1211,2018-10-02,44.0,Other,Private,Patient presents with fever. Diagnosed with Asthma.,38.9,Normal,< 3.4,5.17,< 5.0,Positive
+H69-6731,,24.0,Other,nan,No notes available,38.4,Normal,36%,0.21335647907183009,< 4.4,Positive
+P0588,,74.0,Other,nan,History of Asthma; new symptoms: pain,38.2,Normal,< 3.2,6.81,> 8.4,
+P5315,,95.0,Male,nan,HYPERTENSION - cough observed,37.9,Normal,0.1372765025242617,19%,,< 1.5
+P4170,,57.0,Female,Medicaid,No notes available,96.9,Normal,> 6.5,4%,< 1.2,38%
+PAT-157,,,Female,Medicaid,Prescribed Aspirin for Hypertension,66.37644539614561,Normal,Positive,< 3.6,> 5.8,0.45
+PATIENT_385,,12.0,Male,nan,No notes available,66.37644539614561,Normal,< 4.9,0.09195718426719512,3.8658156041837897,1.59
+PAT-608,,39.0,Male,nan,Prescribed Lisinopril for Diabetes,36.9,Normal,< 0.7,< 0.9,,< 4.4
+PAT-801,,97.0,Male,nan,History of Hypertension; new symptoms: fever,99.8,Normal,< 4.9,Inconclusive,7.18,7.07
+PATIENT_196,,94.0,Male,Medicaid,Patient presents with nausea. Diagnosed with Hypertension.,102.9,Normal,Positive,1.75,1.2081704847524677,> 9.2
+P2975,2021-03-11,15.0,Other,Medicaid,Prescribed Aspirin for Arthritis,39.2,125/82,7.40,> 5.5,< 5.0,Inconclusive
+PATIENT_6,,102.0,Male,Medicare,Prescribed Metformin for Asthma,101.6,Normal,Positive,,> 9.4,> 10.0
+H52-4940,,64.0,Female,Medicare,No notes available,37.5,Normal,9.15,9.61,> 5.7,3.87
+P4300,,0.0,Male,nan,HYPERTENSION - pain observed,36.5,123/73,> 8.5,8.81,,> 7.2
+PATIENT_559,,14.0,Other,Private,History of COPD; new symptoms: fever,66.37644539614561,Normal,> 8.1,< 4.5,36%,3.635799532190329
+PATIENT_784,,68.0,Other,nan,Patient presents with pain. Diagnosed with Asthma.,99.2,Normal,> 8.7,Positive,3.82,9.859725449895656
+PATIENT_256,,87.0,Male,nan,Patient presents with fever. Diagnosed with Asthma.,66.37644539614561,Normal,88%,14%,,Inconclusive
+PATIENT_798,,2.0,Female,Medicaid,Patient presents with fever. Diagnosed with Hypertension.,103.5,Normal,Positive,,< 2.4,> 9.3
+P6793,,61.0,Female,Medicare,Prescribed Ventolin for Arthritis,101.6,Normal,46%,6.98,13%,> 9.0
+H51-530,,35.0,Male,Private,COPD - nausea observed,103.4,Normal,< 1.2,,2.6101766496981336,> 9.1
+P7435,2018-02-01,,Male,Medicaid,COPD - pain observed,98.7,Normal,80%,< 1.6,< 3.5,1.8654458091502435
+nan,2020-11-17,,Other,nan,Prescribed Metformin for Diabetes,101.7,Normal,0.68,4.85,> 8.8,Negative
+PAT-842,2018-08-15,,Female,nan,History of Arthritis; new symptoms: pain,37.6,Normal,3.59,Negative,2.6813604563797586,88%
+PAT-580,2018-08-05,2.0,Female,nan,Prescribed Aspirin for COPD,37.5,Normal,Negative,Positive,6.207274446998086,Negative
+P3541,,98.0,Female,Medicaid,History of COPD; new symptoms: cough,66.37644539614561,Normal,> 6.9,9.6707968909996,0%,< 1.7
+P8863,,,Female,Medicaid,No notes available,38.1,Normal,> 8.0,1.08,53%,76%
+PAT-415,,6.0,Female,Medicare,History of Hypertension; new symptoms: pain,37.9,111/65,Inconclusive,Negative,21%,6.929276506999134
+P4416,,44.0,Other,Private,ASTHMA - fever observed,38.3,127/66,9.217095139379492,54%,Positive,> 9.3
+P8154,,8.0,Other,Medicaid,No notes available,96.2,155/92,76%,8.488219573910708,0.59,> 9.4
+P2949,,59.0,Female,nan,Prescribed Ventolin for Arthritis,36.7,100/63,2.82,9.04,4.714608795467468,< 4.4
+PATIENT_628,,90.0,Female,Medicare,Patient presents with fatigue. Diagnosed with COPD.,98.0,Normal,,> 8.9,8.05,
+PATIENT_505,,47.0,Other,nan,Patient presents with fever. Diagnosed with Diabetes.,103.4,Normal,< 2.0,11%,Inconclusive,
+H5-1257,,,Male,Private,Patient presents with fever. Diagnosed with Diabetes.,37.9,Normal,,9.197583809008574,Negative,Negative
+H19-9838,,68.0,Other,Private,ARTHRITIS - fever observed,103.7,Normal,0.7553198365709313,0.66,9.70021149716554,Inconclusive
+PATIENT_367,,95.0,Female,nan,COPD - pain observed,100.9,Normal,5.17,Positive,> 7.3,< 0.6
+PATIENT_319,2020-06-24,93.0,Male,nan,Patient presents with fatigue. Diagnosed with Arthritis.,36.5,Normal,,3.83,> 5.6,1.98
+PATIENT_662,,75.0,Female,nan,Patient presents with pain. Diagnosed with Asthma.,37.2,142/66,> 6.0,< 2.0,55%,5.168525258291778
+P3218,,4.0,Female,Private,HYPERTENSION - cough observed,102.1,136/72,4.65,39%,> 9.4,1%
+P9521,,51.0,Male,nan,No notes available,96.6,Normal,< 3.4,,> 8.2,31%
+PAT-597,,117.0,Female,nan,DIABETES - pain observed,103.0,Normal,> 6.1,5.248619869240557,< 4.5,Negative
+PATIENT_735,,118.0,Other,Medicare,History of COPD; new symptoms: cough,37.8,Normal,78%,0%,,< 3.4
+PATIENT_337,,33.0,Male,Medicaid,No notes available,36.1,Normal,6.27,> 9.0,< 2.9,Negative
+P7852,,89.0,Female,Medicare,Patient presents with fatigue. Diagnosed with COPD.,39.9,Normal,9.11,3.462002069292743,< 3.7,Positive
+P3199,,88.0,Female,Private,Patient presents with fever. Diagnosed with Arthritis.,36.6,Normal,Inconclusive,40%,> 6.2,< 0.6
+PAT-965,,102.0,Male,Private,ASTHMA - nausea observed,66.37644539614561,Normal,Positive,1.52,> 8.7,< 1.5
+H62-6788,,14.0,Male,Private,No notes available,38.5,Normal,> 7.3,9.22,Inconclusive,Inconclusive
+P1329,,19.0,Other,nan,No notes available,38.0,Normal,6.944569165309002,< 3.5,9.304941983528,36%
+P2584,2019-05-05,19.0,Other,nan,Prescribed Metformin for Hypertension,36.4,Normal,77%,< 1.5,< 1.1,Negative
+PAT-676,,48.0,Male,nan,Prescribed Metformin for Diabetes,101.5,Normal,,,> 7.9,< 3.9
+H52-8189,,119.0,Female,Medicaid,No notes available,101.0,93/85,,16%,3.10,Inconclusive
+H68-9236,,88.0,Male,Private,HYPERTENSION - nausea observed,103.2,98/62,> 9.5,< 1.7,> 7.5,1.7028304687871598
+PATIENT_25,2019-01-10,77.0,Female,Medicaid,Prescribed Metformin for Diabetes,66.37644539614561,Normal,,9.38,40%,52%
+PAT-35,,43.0,Male,nan,History of Diabetes; new symptoms: fever,66.37644539614561,Normal,,6.74,,6.704419845435793
+PATIENT_937,,86.0,Female,Medicare,No notes available,35.7,Normal,> 9.7,< 3.1,35%,
+P7536,,,Male,nan,Prescribed Ventolin for Asthma,101.5,158/75,,> 7.4,20%,49%
+H77-5900,,85.0,Female,nan,No notes available,102.3,Normal,5.717135401461375,> 5.7,,1.47
+PATIENT_445,2017-11-20,48.0,Other,nan,History of COPD; new symptoms: nausea,35.5,133/85,Negative,0.89,,1.44
+PAT-590,,106.0,Male,Medicaid,History of Arthritis; new symptoms: cough,96.1,Normal,4.706533998629327,> 6.5,4.22,< 4.4
+PAT-361,,,Other,nan,Prescribed Lisinopril for Asthma,103.9,Normal,2%,0.8828292593631948,,14%
+H70-5112,,79.0,Other,Private,History of Diabetes; new symptoms: fatigue,35.7,Normal,6.46,Negative,8.789729464796483,Positive
+PATIENT_323,,17.0,Female,Private,No notes available,98.4,173/78,,< 3.1,7.24,2.57
+P3022,,49.0,Other,nan,History of COPD; new symptoms: fever,39.1,Normal,85%,72%,Positive,> 6.8
+PATIENT_534,,,Female,nan,Prescribed Metformin for COPD,36.9,Normal,< 2.6,> 6.9,2.22,9.80
+PATIENT_636,,73.0,Female,nan,No notes available,66.37644539614561,Normal,> 8.9,< 0.3,5.41,< 4.2
+PAT-875,,13.0,Male,nan,No notes available,101.0,Normal,Inconclusive,7%,> 6.2,> 9.0
+P9178,,68.0,Male,Medicaid,ARTHRITIS - fatigue observed,37.2,132/90,< 1.9,> 6.0,1.42,Positive
+H41-1950,,40.0,Male,nan,HYPERTENSION - nausea observed,100.4,Normal,18%,Positive,9.334085741415118,31%
+H96-3972,,23.0,Male,nan,Patient presents with nausea. Diagnosed with Diabetes.,36.1,Normal,,1.32,Inconclusive,76%
+P0658,,,Male,nan,History of Diabetes; new symptoms: nausea,40.2,Normal,< 3.4,8.89,7.903137495464616,6.755145778985505
+PAT-645,,18.0,Male,nan,No notes available,104.5,Normal,9.03,6.607448661858083,2.332407010637242,75%
+H8-3371,2018-10-19,86.0,Male,nan,DIABETES - cough observed,37.8,170/62,37%,7.125577896225353,6.791019943065785,2.13
+P5989,,,Male,Private,Prescribed Metformin for Diabetes,104.2,Normal,Positive,80%,4.237642495057704,93%
+PATIENT_374,,,Male,nan,Prescribed Ventolin for Diabetes,37.9,Normal,9.455308203193878,8.05,9.824996296411175,2.638247937561058
+PAT-7,,,Female,nan,ARTHRITIS - fever observed,37.5,Normal,23%,> 6.1,< 1.6,8.68
+PATIENT_88,2019-03-12,107.0,Male,Medicaid,History of Diabetes; new symptoms: fatigue,96.2,Normal,7.42,> 8.4,6.99,1.3268726944089237
+PAT-559,2018-01-09,76.0,Other,nan,No notes available,99.9,Normal,1.1880438682148742,3.31,8.67983524705846,
+PATIENT_132,2018-02-03,98.0,Female,nan,No notes available,99.9,124/85,76%,1.11,4.975244117271483,> 5.1
+PAT-90,,41.0,Female,Medicare,History of Diabetes; new symptoms: pain,36.7,Normal,Negative,,,3.50
+P7074,2018-03-24,,Female,Medicare,Prescribed Aspirin for Arthritis,37.2,Normal,< 3.4,8.32,> 8.0,5.890343846098337
+H35-380,,33.0,Other,Private,Prescribed Aspirin for Arthritis,100.6,Normal,5.803212541174077,1.96,< 2.4,> 6.7
+H98-7633,2019-08-24,,Other,Private,History of Hypertension; new symptoms: cough,66.37644539614561,Normal,< 3.9,,6.59,< 2.5
+P2141,,,Male,Medicare,Patient presents with cough. Diagnosed with COPD.,37.5,Normal,0.07960577978942451,65%,4.94,> 8.8
+H18-7525,,75.0,Male,Private,No notes available,102.4,162/74,4.144608847593325,> 8.9,Positive,0.6120459029518599
+H80-3640,,71.0,Male,nan,COPD - fever observed,66.37644539614561,Normal,Inconclusive,,4.18,Positive
+PAT-633,,,Male,nan,COPD - nausea observed,66.37644539614561,Normal,9.81589880743935,> 8.9,< 4.8,5.69
+H21-2997,,,Female,nan,Patient presents with nausea. Diagnosed with Arthritis.,98.5,Normal,1.45,> 8.1,Positive,64%
+PATIENT_206,,51.0,Other,nan,COPD - pain observed,104.5,Normal,0.87,3.452991721752281,,> 9.4
+H96-8593,,98.0,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,35.7,Normal,4.8529519698375,Positive,0.19057773054614202,> 5.3
+PATIENT_521,,42.0,Female,Private,No notes available,38.9,167/83,8.96,> 7.2,9.06359702853726,2.4386888421389408
+P9734,,86.0,Other,Private,History of Hypertension; new symptoms: fever,37.3,Normal,< 3.9,0.75,< 0.1,
+H63-9690,,73.0,Female,nan,History of Arthritis; new symptoms: fever,97.1,159/90,,7.62,5.68,56%
+PAT-754,,101.0,Male,nan,ASTHMA - fatigue observed,100.4,Normal,0.8173188188125291,< 3.1,< 4.1,Negative
+P2486,,40.0,Other,nan,No notes available,36.3,Normal,4.49,,9.75,< 4.1
+P1217,,32.0,Other,Medicare,ARTHRITIS - pain observed,36.7,Normal,6.03,0.39,Positive,5.37
+PATIENT_305,,80.0,Male,Medicaid,No notes available,101.3,Normal,> 5.8,< 2.8,Inconclusive,75%
+PATIENT_368,,104.0,Female,nan,COPD - pain observed,38.4,Normal,< 0.2,9.586625287520867,> 9.3,
+PAT-321,,45.0,Female,Medicare,Patient presents with fever. Diagnosed with Hypertension.,37.8,Normal,5.807313561957287,Positive,< 0.4,> 9.7
+PATIENT_433,,87.0,Other,nan,History of COPD; new symptoms: fatigue,66.37644539614561,Normal,4.86,5.359032705010439,,77%
+PATIENT_930,,96.0,Other,Private,Prescribed Ventolin for Hypertension,38.0,Normal,1.0893295993357766,< 4.0,> 9.4,< 4.8
+P4740,,35.0,Male,nan,No notes available,39.9,Normal,7.60,> 7.5,4.986148270531871,5.839543723762332
+H80-4955,,,Female,Medicaid,No notes available,97.7,Normal,Inconclusive,,0.56,Positive
+PAT-876,,117.0,Female,nan,No notes available,38.9,Normal,6.869588323933441,Positive,> 8.8,7.82
+PAT-9,,48.0,Female,nan,No notes available,102.0,Normal,Inconclusive,6.52,> 9.2,Negative
+PATIENT_905,,21.0,Male,nan,Patient presents with pain. Diagnosed with Hypertension.,38.3,Normal,Inconclusive,0.0696012805232904,> 9.6,Positive
+PAT-310,2017-11-02,102.0,Male,Medicare,Patient presents with nausea. Diagnosed with Diabetes.,98.3,Normal,6.36,> 9.2,7.45,> 9.0
+H25-4916,,37.0,Other,nan,History of Arthritis; new symptoms: pain,35.5,Normal,92%,8.45381492934013,16%,< 4.6
+PATIENT_495,,,Male,Medicare,ASTHMA - cough observed,36.3,Normal,> 9.2,Positive,82%,8.012707614210528
+P9205,,114.0,Male,nan,No notes available,98.4,Normal,> 7.7,> 8.5,,> 6.3
+PAT-86,2020-06-01,13.0,Female,Medicaid,No notes available,104.4,154/77,6.48,,Inconclusive,Negative
+PATIENT_602,,11.0,Female,nan,Patient presents with nausea. Diagnosed with Asthma.,97.4,Normal,8.97,1.89,2.13,3.889374910658856
+PATIENT_426,,27.0,Female,Private,No notes available,37.5,Normal,Positive,< 1.7,32%,8.489954297090756
+P2690,2020-12-26,,Male,Private,Prescribed Lisinopril for Asthma,99.8,Normal,Positive,> 9.4,< 1.0,6.38
+H46-590,,33.0,Female,nan,Patient presents with fatigue. Diagnosed with Arthritis.,36.1,Normal,Inconclusive,1.7974779013972997,89%,74%
+P0972,,72.0,Male,Medicare,History of COPD; new symptoms: cough,104.0,Normal,,,1.62,Negative
+P3347,,27.0,Female,Private,ARTHRITIS - fever observed,103.7,Normal,42%,2.831175557546314,Inconclusive,2.4815165910307
+H39-5717,2020-09-25,93.0,Male,nan,HYPERTENSION - cough observed,99.3,Normal,,,3.9071033600717344,Positive
+PAT-169,,69.0,Male,Medicaid,COPD - pain observed,39.1,Normal,< 0.4,72%,0.81,6.586808623177488
+PATIENT_128,,89.0,Other,nan,Prescribed Ventolin for Diabetes,40.0,Normal,< 1.8,Inconclusive,27%,5.46
+PAT-421,,62.0,Male,nan,DIABETES - nausea observed,37.1,Normal,25%,,8.67,56%
+PATIENT_869,,64.0,Other,Medicaid,No notes available,99.6,Normal,8.28,< 2.7,,< 2.6
+PAT-26,,93.0,Male,nan,Prescribed Ventolin for COPD,37.1,Normal,> 5.1,< 4.6,> 9.3,27%
+H52-4020,,22.0,Other,nan,Prescribed Lisinopril for Hypertension,35.8,Normal,,5.20,7.176069375225456,Negative
+H29-6009,,,Male,Medicare,No notes available,39.5,Normal,> 5.1,,8.384798305930367,> 5.2
+PATIENT_333,,3.0,Female,nan,Patient presents with pain. Diagnosed with COPD.,104.7,Normal,Positive,38%,> 9.5,2.58
+P9649,,40.0,Other,Medicaid,No notes available,38.3,Normal,> 5.9,> 7.5,67%,> 6.9
+PATIENT_736,2019-11-09,87.0,Male,Medicaid,ASTHMA - pain observed,36.9,Normal,4.28,2.0222761916280376,77%,38%
+H92-315,,105.0,Male,nan,DIABETES - pain observed,37.6,Normal,< 2.0,< 3.8,,1.17
+PAT-818,,27.0,Male,nan,No notes available,66.37644539614561,Normal,73%,< 2.3,< 4.3,9.75
+P4033,,,Female,nan,ASTHMA - fatigue observed,40.2,123/71,< 1.9,56%,Inconclusive,10%
+PATIENT_271,2021-02-20,20.0,Male,Private,ASTHMA - pain observed,38.3,Normal,> 9.6,< 1.7,8.33,Positive
+PATIENT_397,,88.0,Female,Private,No notes available,36.6,Normal,> 9.8,> 6.6,> 7.2,Positive
+H17-5012,,11.0,Other,Medicaid,No notes available,98.8,Normal,Positive,Positive,1.3256931747620915,Inconclusive
+H52-6064,,113.0,Male,nan,History of Diabetes; new symptoms: fever,36.6,Normal,Positive,< 1.8,> 6.0,9.213325880336859
+nan,2017-11-02,84.0,Male,nan,ARTHRITIS - cough observed,103.7,Normal,84%,,7.025604383426019,9.626755623879237
+PAT-595,2019-03-24,38.0,Female,nan,No notes available,97.1,Normal,73%,> 7.8,> 5.2,4.13
+PATIENT_743,,82.0,Other,nan,No notes available,100.3,Normal,< 1.9,> 5.7,0.37,2.906767093353987
+PAT-639,,91.0,Male,nan,Prescribed Ventolin for Diabetes,95.9,149/69,> 9.4,0.8688144423454036,Inconclusive,6.1144231902610136
+H34-7965,,114.0,Other,nan,Prescribed Ventolin for COPD,36.5,Normal,> 5.9,7.588502224927639,Negative,> 5.7
+H2-6958,2019-06-03,118.0,Female,Medicare,Patient presents with nausea. Diagnosed with Arthritis.,39.4,Normal,> 5.6,3.75966327007339,< 0.7,> 9.6
+H93-5789,,56.0,Male,nan,History of COPD; new symptoms: fever,97.5,Normal,Negative,> 8.7,5.80,Positive
+P9447,,88.0,Other,nan,No notes available,37.0,Normal,2.33,1.65,< 1.0,5.61
+PAT-21,,,Female,nan,History of Diabetes; new symptoms: cough,99.5,143/95,9.523128397160601,< 3.1,7.214372659102345,< 2.5
+H20-3377,,25.0,Male,nan,Prescribed Ventolin for Arthritis,95.9,Normal,Negative,8.302943799486279,2.1368273221235237,2.91
+PATIENT_492,,99.0,Male,Medicare,History of Diabetes; new symptoms: pain,35.9,128/64,Negative,2.5428364840664406,48%,1.25
+P8962,,52.0,Other,Private,Patient presents with pain. Diagnosed with Arthritis.,36.8,Normal,> 5.6,> 6.8,Positive,9.00
+nan,2019-04-11,102.0,Female,nan,No notes available,36.4,152/80,,Negative,6.98,Positive
+PATIENT_979,,,Male,nan,No notes available,103.8,Normal,Negative,,< 4.5,4.02
+H84-8176,,,Female,nan,ASTHMA - nausea observed,99.1,Normal,4.538210039484486,29%,80%,Positive
+P8117,,102.0,Female,nan,No notes available,66.37644539614561,Normal,4.55,6.643182596478354,Negative,> 5.5
+PATIENT_830,,100.0,Male,Private,Prescribed Aspirin for Asthma,101.4,Normal,,6.541701097501532,87%,5.149639352401865
+P5606,,29.0,Other,Private,History of Asthma; new symptoms: nausea,40.2,Normal,7.80,< 2.1,> 9.3,Negative
+PAT-92,,4.0,Male,Private,ASTHMA - nausea observed,104.8,Normal,4.395109773432617,92%,> 7.7,4.60
+H86-3668,,42.0,Female,nan,No notes available,39.5,Normal,> 5.2,,> 6.6,21%
+P9030,2018-02-06,70.0,Female,nan,No notes available,101.6,Normal,< 2.6,> 5.2,9.831200179573376,15%
+PATIENT_916,,75.0,Other,Medicare,HYPERTENSION - pain observed,39.0,Normal,6.6052315761472,< 5.0,3.23,5.40
+H47-7113,,,Female,Medicare,No notes available,104.4,Normal,< 4.2,,3.10,Negative
+PAT-231,,,Female,nan,History of Arthritis; new symptoms: fatigue,37.9,169/93,< 1.8,99%,Inconclusive,Inconclusive
+P1274,,,Male,Medicare,ARTHRITIS - pain observed,99.4,Normal,39%,72%,4.409601701536542,< 4.7
+PAT-819,2017-11-12,21.0,Other,Medicare,History of Hypertension; new symptoms: nausea,97.5,Normal,< 3.8,7.61,4%,90%
+P6024,,,Male,Medicaid,COPD - fever observed,39.6,Normal,< 3.9,< 3.6,Inconclusive,8.346634176281075
+PATIENT_600,,18.0,Female,Medicare,ASTHMA - nausea observed,39.9,177/80,> 6.6,Inconclusive,> 8.6,
+H24-4424,,,Female,nan,Prescribed Aspirin for Hypertension,66.37644539614561,128/89,2.83,3.19,1.63,> 6.2
+PAT-172,,92.0,Male,nan,No notes available,100.0,Normal,87%,3.827008802951873,< 1.7,1.69
+PATIENT_707,,,Female,Private,No notes available,103.4,Normal,Inconclusive,9%,> 6.8,Negative
+P7060,,,Male,nan,History of Diabetes; new symptoms: fever,98.9,Normal,Inconclusive,Negative,0.32,> 7.0
+H91-1428,2021-03-11,10.0,Female,nan,Prescribed Metformin for COPD,37.1,Normal,,49%,9.36,> 6.1
+P0668,,46.0,Other,nan,No notes available,66.37644539614561,Normal,98%,8.628788288912197,Positive,> 9.8
+H59-5043,,60.0,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,38.5,134/68,4.863033464775196,6.70,< 0.9,0.06
+PATIENT_101,,69.0,Other,nan,Patient presents with fatigue. Diagnosed with COPD.,37.1,Normal,1.21,0.01,> 7.8,Negative
+P6607,,101.0,Female,Medicaid,No notes available,36.1,126/69,> 9.9,86%,> 6.8,7.568669216376041
+PAT-507,,6.0,Female,Medicaid,History of COPD; new symptoms: cough,96.1,Normal,,< 3.0,85%,6.86
+H57-3255,,36.0,Male,nan,No notes available,37.8,Normal,Negative,62%,Inconclusive,< 1.0
+PAT-451,,9.0,Female,nan,No notes available,66.37644539614561,Normal,9.29,> 6.1,< 2.4,7.25888888364786
+P6826,,,Female,nan,No notes available,96.3,123/93,1.707357219460628,< 4.8,9.06,< 4.9
+H74-1139,,26.0,Male,Medicare,No notes available,97.9,Normal,79%,< 2.5,79%,< 0.0
+P1535,,85.0,Female,Medicare,No notes available,39.2,Normal,8.406028343238356,3.136181944932259,< 3.2,Inconclusive
+PAT-826,,76.0,Female,Medicaid,Prescribed Lisinopril for Arthritis,36.9,Normal,,2.370401302779368,7.87,
+PATIENT_912,,40.0,Male,nan,COPD - pain observed,102.9,103/87,,30%,54%,1.10
+P5349,2021-01-31,82.0,Male,nan,No notes available,97.0,Normal,> 5.3,> 6.3,0%,< 1.2
+PAT-592,,16.0,Male,nan,Patient presents with nausea. Diagnosed with COPD.,66.37644539614561,102/68,2.435894095762232,< 3.6,1.53,0.20
+PATIENT_294,,51.0,Male,Medicare,Patient presents with pain. Diagnosed with Diabetes.,97.5,Normal,> 8.0,,> 5.5,
+PAT-564,,13.0,Female,nan,COPD - nausea observed,103.3,Normal,< 4.9,3.53,4.91,0.09
+PAT-224,,106.0,Female,Private,Prescribed Metformin for Arthritis,35.8,Normal,,< 3.2,< 0.8,2.26
+PAT-893,,64.0,Other,nan,History of Hypertension; new symptoms: nausea,36.8,Normal,> 6.8,> 7.7,> 9.5,Inconclusive
+P5044,,,Other,nan,Patient presents with fatigue. Diagnosed with COPD.,38.0,Normal,7.01,> 9.6,> 5.2,< 4.3
+H41-7908,,112.0,Male,Medicaid,History of COPD; new symptoms: fatigue,36.4,Normal,1.57,< 1.1,< 4.5,73%
+P9606,,57.0,Female,nan,No notes available,39.9,Normal,< 4.4,5.20461666621012,Inconclusive,
+PATIENT_126,,113.0,Male,nan,Prescribed Metformin for Hypertension,101.3,127/96,,4.56,Inconclusive,0.3444411986922957
+PAT-35,2018-08-12,109.0,Other,nan,History of Asthma; new symptoms: pain,66.37644539614561,Normal,> 5.7,> 8.9,< 1.3,> 8.2
+P8284,,,Female,nan,History of Asthma; new symptoms: nausea,104.6,Normal,Negative,9.15,5%,5.97
+P5810,,,Female,Medicaid,History of Arthritis; new symptoms: pain,66.37644539614561,Normal,2.38,8.73,2.320370055620545,> 8.8
+H95-1226,,9.0,Other,nan,HYPERTENSION - nausea observed,38.5,Normal,> 9.5,7.04,< 0.6,9.864736460975964
+P2956,,22.0,Male,nan,Patient presents with pain. Diagnosed with Hypertension.,102.7,150/98,1.032874289590373,7.46,2.8148281514489515,12%
+PAT-203,2019-03-15,15.0,Female,Private,No notes available,35.8,97/86,Negative,3.36,4.55,9.464922462166301
+H78-1301,,58.0,Female,Medicare,No notes available,35.5,Normal,Inconclusive,2.3235488317664013,5.09,< 0.0
+P5447,,,Other,Medicare,No notes available,38.2,172/66,4.25,0.22,73%,> 8.0
+PAT-145,,93.0,Male,nan,Patient presents with pain. Diagnosed with Diabetes.,40.4,Normal,Inconclusive,,76%,69%
+PAT-999,,4.0,Male,Medicaid,Patient presents with pain. Diagnosed with Arthritis.,36.8,140/87,9.118263989526982,1.2401107037007286,3.92,> 9.5
+PATIENT_847,,22.0,Male,nan,Prescribed Lisinopril for COPD,36.6,Normal,9.130212759219182,36%,7.714291217789945,> 9.4
+H68-347,,52.0,Male,Private,No notes available,66.37644539614561,Normal,7.07,7.960301554612553,Inconclusive,64%
+PAT-983,,53.0,Female,Medicaid,Prescribed Lisinopril for Hypertension,97.1,Normal,23%,66%,Negative,< 1.3
+PAT-593,,58.0,Female,nan,Prescribed Lisinopril for Asthma,104.7,Normal,,,1.65,3.43
+H3-8292,,,Other,nan,Prescribed Aspirin for Arthritis,96.9,Normal,32%,< 1.0,3.852549529176914,8.043514340069327
+PATIENT_854,,100.0,Female,nan,History of COPD; new symptoms: nausea,97.7,Normal,90%,5.76,7.51,3.4168002485575064
+H84-8813,,58.0,Female,Medicare,Patient presents with cough. Diagnosed with Hypertension.,102.9,Normal,,59%,58%,< 4.7
+H36-4640,,,Male,nan,No notes available,100.8,Normal,> 6.6,< 1.2,1.25,Inconclusive
+PAT-88,,43.0,Female,nan,No notes available,103.8,Normal,,6.601522755589894,< 1.4,12%
+PAT-861,,39.0,Male,nan,HYPERTENSION - cough observed,35.5,Normal,1.0134455115504626,5.07,,6.579732865211033
+PATIENT_627,,67.0,Female,nan,No notes available,66.37644539614561,179/100,8.68,< 4.8,35%,< 3.2
+H33-3992,,36.0,Other,Medicaid,ARTHRITIS - pain observed,35.5,Normal,56%,9.30,> 5.3,70%
+PATIENT_424,,109.0,Female,nan,History of Asthma; new symptoms: fatigue,39.4,Normal,9.393268775334214,0.5977967128932182,0.35,4.084783757670943
+P5435,2020-03-11,33.0,Other,Medicaid,History of Diabetes; new symptoms: cough,36.7,95/94,< 0.1,,< 3.7,
+PAT-353,,8.0,Female,nan,Patient presents with cough. Diagnosed with Hypertension.,66.37644539614561,Normal,4.9117033712707485,14%,22%,< 3.2
+PAT-159,2020-04-17,3.0,Other,Private,History of Arthritis; new symptoms: cough,39.8,Normal,< 3.5,Negative,Negative,< 1.3
+PAT-780,,63.0,Other,nan,COPD - nausea observed,36.0,Normal,< 0.2,< 4.8,< 3.9,Positive
+P7381,,12.0,Female,Medicare,No notes available,97.3,Normal,< 4.8,Inconclusive,0.08853868626544248,74%
+PATIENT_46,,109.0,Female,nan,No notes available,37.8,100/61,5.158503456508351,< 1.1,6.874518025409114,6.13
+P2586,,94.0,Female,nan,History of Asthma; new symptoms: cough,99.3,Normal,> 8.3,> 6.8,67%,< 2.3
+PATIENT_269,,19.0,Female,nan,Prescribed Metformin for Diabetes,37.9,Normal,4.67,< 4.5,Positive,3.34
+PAT-732,,112.0,Female,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,100.7,Normal,9.61,34%,0.08214521149008003,81%
+H52-2409,,85.0,Male,nan,Prescribed Metformin for Asthma,100.5,Normal,27%,62%,,9.58
+PATIENT_215,,,Female,Medicaid,Patient presents with fever. Diagnosed with Diabetes.,101.6,149/70,< 1.6,Inconclusive,> 7.3,8.005954342128113
+P5199,,29.0,Male,Private,Patient presents with nausea. Diagnosed with Diabetes.,101.8,Normal,,0.1993724684433984,Negative,47%
+PAT-298,,27.0,Female,Medicaid,Prescribed Metformin for Asthma,104.5,Normal,,> 9.7,9.394501459313807,> 8.1
+PAT-949,,100.0,Male,Private,Prescribed Aspirin for COPD,66.37644539614561,Normal,Positive,22%,8.66384687500002,62%
+PAT-835,2020-09-28,70.0,Female,Medicare,ARTHRITIS - pain observed,37.5,Normal,5.37,,94%,< 3.7
+PAT-931,,51.0,Female,nan,History of Diabetes; new symptoms: nausea,38.6,Normal,> 6.9,1.581540078561422,58%,30%
+PAT-579,,115.0,Male,nan,History of Asthma; new symptoms: fever,66.37644539614561,Normal,< 3.6,< 4.4,3.108814649519588,4%
+P4412,,,Other,Medicare,No notes available,38.2,Normal,6.585854883389427,7.13,1.4246386568230074,> 8.1
+PAT-899,,104.0,Male,nan,Patient presents with fatigue. Diagnosed with Diabetes.,37.9,Normal,> 9.3,43%,Inconclusive,7.34
+PATIENT_786,,98.0,Female,Private,HYPERTENSION - cough observed,97.9,Normal,Inconclusive,4.43,> 8.0,7.19
+P3948,,62.0,Female,Medicaid,Prescribed Lisinopril for Arthritis,98.4,Normal,< 4.3,7.67,> 5.9,> 6.6
+PAT-171,2017-09-03,80.0,Male,Private,No notes available,98.4,Normal,,99%,,Positive
+PAT-864,,73.0,Female,nan,No notes available,37.1,Normal,28%,2.64,6.64,8.12
+P5303,,,Female,nan,Prescribed Lisinopril for Arthritis,104.7,Normal,1.69240906159978,Negative,0.6649511283864873,< 3.5
+P9157,,83.0,Male,nan,DIABETES - nausea observed,39.4,Normal,Positive,1.36,Inconclusive,Positive
+H42-5741,,112.0,Female,nan,Prescribed Ventolin for Arthritis,37.2,Normal,< 3.7,Inconclusive,62%,75%
+P3373,,87.0,Male,Medicaid,No notes available,66.37644539614561,Normal,5.910882695381833,< 1.6,> 6.6,7.27
+nan,2020-04-10,,Male,nan,Prescribed Lisinopril for Hypertension,38.1,Normal,> 8.5,4.41,3.7952211785892063,6.56
+P2677,,81.0,Female,nan,History of Diabetes; new symptoms: pain,98.3,Normal,,8.97,> 8.0,9.551030129170208
+P6134,,32.0,Male,nan,Patient presents with pain. Diagnosed with Diabetes.,36.6,Normal,,8%,> 5.9,< 3.4
+PATIENT_969,,32.0,Female,nan,History of Arthritis; new symptoms: fever,98.4,Normal,6.20,99%,96%,40%
+PAT-791,2020-09-22,78.0,Other,nan,COPD - fatigue observed,104.8,Normal,< 2.2,,< 3.5,11%
+PATIENT_944,,36.0,Male,nan,History of Arthritis; new symptoms: fatigue,66.37644539614561,Normal,6.091037801679111,Inconclusive,9.11,Inconclusive
+PAT-897,,101.0,Other,Medicare,Patient presents with cough. Diagnosed with Asthma.,36.2,Normal,< 2.0,Inconclusive,9.27729490250928,5.863355394952836
+H7-3361,2019-04-12,59.0,Other,Private,ARTHRITIS - nausea observed,36.7,Normal,5.118035674745255,48%,< 2.3,Inconclusive
+P4037,2019-12-14,52.0,Other,Private,No notes available,37.4,Normal,< 1.1,< 1.2,Negative,26%
+H95-9406,,44.0,Other,Private,Patient presents with pain. Diagnosed with Asthma.,98.7,Normal,40%,< 1.7,6.685183880625068,3.7600556649444195
+PAT-285,,,Female,Medicaid,History of COPD; new symptoms: cough,36.4,Normal,> 5.5,> 5.8,66%,< 4.3
+PATIENT_694,,,Female,Medicaid,Prescribed Lisinopril for Diabetes,98.8,106/62,< 2.3,> 7.8,< 1.3,6.03
+nan,2018-09-12,,Other,Private,Patient presents with pain. Diagnosed with COPD.,38.0,Normal,26%,> 5.6,> 6.3,> 9.6
+PAT-181,,22.0,Female,nan,History of Arthritis; new symptoms: pain,38.9,Normal,< 2.9,6.71,> 7.6,55%
+P0289,,42.0,Female,nan,Prescribed Metformin for Arthritis,102.7,Normal,Inconclusive,< 3.9,Negative,> 5.3
+PATIENT_290,2017-11-22,47.0,Other,nan,Prescribed Ventolin for Hypertension,39.0,Normal,Inconclusive,7.66,5.683974698453232,78%
+PATIENT_647,,47.0,Female,nan,History of Arthritis; new symptoms: nausea,96.2,Normal,2.43,Negative,27%,6.42
+PATIENT_278,,113.0,Male,Private,History of Diabetes; new symptoms: cough,39.8,122/79,,> 7.1,8.65,Positive
+PATIENT_373,,2.0,Male,Medicare,History of Hypertension; new symptoms: fatigue,96.6,122/82,,> 9.3,< 1.8,4.9663518721452995
+H72-326,2020-11-09,3.0,Female,Private,Patient presents with cough. Diagnosed with COPD.,40.1,Normal,,1.80,2.81,
+PATIENT_887,,0.0,Female,Private,Prescribed Ventolin for Asthma,100.6,Normal,92%,< 2.1,< 1.3,79%
+H55-3615,,63.0,Male,Medicaid,Prescribed Lisinopril for Diabetes,102.1,Normal,> 8.5,7.611837369270514,Negative,> 5.7
+PAT-238,,44.0,Male,Private,Patient presents with fever. Diagnosed with Diabetes.,104.7,Normal,8.53,< 1.5,25%,> 7.0
+P6908,2018-04-10,10.0,Male,nan,No notes available,37.4,114/81,4.111508979166272,Inconclusive,< 1.7,
+P0805,,,Female,Private,No notes available,97.7,146/72,> 7.2,36%,> 10.0,3.25
+PATIENT_686,,114.0,Male,nan,History of COPD; new symptoms: nausea,101.5,Normal,> 6.1,Inconclusive,6.686147005738857,3.32
+PATIENT_920,2017-12-29,57.0,Other,Medicaid,Prescribed Metformin for Asthma,39.0,160/89,> 6.0,,52%,4.07
+PATIENT_965,2018-06-26,,Male,nan,COPD - fatigue observed,36.1,Normal,98%,48%,Positive,4.366459033557021
+P8315,,26.0,Male,nan,No notes available,36.2,Normal,> 8.7,0.35,9.29,> 7.6
+H81-7055,,28.0,Male,nan,Patient presents with fever. Diagnosed with Asthma.,103.1,Normal,> 8.8,> 7.6,,< 0.0
+P0023,,60.0,Female,nan,No notes available,66.37644539614561,Normal,,Inconclusive,89%,> 8.1
+PAT-589,,75.0,Other,Medicare,Prescribed Metformin for COPD,99.7,Normal,7.76,> 9.5,1%,6.984173087917881
+PATIENT_220,,,Other,nan,No notes available,38.4,Normal,8.77,Positive,6.07,Negative
+H52-4426,,81.0,Female,nan,Prescribed Metformin for COPD,66.37644539614561,Normal,> 8.6,< 4.1,,> 8.7
+P9724,,25.0,Male,nan,COPD - fatigue observed,37.2,Normal,3.35,Positive,1.08,> 9.4
+PAT-440,,67.0,Male,nan,Patient presents with pain. Diagnosed with Diabetes.,102.0,Normal,6.213290637766118,3.4209848735972237,93%,< 0.2
+H92-9616,,,Male,nan,History of Arthritis; new symptoms: cough,103.1,167/62,> 9.5,98%,< 1.9,Positive
+P2761,,79.0,Female,nan,No notes available,35.9,Normal,> 6.2,32%,Inconclusive,43%
+H33-4903,,98.0,Female,nan,Patient presents with pain. Diagnosed with Arthritis.,40.5,Normal,< 0.5,Negative,> 5.8,4.772364654662442
+PAT-265,2017-08-28,,Female,nan,DIABETES - fatigue observed,37.2,Normal,0.66,,21%,35%
+PAT-178,,,Male,Medicare,History of Arthritis; new symptoms: fever,96.3,Normal,,< 0.0,Negative,6.024352833773447
+PAT-763,,,Male,nan,No notes available,99.3,149/68,,< 3.1,> 8.0,3.2447308105984662
+PAT-17,,41.0,Female,Medicare,COPD - nausea observed,37.7,98/72,2.7678447867457745,0.9277271640538809,< 3.3,6.56
+PATIENT_456,,104.0,Female,nan,No notes available,38.0,99/82,Positive,< 4.6,> 7.6,
+PATIENT_223,,9.0,Other,Medicaid,COPD - fever observed,102.1,Normal,,76%,2.9968334063945457,9.37
+H62-7204,,70.0,Male,nan,HYPERTENSION - fatigue observed,36.7,Normal,< 3.9,< 4.7,7.26,Positive
+PAT-627,,24.0,Other,nan,No notes available,66.37644539614561,127/97,> 7.2,8.195964975704772,,Negative
+P0591,,,Female,nan,Prescribed Ventolin for Diabetes,103.4,121/96,87%,Negative,Inconclusive,> 8.9
+PATIENT_12,,,Other,Private,No notes available,66.37644539614561,Normal,1.81,3.70,74%,9.68
+PAT-838,,70.0,Female,nan,History of Asthma; new symptoms: fever,38.6,Normal,< 1.1,< 4.6,,< 1.1
+P7933,,26.0,Male,nan,No notes available,102.1,Normal,> 9.3,Positive,< 2.1,> 7.6
+H11-8920,,,Female,Medicare,Prescribed Ventolin for Diabetes,39.6,Normal,< 1.9,Positive,65%,2.97
+PATIENT_261,,70.0,Male,nan,No notes available,102.4,Normal,8.26,Inconclusive,57%,17%
+PATIENT_329,,53.0,Male,Medicare,No notes available,66.37644539614561,Normal,< 0.2,,6.232766078414279,> 8.7
+H61-8522,,119.0,Female,nan,Prescribed Metformin for Arthritis,37.1,Normal,,Inconclusive,Positive,Negative
+P0208,,119.0,Male,nan,History of Arthritis; new symptoms: nausea,101.7,Normal,0.09934830672297279,Inconclusive,< 4.9,93%
+H53-5707,,84.0,Male,nan,Prescribed Lisinopril for COPD,39.3,Normal,Negative,< 1.3,20%,Inconclusive
+P5091,,1.0,Female,nan,No notes available,38.3,Normal,8.145603270458908,,91%,4.621772493454703
+PATIENT_466,,69.0,Male,Medicaid,History of Diabetes; new symptoms: fatigue,98.2,Normal,20%,< 0.2,5.647738376123394,Positive
+P2690,,,Male,Private,Prescribed Lisinopril for Asthma,99.8,Normal,Positive,> 9.4,< 1.0,6.38
+PATIENT_431,,40.0,Male,Private,Prescribed Metformin for Arthritis,38.1,Normal,85%,Negative,,7.31
+PATIENT_176,,,Male,nan,Prescribed Lisinopril for Arthritis,100.2,Normal,> 5.7,< 2.6,1.30,> 7.4
+H64-3602,,14.0,Other,nan,History of Hypertension; new symptoms: nausea,36.8,Normal,Positive,1.6404750341475005,< 1.3,1.73
+PAT-602,,61.0,Female,Medicaid,No notes available,100.5,Normal,< 3.5,43%,32%,5.9507994021129615
+PAT-416,,107.0,Female,Medicaid,Patient presents with nausea. Diagnosed with Asthma.,95.9,Normal,1.44,> 9.8,Negative,7.20
+P2839,,,Female,Medicaid,ARTHRITIS - fever observed,104.7,Normal,,4.58,7.66,9.522919699175738
+P1390,,81.0,Female,nan,No notes available,38.3,Normal,94%,> 8.4,> 5.5,6.229104023598739
+H53-6757,,28.0,Male,nan,No notes available,99.5,Normal,39%,< 1.4,6.461552310292957,> 5.0
+PATIENT_688,,102.0,Male,nan,No notes available,39.7,Normal,> 7.6,,< 0.7,Negative
+P8069,,37.0,Female,nan,ARTHRITIS - nausea observed,39.1,128/99,> 9.7,9.680131947449699,> 7.4,2.95
+PAT-919,,,Other,nan,Patient presents with cough. Diagnosed with Asthma.,101.1,Normal,,Positive,9.80,> 8.1
+H74-368,2018-03-26,81.0,Other,Private,Patient presents with cough. Diagnosed with Arthritis.,37.2,Normal,,,8.46,> 7.7
+H47-9329,,,Female,Medicaid,No notes available,100.9,Normal,< 1.9,2.963549403603732,< 0.6,Inconclusive
+H30-294,,81.0,Other,nan,HYPERTENSION - pain observed,36.2,Normal,1.37,Inconclusive,> 6.4,> 8.7
+PATIENT_540,,,Male,nan,Patient presents with fever. Diagnosed with Arthritis.,39.5,Normal,2.9529218000282698,1.1918953396024257,0.20459196847934957,< 2.4
+H78-5830,,17.0,Female,nan,ARTHRITIS - fever observed,102.1,Normal,> 5.1,> 5.3,< 4.4,1.9770094885411826
+H29-2534,,6.0,Male,nan,Prescribed Metformin for COPD,96.2,Normal,9.243990224816645,6.96,< 2.4,< 1.9
+P4667,,104.0,Male,Medicaid,History of Arthritis; new symptoms: nausea,66.37644539614561,Normal,4.07,< 1.6,Negative,< 1.4
+H90-2186,,74.0,Female,Medicaid,No notes available,104.7,137/94,1.25,6.763935769754323,5.67,< 1.3
+PAT-788,,19.0,Other,nan,History of COPD; new symptoms: pain,98.0,163/68,29%,0.85,5.98,
+PATIENT_826,,,Other,nan,HYPERTENSION - fever observed,98.6,Normal,Negative,> 6.9,< 1.0,< 2.1
+PATIENT_36,,37.0,Male,nan,No notes available,39.9,Normal,> 7.7,> 7.2,2.928201994453865,
+P6487,,55.0,Other,Private,History of COPD; new symptoms: cough,102.8,Normal,Negative,8.96,> 6.0,
+PATIENT_401,,67.0,Female,Medicaid,History of Arthritis; new symptoms: cough,97.8,Normal,86%,0.78,,> 5.5
+PATIENT_931,,,Male,Private,No notes available,38.1,119/60,0.58,74%,,Inconclusive
+P5034,,,Male,nan,Patient presents with fatigue. Diagnosed with Arthritis.,40.2,Normal,Positive,2.25,Inconclusive,Positive
+H39-5717,2017-11-26,93.0,Male,nan,HYPERTENSION - cough observed,99.3,Normal,,,3.9071033600717344,Positive
+nan,2021-03-21,25.0,Male,nan,No notes available,66.37644539614561,Normal,6.912646292458127,23%,Inconclusive,4.878182277355059
+PATIENT_525,,,Male,Private,ARTHRITIS - cough observed,97.1,Normal,2.759150309643993,5.70,1.7021063793688873,
+H66-2138,,,Male,Private,No notes available,101.2,Normal,6.50,,7.95,
+H67-6970,,,Female,nan,Prescribed Aspirin for Arthritis,66.37644539614561,Normal,Positive,> 9.5,> 8.6,6.791144981488289
+H21-3458,,117.0,Other,nan,Patient presents with fatigue. Diagnosed with COPD.,66.37644539614561,Normal,30%,> 7.4,,< 1.2
+PAT-131,,19.0,Other,Medicare,No notes available,37.6,Normal,68%,3.01,63%,> 8.1
+H73-9575,2019-10-20,83.0,Male,Private,Prescribed Metformin for Diabetes,66.37644539614561,Normal,< 4.4,> 7.8,> 5.6,7.88
+PAT-378,,119.0,Male,nan,History of Asthma; new symptoms: pain,97.4,Normal,< 1.4,Negative,7.89,Inconclusive
+PAT-572,,12.0,Male,Private,History of COPD; new symptoms: nausea,37.6,Normal,18%,> 8.5,< 2.0,
+H58-2165,,23.0,Male,Medicare,ARTHRITIS - pain observed,97.6,Normal,,0.3040089570714344,19%,5.515073065105378
+H6-7445,,113.0,Female,nan,No notes available,40.1,Normal,2.93,36%,> 6.4,
+H26-1671,,55.0,Male,Medicaid,Patient presents with fever. Diagnosed with Diabetes.,37.4,Normal,,> 9.1,> 8.5,< 2.7
+H8-8421,2020-11-18,31.0,Male,nan,Prescribed Ventolin for Asthma,96.4,139/81,> 6.8,,Inconclusive,2.78
+PATIENT_959,,26.0,Female,Private,Prescribed Aspirin for Arthritis,39.2,Normal,56%,< 2.6,67%,7.23
+P7603,2020-10-16,96.0,Other,Medicaid,Patient presents with cough. Diagnosed with COPD.,66.37644539614561,Normal,< 3.9,< 3.4,7.99,63%
+P7489,2017-10-24,42.0,Other,nan,Prescribed Ventolin for Asthma,39.4,Normal,Positive,Negative,76%,
+PATIENT_232,,,Female,nan,No notes available,104.2,Normal,3.02,< 3.8,7.32,36%
+PATIENT_268,2019-02-16,,Female,Medicare,History of Asthma; new symptoms: cough,102.4,Normal,21%,Negative,3.93,
+PATIENT_272,,22.0,Male,Medicaid,History of Arthritis; new symptoms: cough,36.9,136/96,Positive,> 6.3,> 8.0,15%
+P3960,,38.0,Male,Medicare,HYPERTENSION - cough observed,38.0,Normal,39%,> 8.9,< 3.4,Negative
+PAT-95,,84.0,Female,Private,ARTHRITIS - pain observed,100.9,Normal,1.392314608661045,Inconclusive,Positive,96%
+PATIENT_714,,79.0,Female,nan,Patient presents with fatigue. Diagnosed with Hypertension.,37.5,135/63,Positive,> 5.2,Inconclusive,4.751640773388488
+H5-8244,,84.0,Other,Private,ARTHRITIS - pain observed,39.1,Normal,Positive,Positive,,Positive
+H32-6754,,,Other,nan,History of Asthma; new symptoms: fever,38.5,Normal,7.12,> 8.9,Inconclusive,3.96
+PATIENT_418,,75.0,Other,Medicaid,ARTHRITIS - pain observed,101.3,Normal,2.90,,< 2.9,3.7671862350744236
+H50-9852,,63.0,Female,Private,Prescribed Lisinopril for Hypertension,66.37644539614561,Normal,Positive,Inconclusive,> 9.5,
+PAT-913,,1.0,Female,Private,History of Diabetes; new symptoms: nausea,37.8,Normal,0.9688650365279372,9.64,> 6.1,> 9.7
+H49-4968,,79.0,Other,nan,Prescribed Aspirin for Hypertension,38.2,152/64,4.29,35%,> 6.2,61%
+PATIENT_957,,36.0,Male,nan,Patient presents with nausea. Diagnosed with Asthma.,39.3,Normal,< 2.9,15%,Negative,
+PATIENT_511,,34.0,Male,nan,History of Hypertension; new symptoms: fatigue,40.1,Normal,4.1280526539974485,< 2.5,> 7.3,4.13
+H46-5681,,8.0,Other,nan,History of Hypertension; new symptoms: fever,66.37644539614561,Normal,6.848076489352063,48%,Inconclusive,< 2.6
+PAT-117,,110.0,Male,nan,History of Hypertension; new symptoms: cough,38.9,Normal,2.712489477705615,58%,5.70,3.13
+H42-5864,,,Female,nan,History of Arthritis; new symptoms: nausea,39.9,Normal,6.05,9.97,9%,7.633308713426845
+PATIENT_967,,32.0,Other,Medicaid,No notes available,36.3,Normal,,59%,2.349856562710243,> 9.5
+H19-4897,,49.0,Male,Private,History of Diabetes; new symptoms: fatigue,104.2,Normal,> 8.1,Inconclusive,8%,9.916181548517523
+H72-9865,,,Male,Medicaid,Patient presents with fatigue. Diagnosed with Hypertension.,40.3,Normal,9.09,< 1.8,> 9.1,< 1.0
+H77-1645,,38.0,Male,nan,Patient presents with fever. Diagnosed with Asthma.,35.6,Normal,,69%,0.77,51%
+PATIENT_785,,28.0,Female,Medicaid,Prescribed Ventolin for Arthritis,102.4,113/60,9.797112683947852,Positive,6.88,
+PATIENT_342,2017-06-06,36.0,Female,Medicaid,No notes available,37.5,Normal,< 1.6,4.4205124196362835,Inconclusive,Positive
+PATIENT_75,,39.0,Female,Private,No notes available,100.0,Normal,17%,6.427994247580701,1.66,3.586151268545782
+P2703,,81.0,Female,nan,Prescribed Aspirin for Arthritis,37.1,Normal,1.5387548962802744,,9.839492987194978,< 2.2
+PAT-344,,74.0,Female,Medicaid,Prescribed Metformin for COPD,40.3,Normal,Negative,> 9.8,,Inconclusive
+PAT-969,,,Female,nan,Prescribed Metformin for Asthma,98.9,Normal,> 9.9,> 6.8,> 8.7,< 1.2
+P8154,2017-09-13,8.0,Other,Medicaid,No notes available,96.2,155/92,76%,8.488219573910708,0.59,> 9.4
+H59-6397,,17.0,Female,nan,History of COPD; new symptoms: nausea,66.37644539614561,Normal,67%,,4.26,85%
+H77-4388,,77.0,Female,nan,No notes available,36.6,Normal,> 9.6,< 1.0,8.638772189105905,
+PAT-723,2018-07-28,,Other,Medicaid,No notes available,102.0,147/96,,< 2.2,60%,5.46
+PAT-485,,47.0,Female,Medicare,ASTHMA - pain observed,96.5,Normal,8.72,95%,< 4.3,9.008134452379226
+PAT-11,,40.0,Female,Medicare,No notes available,96.7,Normal,,9.73489316443436,> 6.0,< 4.3
+PATIENT_893,,45.0,Other,Medicare,HYPERTENSION - fever observed,38.0,Normal,8.35,> 5.7,92%,< 1.6
+PATIENT_645,,3.0,Male,Medicare,Prescribed Metformin for Asthma,66.37644539614561,162/64,< 4.3,90%,> 5.7,0.28112767495356517
+PAT-666,,59.0,Male,nan,HYPERTENSION - pain observed,37.0,108/74,0.98,97%,Positive,88%
+PAT-992,,90.0,Male,nan,Prescribed Aspirin for Hypertension,37.7,Normal,> 5.5,Negative,3.21,> 7.0
+H48-45,,91.0,Female,nan,Patient presents with fever. Diagnosed with Asthma.,100.4,Normal,5.06,3.39,> 7.2,> 8.2
+H35-6136,,9.0,Other,Medicaid,Patient presents with pain. Diagnosed with Asthma.,39.9,Normal,6.21,2%,Negative,Inconclusive
+PATIENT_44,,16.0,Other,Medicaid,ARTHRITIS - pain observed,99.1,Normal,53%,2.141617785648251,< 0.5,1%
+PAT-613,,15.0,Female,nan,No notes available,38.1,Normal,Negative,8.871747880099985,7%,2.9022881730269323
+PATIENT_608,,11.0,Other,nan,History of Asthma; new symptoms: nausea,37.5,Normal,< 1.4,Negative,,> 8.1
+PATIENT_221,,15.0,Other,Medicaid,Prescribed Aspirin for Hypertension,37.8,Normal,< 0.2,,0.36,7.18
+H43-4705,,,Other,nan,DIABETES - fever observed,39.3,Normal,Positive,Negative,< 4.3,> 8.5
+P4720,2018-04-21,56.0,Other,Private,DIABETES - fever observed,98.0,165/70,43%,9.553125216371296,< 2.6,8.49
+P0293,,97.0,Male,Private,No notes available,39.6,171/96,3.842372816533554,8.82,3.0659150807742885,
+PATIENT_42,2021-04-23,108.0,Male,nan,Patient presents with nausea. Diagnosed with Arthritis.,98.0,Normal,> 7.6,5.632874349407606,9.47,1.3738314096081117
+PATIENT_80,2017-06-27,92.0,Other,nan,Prescribed Ventolin for Diabetes,66.37644539614561,Normal,13%,,57%,9.716119499998793
+H95-9202,,102.0,Male,nan,No notes available,101.6,Normal,< 3.7,< 4.8,,< 0.2
+PAT-793,,8.0,Other,Private,History of Hypertension; new symptoms: cough,39.4,159/94,5.24,1.79,8%,1.012407663203465
+PAT-681,2019-02-20,59.0,Other,Medicaid,History of Arthritis; new symptoms: pain,101.0,Normal,,20%,< 4.6,2.0181347442561712
+P3182,2018-06-01,88.0,Female,nan,Prescribed Lisinopril for COPD,66.37644539614561,142/89,< 0.3,Inconclusive,< 1.7,> 9.3
+PATIENT_951,,75.0,Other,Medicaid,Patient presents with nausea. Diagnosed with COPD.,103.4,139/88,> 10.0,,7.88,< 3.1
+PATIENT_694,2018-06-29,,Male,nan,DIABETES - pain observed,66.37644539614561,Normal,8.03448438647677,> 9.3,7.911464289977075,9.33
+H98-5985,,15.0,Male,nan,History of Hypertension; new symptoms: fatigue,103.8,Normal,,> 6.4,,3.9219614027718217
+PATIENT_784,2020-04-06,,Male,nan,ARTHRITIS - fatigue observed,66.37644539614561,Normal,> 7.4,3.015416730661741,Positive,< 2.7
+H51-6915,2018-08-03,,Female,Medicare,No notes available,38.5,Normal,3.2909360816788324,5.51,1.447096168765084,> 5.3
+PATIENT_542,,52.0,Female,nan,History of Hypertension; new symptoms: fever,37.1,169/83,6%,> 9.8,28%,< 0.4
+PATIENT_163,,13.0,Female,nan,Prescribed Lisinopril for Asthma,39.9,Normal,< 2.9,9.77,5.18,3.29
+P1521,,41.0,Other,nan,Patient presents with pain. Diagnosed with Arthritis.,38.0,Normal,7.83,Inconclusive,Positive,
+PATIENT_840,,,Female,Medicaid,ARTHRITIS - pain observed,36.4,Normal,2.131084164685406,< 0.2,68%,17%
+PAT-155,,79.0,Male,nan,History of Hypertension; new symptoms: fatigue,97.9,Normal,43%,49%,30%,> 6.9
+H16-7182,,29.0,Other,Medicare,History of Asthma; new symptoms: cough,98.3,Normal,95%,8.97,< 3.2,
+PAT-819,,42.0,Female,Medicare,No notes available,102.7,Normal,28%,6.84,> 7.8,Negative
+H11-4282,,81.0,Male,Medicare,Patient presents with pain. Diagnosed with COPD.,66.37644539614561,165/94,> 6.6,> 8.6,Positive,3.49
+PATIENT_234,2020-02-15,43.0,Female,Medicare,History of Asthma; new symptoms: nausea,103.9,Normal,Inconclusive,> 5.6,84%,1.58
+P0343,,,Male,nan,No notes available,37.3,Normal,> 5.5,0.68,,3.40
+PATIENT_580,,30.0,Female,nan,History of Hypertension; new symptoms: fatigue,35.9,Normal,> 8.2,1.2416249383597566,8.47,Negative
+P8375,2019-12-25,75.0,Male,nan,Patient presents with nausea. Diagnosed with COPD.,103.8,Normal,< 3.0,< 3.2,,2.59
+nan,2020-05-29,27.0,Male,Medicaid,History of COPD; new symptoms: nausea,99.6,174/100,6.995054603216521,Inconclusive,86%,> 6.7
+P3561,,117.0,Other,Medicare,No notes available,37.1,Normal,,< 4.6,7.624354682037776,25%
+P0952,,,Female,nan,Prescribed Ventolin for COPD,97.2,Normal,81%,7.321228130744117,> 8.2,
+PATIENT_198,,79.0,Male,nan,Prescribed Lisinopril for Arthritis,104.8,Normal,> 9.6,7.1905940604037255,,8.06
+PATIENT_787,,54.0,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,39.1,Normal,< 1.2,7.92,< 2.1,1.00
+P3640,2017-04-21,83.0,Female,nan,Prescribed Lisinopril for Diabetes,38.3,Normal,Positive,,6.05,> 9.7
+PAT-834,,31.0,Other,Medicaid,No notes available,102.8,Normal,9.75945540079444,,21%,2.2337027412515065
+PATIENT_787,2017-05-27,54.0,Male,nan,Patient presents with cough. Diagnosed with Arthritis.,39.1,Normal,< 1.2,7.92,< 2.1,1.00
+nan,2019-08-09,64.0,Male,nan,No notes available,35.9,142/79,> 5.3,,> 7.6,< 3.4
+PATIENT_974,2019-03-21,90.0,Other,Medicaid,Prescribed Ventolin for Diabetes,66.37644539614561,Normal,3.80,> 7.7,87%,
+PATIENT_726,,90.0,Female,Medicare,Patient presents with fatigue. Diagnosed with Hypertension.,39.1,Normal,,,Inconclusive,< 1.9
+P2466,2020-08-31,118.0,Male,Medicare,No notes available,98.1,Normal,3.11,< 1.9,< 4.7,40%
+H50-6445,,23.0,Other,nan,History of Arthritis; new symptoms: fatigue,66.37644539614561,Normal,Inconclusive,8.60,> 8.9,Positive
+PATIENT_39,,51.0,Female,nan,ARTHRITIS - nausea observed,100.3,Normal,< 3.8,,Negative,
+P8876,,,Female,Medicaid,Prescribed Ventolin for Asthma,100.9,Normal,9.985217086487493,53%,Negative,1.664508100206623
+PATIENT_426,2020-05-14,53.0,Male,Medicaid,COPD - fever observed,36.3,114/76,,> 7.7,Inconclusive,
+H0-3512,2017-07-14,30.0,Other,nan,Patient presents with fever. Diagnosed with Asthma.,35.6,122/88,> 7.0,,3.05,6.587419306742662
+H11-4248,,22.0,Male,Medicaid,ASTHMA - fatigue observed,40.2,Normal,< 3.3,3%,5%,> 7.3
+P5709,,19.0,Male,nan,Prescribed Ventolin for Diabetes,37.7,Normal,1.42,4.80,,43%
+P7691,,,Other,nan,History of COPD; new symptoms: fatigue,97.9,113/71,Negative,,> 5.0,< 0.3
+PAT-809,,104.0,Male,nan,History of COPD; new symptoms: nausea,66.37644539614561,155/89,> 5.5,Positive,> 7.5,5.90795506467451
+P8876,2020-04-06,,Female,Medicaid,Prescribed Ventolin for Asthma,100.9,Normal,9.985217086487493,53%,Negative,1.664508100206623
+PAT-311,,26.0,Female,nan,No notes available,38.5,128/75,< 2.5,> 5.3,9.226047995987706,< 3.7
+H81-6590,2019-08-29,,Male,nan,No notes available,38.0,110/81,7.182854410757896,Negative,80%,4.16
+P5878,2017-11-04,,Male,nan,Patient presents with nausea. Diagnosed with COPD.,38.8,Normal,> 5.9,,> 9.2,Negative
+PATIENT_119,,78.0,Male,nan,Prescribed Metformin for Hypertension,38.8,Normal,,,93%,< 3.0
+H83-435,2018-08-26,16.0,Other,nan,No notes available,39.2,Normal,> 6.5,59%,> 7.2,1.441812090670077
+H81-1092,,44.0,Female,nan,Prescribed Ventolin for Diabetes,39.5,Normal,56%,47%,> 5.3,8.03
+PAT-523,,8.0,Male,nan,Patient presents with cough. Diagnosed with Asthma.,37.6,151/97,> 8.3,8.959823057769555,> 7.2,> 5.5
+PATIENT_42,2020-09-29,6.0,Female,Private,History of Diabetes; new symptoms: fatigue,37.4,129/66,> 8.6,5.200285070809105,2.69,0.08266175953806965
+P0649,,116.0,Male,nan,Prescribed Metformin for Hypertension,36.0,Normal,< 0.9,,Negative,7.64
+PATIENT_122,,74.0,Male,nan,No notes available,66.37644539614561,Normal,< 2.5,Inconclusive,32%,< 0.1
+PATIENT_500,,52.0,Male,Private,Prescribed Metformin for Diabetes,96.6,Normal,> 8.2,Positive,64%,57%
+PATIENT_990,,42.0,Female,nan,Patient presents with fatigue. Diagnosed with COPD.,37.3,Normal,< 4.1,Inconclusive,17%,93%
+PATIENT_972,,,Other,nan,History of Hypertension; new symptoms: fever,38.0,Normal,,2.72,,8.833384941744416
+P2676,,31.0,Other,nan,HYPERTENSION - nausea observed,98.7,Normal,< 3.5,8.48,,Inconclusive
+P5016,,58.0,Female,nan,No notes available,38.2,Normal,0.21,Inconclusive,> 8.0,7.965406879035392
+P1050,,,Other,Private,DIABETES - nausea observed,38.6,Normal,,9.06,7.44,2.38
+PATIENT_270,,38.0,Other,Medicaid,No notes available,100.6,131/79,> 9.7,41%,,Inconclusive
+P9614,,18.0,Female,Medicare,No notes available,37.4,Normal,4.230300446195999,Negative,Positive,1.32
+PAT-936,,,Female,Medicaid,No notes available,104.8,Normal,,0.33152134860025884,< 0.8,Negative
+P3843,,110.0,Other,Private,No notes available,38.8,140/71,< 2.2,4.72,,0.67
+PATIENT_414,,16.0,Other,nan,ARTHRITIS - fever observed,37.5,Normal,< 1.9,> 7.9,Positive,
+PAT-159,,86.0,Female,nan,Prescribed Metformin for Diabetes,102.8,Normal,,Positive,99%,< 2.6
+H41-755,,,Male,Private,Patient presents with cough. Diagnosed with Arthritis.,66.37644539614561,Normal,85%,1.575502585767864,1.41,< 3.6
+PAT-83,,73.0,Other,nan,Patient presents with pain. Diagnosed with Diabetes.,100.0,144/66,40%,4.47,,< 0.7
+PAT-559,,76.0,Other,nan,No notes available,99.9,Normal,1.1880438682148742,3.31,8.67983524705846,
+P6609,,0.0,Male,Medicare,No notes available,101.0,Normal,Positive,Positive,61%,< 3.6
+PAT-665,,,Male,nan,No notes available,39.6,151/90,Inconclusive,Inconclusive,Inconclusive,> 5.2
+PAT-771,,38.0,Male,nan,Patient presents with nausea. Diagnosed with Diabetes.,37.5,Normal,52%,> 7.5,> 8.3,Positive
+P2610,,18.0,Male,nan,No notes available,38.6,Normal,6.12,> 6.5,0%,
+H45-1613,,95.0,Female,Medicare,No notes available,38.6,Normal,Negative,13%,,4.57
+P5529,,98.0,Other,nan,History of Arthritis; new symptoms: pain,37.5,Normal,Positive,< 2.4,< 3.1,Negative
+PATIENT_575,2020-09-18,45.0,Male,nan,Patient presents with fever. Diagnosed with Asthma.,66.37644539614561,Normal,5.70,0.534060203525728,> 9.6,< 4.3
+P9963,2019-03-30,5.0,Other,nan,No notes available,36.1,Normal,< 0.2,71%,,< 1.2
+H45-718,,28.0,Female,nan,ARTHRITIS - nausea observed,102.9,Normal,> 5.9,7%,2.792549827122537,> 7.0
+H69-3772,,26.0,Female,nan,Prescribed Lisinopril for Asthma,38.6,156/88,< 5.0,5.19,> 5.3,97%
+P7275,,5.0,Female,Private,Patient presents with pain. Diagnosed with Asthma.,96.7,Normal,Inconclusive,,Inconclusive,< 1.4
+PAT-20,,16.0,Female,Medicaid,No notes available,39.5,Normal,> 6.4,9.85,4.917691875538932,> 6.3
+H86-5400,,106.0,Female,nan,History of Asthma; new symptoms: fever,38.5,Normal,,2.66,> 7.6,28%
+P6271,,28.0,Male,Private,Patient presents with pain. Diagnosed with Hypertension.,66.37644539614561,Normal,3.81,< 4.5,2.82,8.60947176201691
+H69-4507,,101.0,Male,Medicare,Patient presents with fever. Diagnosed with Arthritis.,39.7,Normal,Inconclusive,9.428721483171627,0.46188341272537237,
+P2594,,10.0,Other,nan,No notes available,101.3,170/100,49%,< 4.0,Positive,Positive
+nan,2017-09-01,89.0,Other,nan,History of Asthma; new symptoms: cough,39.7,Normal,> 5.1,3.00,> 6.2,> 7.3
+H95-8614,,18.0,Other,nan,ASTHMA - fatigue observed,37.3,Normal,< 3.9,4.89,< 4.2,> 9.5
+PAT-633,2021-02-12,52.0,Male,nan,Prescribed Metformin for Asthma,102.2,129/98,> 7.5,,6.903405651524485,7.37
+PAT-470,,,Male,Private,Patient presents with nausea. Diagnosed with Diabetes.,66.37644539614561,Normal,Negative,< 1.5,< 4.7,58%
+PAT-498,,15.0,Female,Private,No notes available,66.37644539614561,Normal,4.55,0.61,6.890149222474965,54%
+PATIENT_263,,107.0,Female,nan,Prescribed Lisinopril for Hypertension,37.5,Normal,> 5.3,Positive,6%,Positive
+nan,2019-03-30,98.0,Other,nan,No notes available,96.5,135/94,,0.47004545153717214,> 5.3,8.62
+H88-6068,,85.0,Other,nan,Patient presents with pain. Diagnosed with COPD.,66.37644539614561,Normal,< 1.9,79%,0.49,83%
+PAT-817,2020-11-02,88.0,Female,Medicare,COPD - fever observed,39.8,Normal,83%,7.178481561273008,5.0107997586293855,2.18
+H53-2527,,51.0,Other,Medicaid,Prescribed Aspirin for Hypertension,66.37644539614561,Normal,,4.35,16%,3.8311258258204406
+PATIENT_33,,20.0,Female,nan,No notes available,101.3,Normal,,> 9.4,0.2107972809306169,Negative
+P9193,,53.0,Male,Private,No notes available,38.8,Normal,7.17,< 5.0,< 4.1,> 7.7
+P5393,2021-01-08,111.0,Male,Medicaid,Patient presents with pain. Diagnosed with Hypertension.,38.5,Normal,8.368764987356212,> 9.9,,
+P6390,2018-10-07,36.0,Female,nan,No notes available,66.37644539614561,104/63,50%,62%,< 2.9,58%
+PAT-445,,3.0,Male,nan,Prescribed Metformin for Asthma,36.6,Normal,4.88,> 9.7,,
+P9843,,53.0,Other,nan,No notes available,36.7,Normal,Inconclusive,Inconclusive,Positive,8.399570494180537
+PAT-184,,40.0,Female,Private,No notes available,96.5,98/79,> 6.0,> 9.7,3.427293734522172,
+PAT-491,,14.0,Male,nan,Patient presents with fever. Diagnosed with Arthritis.,66.37644539614561,Normal,4.490893604639737,< 4.9,,> 8.9
+PATIENT_320,,70.0,Female,nan,Prescribed Metformin for COPD,104.8,Normal,< 2.5,Negative,3.430017181008882,< 3.9
+PAT-927,2021-04-09,83.0,Female,nan,ARTHRITIS - cough observed,38.5,Normal,> 7.6,,< 3.6,< 1.7
+PATIENT_38,,107.0,Female,nan,No notes available,38.4,Normal,25%,7.878657909264996,,< 3.5
+P9709,,119.0,Other,nan,History of Hypertension; new symptoms: fever,38.0,Normal,9.230659995839321,Inconclusive,Negative,Positive
+PATIENT_911,,85.0,Male,Medicare,ARTHRITIS - fatigue observed,101.8,Normal,45%,33%,< 1.8,0.97
+H74-674,,,Female,nan,Prescribed Lisinopril for Diabetes,36.9,Normal,,Inconclusive,< 4.5,2.13
+PAT-744,,24.0,Female,Medicaid,History of Arthritis; new symptoms: fever,38.1,Normal,Inconclusive,Inconclusive,< 2.6,> 8.7
+H86-4901,,105.0,Other,Medicare,Patient presents with fatigue. Diagnosed with Asthma.,39.2,Normal,< 1.9,< 1.9,,3.414426208664353
+nan,2020-07-19,26.0,Male,Medicare,ARTHRITIS - pain observed,100.5,146/70,> 9.8,> 5.0,36%,17%
+PATIENT_589,,93.0,Female,Medicare,Prescribed Aspirin for COPD,35.7,Normal,3.1600063095281494,< 4.6,1.7303951564851427,62%
+PATIENT_722,2021-01-31,106.0,Other,Private,Prescribed Ventolin for Hypertension,96.9,Normal,> 9.3,6.564581130846038,,< 3.0
+P3817,,31.0,Other,Private,History of COPD; new symptoms: nausea,98.7,Normal,,50%,9.106717657307454,6.150380463107583
+P5337,,,Male,nan,History of COPD; new symptoms: cough,37.2,Normal,Inconclusive,3.2037232715107598,0.70,17%
+PATIENT_417,2017-06-17,,Other,nan,History of Hypertension; new symptoms: fever,39.6,Normal,62%,> 5.8,47%,< 3.1
+P4896,,10.0,Female,nan,No notes available,39.0,Normal,,0.9562330748382797,Negative,9.760291473919443
+H31-1846,2017-10-20,8.0,Female,nan,History of Asthma; new symptoms: fatigue,40.4,Normal,3%,< 0.6,4.89,3.1669114346236613
+PAT-207,,20.0,Female,nan,Prescribed Aspirin for Diabetes,39.7,Normal,> 5.3,1.8021741150598536,,< 1.8
+PAT-208,2017-04-07,111.0,Male,nan,No notes available,37.7,Normal,Positive,7%,< 4.7,6.39
+PATIENT_26,,,Male,Medicaid,History of Arthritis; new symptoms: pain,66.37644539614561,Normal,2.06,6.12,Inconclusive,1.274358198409582
+PATIENT_298,,27.0,Female,nan,DIABETES - nausea observed,39.5,Normal,,> 8.7,3.77,Inconclusive
+PATIENT_186,,5.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,102.0,Normal,3.12,,5.183547036685284,
+P3867,,36.0,Female,nan,Patient presents with nausea. Diagnosed with Arthritis.,103.8,Normal,Positive,< 0.4,< 0.0,> 8.1
+nan,2020-12-15,,Male,nan,Patient presents with fatigue. Diagnosed with Hypertension.,37.5,Normal,> 7.4,> 5.7,67%,2.2636175230755775
+PAT-735,,0.0,Female,nan,Patient presents with pain. Diagnosed with Asthma.,36.2,Normal,> 5.0,4.27,2.6196618920000425,0.79
+PAT-795,,6.0,Female,nan,History of COPD; new symptoms: fever,66.37644539614561,Normal,Negative,> 8.3,5.321280643082678,< 3.2
+P2428,,4.0,Male,Medicaid,ARTHRITIS - fever observed,37.1,146/78,,Negative,,6.52556163904794
+P2318,,99.0,Female,Medicare,No notes available,38.8,153/65,,> 8.7,8.838138349026005,Positive
+PAT-685,,111.0,Other,Private,Patient presents with fever. Diagnosed with Asthma.,38.6,Normal,78%,> 8.4,6.800715871672289,< 4.8
+PATIENT_60,,22.0,Male,nan,Patient presents with cough. Diagnosed with COPD.,99.3,Normal,10%,3.93,< 4.6,51%
+PATIENT_657,,10.0,Other,nan,Patient presents with fever. Diagnosed with Arthritis.,37.0,Normal,55%,,> 5.1,> 9.8
+P0080,2021-01-20,67.0,Other,Medicaid,History of Asthma; new symptoms: fever,38.0,Normal,> 9.0,Positive,29%,6.17
+P7421,,97.0,Female,nan,No notes available,37.3,Normal,,> 9.5,78%,Negative
+PATIENT_295,,93.0,Male,Medicaid,No notes available,103.8,Normal,8.786905186614195,> 8.0,2.72,81%
+H90-2841,,97.0,Female,nan,History of Diabetes; new symptoms: pain,66.37644539614561,Normal,8.186326088011162,,0.8202284801328974,< 2.3
+PATIENT_201,,79.0,Female,Medicaid,No notes available,102.7,178/95,0.8228878970881925,< 4.9,18%,
+PATIENT_382,,,Female,nan,Prescribed Ventolin for Hypertension,96.1,Normal,4.53,,3.28,93%
+PAT-821,,,Other,nan,No notes available,96.8,Normal,< 0.5,> 8.7,Positive,Inconclusive
+H96-4989,2019-09-05,94.0,Male,nan,No notes available,37.7,Normal,5.267144842646468,0.25,Negative,3.23
+PAT-903,,,Female,Private,Patient presents with nausea. Diagnosed with Diabetes.,102.7,Normal,Positive,Positive,Inconclusive,5.00
+PAT-578,,,Female,nan,Patient presents with fatigue. Diagnosed with Hypertension.,101.5,Normal,0.8022366294299099,Negative,> 8.6,1.9216249206962177
+H83-2544,,58.0,Female,nan,History of COPD; new symptoms: cough,40.1,Normal,2.555799535974803,> 8.2,5.81,1.78
+H15-6031,,37.0,Other,nan,Prescribed Metformin for Asthma,103.4,Normal,93%,> 9.3,Positive,83%
+PAT-766,,63.0,Male,nan,History of COPD; new symptoms: cough,102.4,Normal,> 5.6,0.9526434151186369,4.190367103720874,> 9.1
+H66-8478,,102.0,Male,nan,History of Hypertension; new symptoms: pain,96.3,Normal,6.58,< 1.6,42%,8.57
+PATIENT_943,,,Female,nan,History of Asthma; new symptoms: pain,99.0,140/96,99%,,9.459938933949948,> 5.9
+PAT-115,2017-11-01,14.0,Female,nan,No notes available,66.37644539614561,Normal,> 8.8,4.599709501143446,> 6.9,7.75
+PATIENT_571,,79.0,Male,Medicaid,Patient presents with fever. Diagnosed with Hypertension.,100.3,140/98,38%,31%,> 8.4,25%
+H38-6981,,,Other,nan,History of Arthritis; new symptoms: pain,96.8,Normal,,26%,< 2.5,> 7.7
+PATIENT_864,,115.0,Other,Medicare,No notes available,39.6,Normal,9.69,> 7.9,Positive,6.68
+PAT-632,,21.0,Other,nan,COPD - fatigue observed,100.7,Normal,4.46,2.66,52%,2.5003807410406367
+H89-8755,,36.0,Female,Medicare,No notes available,36.9,Normal,4.11649446455952,> 5.5,9.98,Negative
+H42-3819,,43.0,Female,nan,Patient presents with fever. Diagnosed with Asthma.,102.6,125/70,2.27,< 3.5,9.53,> 6.4
+H64-680,,21.0,Other,nan,ASTHMA - cough observed,66.37644539614561,Normal,,9.72584543179135,< 2.8,Positive
+P4469,,44.0,Female,nan,Prescribed Aspirin for COPD,98.8,Normal,,6.81654400612662,Inconclusive,60%
+P3411,,113.0,Male,nan,Patient presents with cough. Diagnosed with Asthma.,39.8,Normal,> 6.8,,5.05,< 4.2
+H29-2934,2018-06-30,102.0,Other,nan,No notes available,40.2,Normal,0.90,100%,< 2.2,6.51
+PAT-641,,30.0,Female,Private,History of Diabetes; new symptoms: cough,97.8,118/74,> 9.9,0.8317267849100674,4.746209268752031,
+P6638,,,Other,nan,No notes available,38.1,Normal,88%,< 1.9,5.30,> 7.9
+PAT-558,,119.0,Female,nan,No notes available,38.5,Normal,1.82,,Inconclusive,6.655451206442282
+H93-1222,,1.0,Female,Medicare,No notes available,96.1,Normal,> 9.5,> 9.4,,> 5.3
+PAT-659,,111.0,Male,nan,History of Diabetes; new symptoms: cough,36.0,165/91,1.7407496928819555,6%,1.07,< 0.1
+PAT-914,,,Other,Private,No notes available,38.2,Normal,> 6.3,Negative,Positive,7.22
+PAT-869,,58.0,Male,nan,Patient presents with cough. Diagnosed with Hypertension.,39.6,Normal,6.019648766005602,1.58,> 9.7,5%
+PATIENT_884,,8.0,Other,Private,ASTHMA - cough observed,98.3,154/70,,7.549144908023468,9.20,> 6.0
+H4-6242,,112.0,Female,Private,Patient presents with fever. Diagnosed with Arthritis.,99.2,Normal,Negative,Positive,59%,63%
+P7644,2019-01-16,112.0,Female,Private,History of Diabetes; new symptoms: nausea,66.37644539614561,Normal,6.68,53%,50%,> 5.7
+PATIENT_228,,,Female,nan,Prescribed Ventolin for Diabetes,66.37644539614561,Normal,,53%,25%,> 8.5
+H92-3047,,35.0,Female,nan,Prescribed Metformin for Hypertension,38.9,Normal,< 2.7,> 7.7,23%,2.56
+H22-7781,,28.0,Other,Medicare,Prescribed Ventolin for Diabetes,37.3,Normal,Positive,3.565766035769511,,< 1.2
+H34-231,,6.0,Male,nan,No notes available,98.7,Normal,Positive,4.68,Positive,Inconclusive
+H93-5631,,96.0,Male,Medicare,No notes available,36.8,Normal,< 1.6,3.43,,8.21499060614855
+H44-5809,2017-04-08,50.0,Other,Medicaid,No notes available,37.4,Normal,4.00,90%,9.29,17%
+PAT-781,,61.0,Other,nan,Prescribed Lisinopril for Diabetes,37.5,Normal,9.273518084075416,,2%,89%
+P3930,2020-12-21,23.0,Other,Medicare,No notes available,40.3,Normal,5.15,< 3.9,93%,Negative
+PAT-709,2021-05-12,118.0,Male,Private,Patient presents with fatigue. Diagnosed with Asthma.,40.3,135/72,< 1.8,> 9.2,5.97,3.126712962566225
+PATIENT_212,,88.0,Other,nan,History of Hypertension; new symptoms: nausea,97.1,Normal,Negative,94%,7.16,Positive
+PAT-857,,102.0,Male,nan,No notes available,101.9,Normal,,Positive,< 2.9,9.103033266746186
+P6030,,104.0,Female,nan,History of Diabetes; new symptoms: cough,35.9,97/94,0.6290762544881168,> 7.7,Positive,Inconclusive
+P0291,,10.0,Other,Medicaid,ARTHRITIS - fever observed,98.2,Normal,Inconclusive,> 9.0,< 3.0,3.7428941628097467
+nan,2020-09-15,86.0,Male,nan,Patient presents with nausea. Diagnosed with Asthma.,97.3,Normal,< 3.3,3.16,4.127094127907292,
+H1-2035,,44.0,Female,nan,History of Hypertension; new symptoms: cough,102.6,Normal,Inconclusive,9.651107664560664,77%,
+H47-3961,2019-11-03,88.0,Male,Medicare,History of Arthritis; new symptoms: fever,37.0,Normal,< 1.1,,,6.980205287581457
+PATIENT_848,,118.0,Male,nan,Patient presents with fever. Diagnosed with Hypertension.,103.2,Normal,< 2.1,49%,> 9.8,8.15
+PATIENT_641,2018-09-21,78.0,Female,Medicare,ASTHMA - fatigue observed,40.3,Normal,6.135495100452778,,,3.288579715261659
+H56-5405,,34.0,Other,Medicaid,Patient presents with cough. Diagnosed with COPD.,101.8,Normal,15%,> 9.2,3.93,8.78
+H37-7412,,106.0,Other,nan,Prescribed Metformin for Arthritis,66.37644539614561,Normal,46%,< 2.7,3.25,9.696590330201605
+PATIENT_250,2018-06-06,113.0,Female,Private,History of Hypertension; new symptoms: cough,39.9,Normal,Inconclusive,,< 0.7,1.375871255114326
+PAT-980,2020-06-01,76.0,Male,nan,COPD - cough observed,96.7,Normal,> 8.7,> 8.3,> 9.5,< 1.6
+P1523,,,Other,Medicare,History of Hypertension; new symptoms: pain,38.7,Normal,69%,6.06,,Positive
+PAT-409,,,Female,Medicaid,No notes available,96.2,Normal,Negative,> 7.3,< 0.1,7.128251715006522
+H86-4217,,106.0,Other,Private,Prescribed Ventolin for Asthma,104.2,Normal,Positive,Positive,4.229154527426333,0.00
+P6326,,56.0,Other,nan,No notes available,37.0,169/69,< 1.0,> 9.9,4.85,
+H91-7482,2021-01-02,38.0,Other,Medicaid,Prescribed Aspirin for Asthma,99.5,147/82,Inconclusive,,48%,> 8.4
+PAT-922,,118.0,Other,Private,Prescribed Lisinopril for COPD,104.4,Normal,46%,> 6.0,> 9.1,> 9.3
+PAT-370,2017-08-14,75.0,Female,Private,Patient presents with pain. Diagnosed with COPD.,38.0,Normal,8.115238740728765,9.41,44%,10%
+PAT-219,,2.0,Male,Medicaid,COPD - nausea observed,102.2,Normal,< 4.7,6.57,< 3.4,67%
+H64-8273,,13.0,Female,Medicare,Patient presents with cough. Diagnosed with Asthma.,39.6,Normal,> 8.2,2.79,Negative,< 3.8
+PAT-874,,33.0,Other,nan,Prescribed Metformin for Arthritis,99.6,Normal,7.208956499952359,,3.00,0.4709028571281215
+PATIENT_808,,15.0,Male,nan,Prescribed Lisinopril for COPD,101.8,Normal,3.272481581752651,10%,< 0.3,> 9.8
+P8600,,28.0,Female,nan,Prescribed Metformin for Asthma,36.5,Normal,< 1.1,9.38,< 4.4,72%
+PAT-681,,3.0,Female,Medicaid,No notes available,39.1,Normal,81%,2.79377208889827,8.542017367416962,< 4.0
+PAT-94,,,Male,Private,HYPERTENSION - fatigue observed,104.4,168/62,2.199059904471751,Positive,> 8.0,5.37
+PATIENT_562,,75.0,Female,Private,History of Diabetes; new symptoms: fever,66.37644539614561,Normal,< 3.8,1.554518244250288,Inconclusive,< 2.6
+H90-3877,,,Other,nan,COPD - pain observed,40.4,Normal,> 7.2,Negative,35%,> 5.1
+P3337,,77.0,Female,Medicaid,ARTHRITIS - fever observed,36.7,Normal,3.57,3.567247188090392,Negative,
+P3850,,60.0,Female,nan,History of Asthma; new symptoms: fatigue,40.1,Normal,< 3.9,,< 1.1,Negative
+PATIENT_710,,26.0,Male,Private,History of Diabetes; new symptoms: cough,99.3,98/93,4.426338521901981,> 9.0,52%,< 2.7
+H35-3331,,36.0,Female,nan,Prescribed Aspirin for Asthma,66.37644539614561,Normal,Inconclusive,> 9.1,> 7.3,
+P3860,2017-11-30,81.0,Male,Medicare,HYPERTENSION - pain observed,97.2,Normal,70%,8.54049929498203,> 9.7,Positive
+P8955,2018-05-09,111.0,Female,Medicare,Patient presents with fatigue. Diagnosed with COPD.,100.8,Normal,< 4.3,,< 4.1,Negative
+PATIENT_65,2019-11-14,98.0,Female,Medicare,History of Asthma; new symptoms: fatigue,101.7,Normal,7.67,,3.22,5.68
+P3051,,56.0,Female,nan,COPD - fatigue observed,37.9,Normal,Positive,92%,> 9.7,Negative
+H50-8445,,89.0,Male,Medicare,No notes available,103.1,Normal,Positive,5.304976019014852,< 4.9,61%
+P3474,,43.0,Female,Medicare,History of Arthritis; new symptoms: cough,99.9,Normal,2.8247504931220027,Positive,,Inconclusive
+H43-2798,2019-09-04,104.0,Male,nan,No notes available,104.1,Normal,Negative,19%,< 0.8,< 4.3
+P3697,,100.0,Male,Medicare,No notes available,98.0,Normal,> 6.4,7.54,4.009101927176357,2.11
+PATIENT_918,,,Female,Private,No notes available,39.0,Normal,9.45834145818101,2.283461312921421,< 1.5,Positive
+PAT-521,,28.0,Male,nan,HYPERTENSION - nausea observed,35.8,174/65,,Negative,25%,7.2516597758747405
+PAT-955,,27.0,Other,Medicare,History of Asthma; new symptoms: nausea,100.7,106/65,< 0.2,9.81,58%,< 1.1
+PAT-971,,0.0,Male,nan,ARTHRITIS - fever observed,38.2,121/80,6.60,7.539697978340268,> 9.2,< 0.7
+P1074,,62.0,Other,Private,Patient presents with cough. Diagnosed with Diabetes.,66.37644539614561,Normal,Positive,,Negative,6.45
+PAT-538,,12.0,Other,Private,No notes available,39.1,Normal,1.0482346303275403,3.214966448438572,88%,3.64
+P4829,,,Female,nan,No notes available,39.1,Normal,,Negative,> 7.3,1.16
+PATIENT_570,,90.0,Male,Medicaid,Patient presents with cough. Diagnosed with Arthritis.,40.0,Normal,,2.78,6.496545084165001,38%
+H48-4757,,25.0,Male,nan,No notes available,39.2,161/86,< 3.1,19%,57%,< 3.3
+P8752,,,Male,nan,No notes available,37.2,Normal,46%,99%,9.921612953330289,Negative
+H35-9907,2020-09-15,119.0,Other,Medicaid,History of Diabetes; new symptoms: fatigue,39.2,Normal,5.14,Inconclusive,< 2.6,> 5.6
+P7515,,51.0,Female,nan,Prescribed Metformin for COPD,36.6,Normal,Inconclusive,> 6.0,7.27,2.925519654240134
+H64-9054,,42.0,Other,nan,History of Hypertension; new symptoms: fever,102.4,Normal,3.25,1.429421520877322,0.01731210744259082,> 9.2
+PATIENT_856,,6.0,Female,Private,Patient presents with fever. Diagnosed with Diabetes.,36.1,Normal,< 5.0,Positive,< 3.8,> 6.3
+PAT-586,2017-06-05,93.0,Other,nan,Patient presents with cough. Diagnosed with Diabetes.,97.9,Normal,> 9.9,6.240456533051235,5.738941794497848,< 3.2
+PAT-777,,,Male,nan,History of Asthma; new symptoms: fatigue,104.3,Normal,> 6.7,Negative,Positive,< 4.9
+H28-9738,2019-10-14,37.0,Other,nan,No notes available,37.0,Normal,6.80,5.743731168534661,17%,> 7.6
+H76-4481,,10.0,Other,nan,No notes available,40.5,Normal,> 9.6,> 8.9,9.465968793795357,88%
+H37-2030,,18.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,101.5,154/90,> 8.1,< 0.6,> 8.6,1.11
+P6101,,27.0,Female,Medicaid,Patient presents with cough. Diagnosed with Hypertension.,66.37644539614561,Normal,9.753735906661415,65%,0%,13%
+PAT-932,,70.0,Female,Private,Prescribed Metformin for Diabetes,66.37644539614561,Normal,39%,89%,,< 1.2
+P4978,,100.0,Male,nan,ASTHMA - pain observed,35.7,171/84,5.15,9.547726568019355,19%,> 7.6
+H68-7202,,117.0,Female,nan,History of Hypertension; new symptoms: cough,66.37644539614561,102/91,> 5.5,,4.971748137393979,< 0.0
+P5450,,61.0,Male,nan,No notes available,96.1,Normal,,1.6393230795852798,> 6.8,Negative
+P0845,,,Female,nan,Patient presents with nausea. Diagnosed with Diabetes.,66.37644539614561,130/86,< 0.9,3.5545352487609208,94%,Inconclusive
+PATIENT_191,,72.0,Female,Medicare,COPD - fatigue observed,35.7,Normal,37%,4.107281136908756,9.407705737781889,4.590442210278268
+PAT-700,2017-09-03,67.0,Male,Medicare,HYPERTENSION - fatigue observed,36.3,128/88,1.9531194410644759,,12%,1.1584778913079385
+H95-8614,2018-11-17,18.0,Other,nan,ASTHMA - fatigue observed,37.3,Normal,< 3.9,4.89,< 4.2,> 9.5
+PATIENT_981,,29.0,Male,Medicaid,Patient presents with cough. Diagnosed with Asthma.,66.37644539614561,Normal,,Negative,> 7.7,Negative
+PATIENT_119,2020-05-09,88.0,Other,nan,No notes available,99.5,Normal,4.85,0.40,< 1.3,
+H30-6598,,,Male,Medicare,History of Arthritis; new symptoms: cough,102.3,Normal,< 4.5,< 1.3,< 4.9,Negative
+nan,2019-02-06,117.0,Other,nan,No notes available,101.8,164/77,> 6.6,1.9214688773340738,> 7.9,3.18
+H83-4183,,63.0,Female,nan,DIABETES - cough observed,66.37644539614561,Normal,8.885786241924578,> 6.3,Negative,58%
+H86-6633,,115.0,Male,nan,DIABETES - cough observed,96.5,Normal,< 0.2,68%,1.60,23%
+H70-8680,2018-11-17,93.0,Female,nan,COPD - pain observed,104.7,Normal,> 9.7,Inconclusive,0.7324843423553473,
+PAT-977,,,Other,nan,ARTHRITIS - cough observed,66.37644539614561,Normal,,Positive,24%,Negative
+P1396,,56.0,Female,nan,No notes available,96.2,166/66,6.03,83%,Inconclusive,< 2.1
+PATIENT_97,,34.0,Other,Medicaid,History of Diabetes; new symptoms: fever,39.4,Normal,Positive,6.739800207469272,< 2.5,
+P6661,,54.0,Male,nan,Patient presents with cough. Diagnosed with COPD.,66.37644539614561,Normal,,< 0.6,9.81,< 3.0
+P6933,,66.0,Female,nan,No notes available,66.37644539614561,Normal,> 5.3,> 9.8,< 4.3,6.39
+P6996,,,Female,Medicaid,History of COPD; new symptoms: nausea,38.4,Normal,1.43,Negative,> 6.7,< 0.1
+PAT-488,,82.0,Female,Medicare,No notes available,100.0,Normal,Negative,< 4.4,3.44,83%
+H2-6180,,50.0,Male,nan,No notes available,97.4,Normal,,> 6.1,,Positive
+H84-9266,,0.0,Male,nan,Patient presents with cough. Diagnosed with Diabetes.,97.8,Normal,,0.48,26%,Negative
+PAT-226,,109.0,Male,nan,No notes available,39.4,Normal,Positive,< 0.1,4.532063879683919,< 1.7
+P5676,,,Female,Medicare,Prescribed Metformin for Hypertension,39.3,Normal,5.552684153026366,,Positive,15%
+PATIENT_651,,87.0,Male,nan,History of Hypertension; new symptoms: nausea,37.9,Normal,> 9.7,Negative,5.8478318392575614,8.00
+PATIENT_317,,,Male,nan,Patient presents with pain. Diagnosed with Hypertension.,104.6,Normal,9.072665961293865,< 2.7,0.07,> 5.0
+PATIENT_565,,15.0,Other,nan,No notes available,39.3,Normal,7.222396210494134,< 4.4,,9.28
+P0454,,46.0,Male,Medicaid,No notes available,39.7,Normal,35%,1.886800820028024,> 8.6,> 9.3
+PATIENT_423,,10.0,Other,nan,No notes available,36.4,Normal,6.10,2.4765006234737053,Inconclusive,5.504608803230577
+H19-3310,2019-12-09,51.0,Male,Medicaid,Prescribed Aspirin for Asthma,100.0,Normal,> 5.9,,49%,6.991021798921767
+H16-404,,12.0,Male,nan,No notes available,66.37644539614561,Normal,> 8.4,6.28,> 8.5,
+H37-1082,,,Male,Medicaid,History of Arthritis; new symptoms: fever,39.2,118/97,Inconclusive,< 4.4,> 7.2,9.156558907814041
+P2404,,103.0,Male,Private,No notes available,101.9,Normal,Inconclusive,1.6521697075323882,9.532756100623397,3.0815860156317463
+PATIENT_860,,110.0,Male,Medicare,Patient presents with fatigue. Diagnosed with Hypertension.,104.0,Normal,30%,> 5.6,0.9107007025052294,1%
+PAT-426,,90.0,Female,Private,History of Diabetes; new symptoms: cough,38.3,106/66,18%,> 8.7,< 3.7,2.9285312075363326
+P2909,,,Male,Medicare,Patient presents with cough. Diagnosed with Asthma.,37.8,125/63,< 1.4,,< 0.9,27%
+PAT-432,,88.0,Female,Medicare,COPD - cough observed,39.8,104/79,2.4732249825680155,64%,,Negative
+PATIENT_219,,116.0,Female,nan,No notes available,66.37644539614561,Normal,> 7.3,Negative,6.834827916739029,2.0976254952814486
+PATIENT_572,,85.0,Other,nan,No notes available,102.6,Normal,Inconclusive,> 7.9,97%,0%
+H39-208,,3.0,Other,Private,History of Asthma; new symptoms: cough,36.3,Normal,Inconclusive,> 7.1,34%,5.960284437994988
+H10-81,,43.0,Other,nan,No notes available,103.0,Normal,> 6.4,5.6359131482330005,91%,0.67
+H87-4953,,,Other,Private,History of Diabetes; new symptoms: pain,96.9,Normal,77%,> 5.9,< 4.6,< 3.5
+H42-2769,,,Female,Medicaid,Prescribed Ventolin for COPD,38.3,Normal,< 1.3,> 9.3,< 1.9,92%
+PATIENT_147,,87.0,Other,nan,Prescribed Aspirin for Hypertension,66.37644539614561,Normal,Positive,5.637536085806074,> 9.8,5.63
+H81-4401,,16.0,Male,Medicare,Patient presents with fever. Diagnosed with COPD.,103.9,Normal,79%,54%,9.27,2.76
+PATIENT_965,,,Male,nan,COPD - fatigue observed,36.1,Normal,98%,48%,Positive,4.366459033557021
+P9227,,90.0,Other,nan,No notes available,98.7,Normal,6.62,7.485329556469598,> 5.0,39%
+PAT-394,,52.0,Male,Private,Prescribed Aspirin for Diabetes,35.5,Normal,< 2.7,2.5851358226021146,76%,2.4587036347957314
+P7967,2017-05-28,17.0,Female,Private,Patient presents with nausea. Diagnosed with Arthritis.,66.37644539614561,Normal,< 1.2,,,> 9.9
+PAT-395,2018-03-15,74.0,Female,nan,Patient presents with nausea. Diagnosed with Hypertension.,98.2,Normal,> 8.5,,Negative,5.150653352429001
+PAT-817,,93.0,Male,nan,ARTHRITIS - cough observed,66.37644539614561,Normal,Positive,Inconclusive,> 9.1,> 7.7
+P2786,,,Other,nan,Patient presents with fever. Diagnosed with Asthma.,101.6,Normal,,6%,Positive,Inconclusive
+PAT-867,2018-07-05,116.0,Female,nan,ASTHMA - fatigue observed,103.3,Normal,> 9.8,81%,3.15,> 6.8
+PAT-462,,94.0,Other,nan,No notes available,102.9,Normal,0.22097494334060275,< 1.5,14%,> 7.5
+PAT-688,,105.0,Female,nan,No notes available,101.7,Normal,Positive,70%,< 0.1,8.44
+PATIENT_454,,,Other,nan,No notes available,98.9,149/75,< 3.1,2.545123837815355,7.34,7.113890722433509
+H51-2606,2018-07-01,111.0,Male,nan,No notes available,101.7,Normal,0.89,0.77,3%,9.269201681088754
+PAT-618,,27.0,Female,Private,Patient presents with fatigue. Diagnosed with Arthritis.,98.6,Normal,< 3.1,1.0073368547064143,2.41,< 1.1
+P0626,,2.0,Female,nan,Patient presents with nausea. Diagnosed with Hypertension.,101.2,180/70,Negative,90%,1.4040344707666086,Positive
+PATIENT_280,2017-12-18,100.0,Other,nan,ASTHMA - nausea observed,102.0,Normal,4.31,Positive,7.025370076444727,0.7473747344250947
+H29-7340,,64.0,Male,Medicare,ARTHRITIS - pain observed,97.9,Normal,> 9.8,6.167007101729657,33%,21%
+PAT-212,,95.0,Female,nan,No notes available,103.7,Normal,3.4758554929819963,61%,> 5.9,Negative
+H37-2030,2019-12-17,18.0,Female,nan,Patient presents with cough. Diagnosed with COPD.,101.5,154/90,> 8.1,< 0.6,> 8.6,1.11
+PATIENT_696,,,Other,Medicaid,History of Diabetes; new symptoms: nausea,99.8,Normal,,3.009910456033893,Inconclusive,
+PATIENT_757,,17.0,Other,nan,Prescribed Metformin for Arthritis,39.1,Normal,> 5.4,0.2743781884585539,,< 3.0
+PATIENT_820,,,Male,nan,Prescribed Metformin for Arthritis,66.37644539614561,Normal,< 3.0,3.71,,< 4.9
+P2864,,83.0,Male,Medicaid,DIABETES - nausea observed,38.3,Normal,9.626510693001237,8.045902608668873,63%,2.0168948791197714
+PAT-747,,117.0,Other,Private,Prescribed Lisinopril for Arthritis,40.2,Normal,< 4.8,18%,8.765151226486983,< 3.4
+P7291,,119.0,Other,Medicare,History of COPD; new symptoms: fever,40.0,Normal,Inconclusive,< 3.9,42%,Negative
+H73-9316,,73.0,Male,nan,HYPERTENSION - fatigue observed,38.7,Normal,> 5.7,6.75,> 8.7,> 7.2
+H33-5540,,1.0,Female,Medicare,ARTHRITIS - fever observed,39.6,Normal,Inconclusive,> 6.5,0.40141850816459934,Negative
+H38-5868,,64.0,Male,nan,COPD - nausea observed,39.6,150/67,> 9.8,1.732352763608881,> 8.5,Negative
+H81-7499,,35.0,Male,nan,Patient presents with cough. Diagnosed with Hypertension.,39.2,Normal,Negative,,Positive,> 9.9
+P3510,,52.0,Other,nan,Patient presents with cough. Diagnosed with COPD.,101.9,Normal,,73%,43%,> 6.1
+P2268,,,Female,nan,History of COPD; new symptoms: fever,97.4,Normal,Inconclusive,> 6.1,< 2.6,< 1.9
+H18-1926,,107.0,Female,nan,No notes available,66.37644539614561,Normal,1.97,Negative,< 0.3,
+H62-9356,,71.0,Female,nan,No notes available,100.8,Normal,2.1405250542085597,14%,< 2.1,6.82
